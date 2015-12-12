@@ -1,0 +1,1999 @@
+<tr data-item-id="612077202" class="list_item compact odd">
+<td class="listorian">1.</td>
+<td class="name"><a href="/name/nm0251027">Ertem Egilmez</a></td>
+<td class="known_for">Producer, <a href="/title/tt0252487/">Hababam sinifi</a></td>
+<td class="birth_date">18 February 1929</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077275" class="list_item compact even">
+<td class="listorian">2.</td>
+<td class="name"><a href="/name/nm0000041">Akira Kurosawa</a></td>
+<td class="known_for">Writer, <a href="/title/tt0055630/">Yojimbo - O Guarda-Costas</a></td>
+<td class="birth_date">23 March 1910</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077321" class="list_item compact odd">
+<td class="listorian">3.</td>
+<td class="name"><a href="/name/nm0000033">Alfred Hitchcock</a></td>
+<td class="known_for">Director, <a href="/title/tt0054215/">Psicose</a></td>
+<td class="birth_date">13 August 1899</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077372" class="list_item compact even">
+<td class="listorian">4.</td>
+<td class="name"><a href="/name/nm0000005">Ingmar Bergman</a></td>
+<td class="known_for">Writer, <a href="/title/tt0050976/">O S&#xE9;timo Selo</a></td>
+<td class="birth_date">14 July 1918</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077413" class="list_item compact odd">
+<td class="listorian">5.</td>
+<td class="name"><a href="/name/nm0000229">Steven Spielberg</a></td>
+<td class="known_for">Producer, <a href="/title/tt0120815/">O Resgate do Soldado Ryan</a></td>
+<td class="birth_date">18 December 1946</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077600" class="list_item compact even">
+<td class="listorian">6.</td>
+<td class="name"><a href="/name/nm0000697">Billy Wilder</a></td>
+<td class="known_for">Writer, <a href="/title/tt0053291/">Quanto Mais Quente Melhor</a></td>
+<td class="birth_date">22 June 1906</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077614" class="list_item compact odd">
+<td class="listorian">7.</td>
+<td class="name"><a href="/name/nm0634240">Christopher Nolan</a></td>
+<td class="known_for">Writer, <a href="/title/tt0468569/">Batman: O Cavaleiro das Trevas</a></td>
+<td class="birth_date">30 July 1970</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077648" class="list_item compact even">
+<td class="listorian">8.</td>
+<td class="name"><a href="/name/nm0000040">Stanley Kubrick</a></td>
+<td class="known_for">Director, <a href="/title/tt0081505/">O Iluminado</a></td>
+<td class="birth_date">26 July 1928</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077680" class="list_item compact odd">
+<td class="listorian">9.</td>
+<td class="name"><a href="/name/nm0000217">Martin Scorsese</a></td>
+<td class="known_for">Producer, <a href="/title/tt0993846/">O Lobo de Wall Street</a></td>
+<td class="birth_date">17 November 1942</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077715" class="list_item compact even">
+<td class="listorian">10.</td>
+<td class="name"><a href="/name/nm0943758">William Wyler</a></td>
+<td class="known_for">Director, <a href="/title/tt0052618/">Ben-Hur</a></td>
+<td class="birth_date">1 July 1902</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077754" class="list_item compact odd">
+<td class="listorian">11.</td>
+<td class="name"><a href="/name/nm0654868">Yasujirô Ozu</a></td>
+<td class="known_for">Director, <a href="/title/tt0046438/">Era uma Vez em T&#xF3;quio</a></td>
+<td class="birth_date">12 December 1903</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077818" class="list_item compact even">
+<td class="listorian">12.</td>
+<td class="name"><a href="/name/nm0000122">Charles Chaplin</a></td>
+<td class="known_for">Writer, <a href="/title/tt0027977/">Os Tempos Modernos</a></td>
+<td class="birth_date">16 April 1889</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077847" class="list_item compact odd">
+<td class="listorian">13.</td>
+<td class="name"><a href="/name/nm0000233">Quentin Tarantino</a></td>
+<td class="known_for">Writer, <a href="/title/tt0110912/">Pulp Fiction: Tempo de Viol&#xEA;ncia</a></td>
+<td class="birth_date">27 March 1963</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077879" class="list_item compact even">
+<td class="listorian">14.</td>
+<td class="name"><a href="/name/nm0594503">Hayao Miyazaki</a></td>
+<td class="known_for">Director, <a href="/title/tt0245429/">A Viagem de Chihiro</a></td>
+<td class="birth_date">5 January 1941</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077955" class="list_item compact odd">
+<td class="listorian">15.</td>
+<td class="name"><a href="/name/nm0000338">Francis Ford Coppola</a></td>
+<td class="known_for">Producer, <a href="/title/tt0071562/">O Poderoso Chef&#xE3;o II</a></td>
+<td class="birth_date">7 April 1939</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612077977" class="list_item compact even">
+<td class="listorian">16.</td>
+<td class="name"><a href="/name/nm0711745">Mani Ratnam</a></td>
+<td class="known_for">Writer, <a href="/title/tt0112553/">Bumbai</a></td>
+<td class="birth_date">2 June 1956</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078005" class="list_item compact odd">
+<td class="listorian">17.</td>
+<td class="name"><a href="/name/nm0001392">Peter Jackson</a></td>
+<td class="known_for">Producer, <a href="/title/tt0120737/">O Senhor dos An&#xE9;is: A Sociedade do Anel</a></td>
+<td class="birth_date">31 October 1961</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078058" class="list_item compact even">
+<td class="listorian">18.</td>
+<td class="name"><a href="/name/nm0001466">Sergio Leone</a></td>
+<td class="known_for">Writer, <a href="/title/tt0060196/">Tr&#xEA;s Homens em Conflito</a></td>
+<td class="birth_date">3 January 1929</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078088" class="list_item compact odd">
+<td class="listorian">19.</td>
+<td class="name"><a href="/name/nm0000320">Luis Buñuel</a></td>
+<td class="known_for">Writer, <a href="/title/tt0068361/">O Discreto Charme da Burguesia</a></td>
+<td class="birth_date">22 February 1900</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078777" class="list_item compact even">
+<td class="listorian">20.</td>
+<td class="name"><a href="/name/nm0000399">David Fincher</a></td>
+<td class="known_for">Director, <a href="/title/tt0137523/">Clube da Luta</a></td>
+<td class="birth_date">28 August 1962</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078149" class="list_item compact odd">
+<td class="listorian">21.</td>
+<td class="name"><a href="/name/nm0001328">Howard Hawks</a></td>
+<td class="known_for">Director, <a href="/title/tt0038355/">&#xC0; Beira do Abismo</a></td>
+<td class="birth_date">30 May 1896</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078175" class="list_item compact even">
+<td class="listorian">22.</td>
+<td class="name"><a href="/name/nm0000485">Fritz Lang</a></td>
+<td class="known_for">Director, <a href="/title/tt0022100/">M, O Vampiro de Dusseldorf</a></td>
+<td class="birth_date">5 December 1890</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078213" class="list_item compact odd">
+<td class="listorian">23.</td>
+<td class="name"><a href="/name/nm0001486">Sidney Lumet</a></td>
+<td class="known_for">Director, <a href="/title/tt0050083/">12 Homens e uma Senten&#xE7;a</a></td>
+<td class="birth_date">25 June 1924</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078274" class="list_item compact even">
+<td class="listorian">24.</td>
+<td class="name"><a href="/name/nm0001008">Frank Capra</a></td>
+<td class="known_for">Director, <a href="/title/tt0038650/">A Felicidade N&#xE3;o Se Compra</a></td>
+<td class="birth_date">18 May 1897</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078331" class="list_item compact odd">
+<td class="listorian">25.</td>
+<td class="name"><a href="/name/nm0462030">Masaki Kobayashi</a></td>
+<td class="known_for">Director, <a href="/title/tt0056058/">Harakiri</a></td>
+<td class="birth_date">14 February 1916</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078421" class="list_item compact even">
+<td class="listorian">26.</td>
+<td class="name"><a href="/name/nm0002030">George Cukor</a></td>
+<td class="known_for">Director, <a href="/title/tt0058385/">Minha Bela Dama</a></td>
+<td class="birth_date">7 July 1899</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078448" class="list_item compact odd">
+<td class="listorian">27.</td>
+<td class="name"><a href="/name/nm0000406">John Ford</a></td>
+<td class="known_for">Director, <a href="/title/tt0049730/">Rastros de &#xD3;dio</a></td>
+<td class="birth_date">1 February 1894</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078623" class="list_item compact even">
+<td class="listorian">28.</td>
+<td class="name"><a href="/name/nm0000180">David Lean</a></td>
+<td class="known_for">Director, <a href="/title/tt0056172/">Lawrence da Ar&#xE1;bia</a></td>
+<td class="birth_date">25 March 1908</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078656" class="list_item compact odd">
+<td class="listorian">29.</td>
+<td class="name"><a href="/name/nm0000419">Jean-Luc Godard</a></td>
+<td class="known_for">Director, <a href="/title/tt0056663/">Viver a Vida</a></td>
+<td class="birth_date">3 December 1930</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078688" class="list_item compact even">
+<td class="listorian">30.</td>
+<td class="name"><a href="/name/nm0001789">Andrei Tarkovsky</a></td>
+<td class="known_for">Writer, <a href="/title/tt0069293/">Solaris</a></td>
+<td class="birth_date">4 April 1932</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078803" class="list_item compact odd">
+<td class="listorian">31.</td>
+<td class="name"><a href="/name/nm0001415">Elia Kazan</a></td>
+<td class="known_for">Director, <a href="/title/tt0047296/">Sindicato de Ladr&#xF5;es</a></td>
+<td class="birth_date">7 September 1909</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078897" class="list_item compact even">
+<td class="listorian">32.</td>
+<td class="name"><a href="/name/nm0000095">Woody Allen</a></td>
+<td class="known_for">Writer, <a href="/title/tt0075686/">Noivo Neur&#xF3;tico, Noiva Nervosa</a></td>
+<td class="birth_date">1 December 1935</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079089" class="list_item compact odd">
+<td class="listorian">33.</td>
+<td class="name"><a href="/name/nm0000036">Buster Keaton</a></td>
+<td class="known_for">Actor, <a href="/title/tt0017925/">General</a></td>
+<td class="birth_date">4 October 1895</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612078872" class="list_item compact even">
+<td class="listorian">34.</td>
+<td class="name"><a href="/name/nm0000019">Federico Fellini</a></td>
+<td class="known_for">Writer, <a href="/title/tt0056801/">8&#xBD;</a></td>
+<td class="birth_date">20 January 1920</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079185" class="list_item compact odd">
+<td class="listorian">35.</td>
+<td class="name"><a href="/name/nm0006249">Satyajit Ray</a></td>
+<td class="known_for">Writer, <a href="/title/tt0101279/">Agantuk</a></td>
+<td class="birth_date">2 May 1921</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079138" class="list_item compact even">
+<td class="listorian">36.</td>
+<td class="name"><a href="/name/nm0301145">Leonid Gayday</a></td>
+<td class="known_for">Director, <a href="/title/tt0070233/">Ivan Vasilevich menyaet professiyu</a></td>
+<td class="birth_date">30 January 1923</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079234" class="list_item compact odd">
+<td class="listorian">37.</td>
+<td class="name"><a href="/name/nm0002031">Michael Curtiz</a></td>
+<td class="known_for">Director, <a href="/title/tt0034583/">Casablanca</a></td>
+<td class="birth_date">24 December 1886</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079270" class="list_item compact even">
+<td class="listorian">38.</td>
+<td class="name"><a href="/name/nm0000142">Clint Eastwood</a></td>
+<td class="known_for">Actor, <a href="/title/tt0405159/">Menina de Ouro</a></td>
+<td class="birth_date">31 May 1930</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079424" class="list_item compact odd">
+<td class="listorian">39.</td>
+<td class="name"><a href="/name/nm0611531">Hrishikesh Mukherjee</a></td>
+<td class="known_for">Director, <a href="/title/tt0066763/">Anand</a></td>
+<td class="birth_date">30 September 1922</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079302" class="list_item compact even">
+<td class="listorian">40.</td>
+<td class="name"><a href="/name/nm0001379">John Huston</a></td>
+<td class="known_for">Director, <a href="/title/tt0033870/">Rel&#xED;quia Macabra (O Falc&#xE3;o Malt&#xEA;s)</a></td>
+<td class="birth_date">5 August 1906</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079561" class="list_item compact odd">
+<td class="listorian">41.</td>
+<td class="name"><a href="/name/nm0503777">Mervyn LeRoy</a></td>
+<td class="known_for">Director, <a href="/title/tt0048380/">Mister Roberts</a></td>
+<td class="birth_date">15 October 1900</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079610" class="list_item compact even">
+<td class="listorian">42.</td>
+<td class="name"><a href="/name/nm0752922">Eldar Ryazanov</a></td>
+<td class="known_for">Director, <a href="/title/tt0076727/">Sluzhebnyy roman</a></td>
+<td class="birth_date">18 November 1927</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="626798202" class="list_item compact odd">
+<td class="listorian">43.</td>
+<td class="name"><a href="/name/nm0598102">Mario Monicelli</a></td>
+<td class="known_for">Writer, <a href="/title/tt0060125/">O Incr&#xED;vel Ex&#xE9;rcito Brancaleone</a></td>
+<td class="birth_date">15 May 1915</td>
+<td class="created">14 Oct 2014</td>
+</tr>
+
+<tr data-item-id="612079775" class="list_item compact even">
+<td class="listorian">44.</td>
+<td class="name"><a href="/name/nm0896542">King Vidor</a></td>
+<td class="known_for">Director, <a href="/title/tt0049934/">Guerra e Paz</a></td>
+<td class="birth_date">8 February 1894</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079714" class="list_item compact odd">
+<td class="listorian">45.</td>
+<td class="name"><a href="/name/nm0001053">Ethan Coen</a></td>
+<td class="known_for">Producer, <a href="/title/tt0477348/">Onde os Fracos n&#xE3;o T&#xEA;m Vez</a></td>
+<td class="birth_date">21 September 1957</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="626798703" class="list_item compact even">
+<td class="listorian">46.</td>
+<td class="name"><a href="/name/nm0797672">Slobodan Sijan</a></td>
+<td class="known_for">Director, <a href="/title/tt0076276/">Ko to tamo peva</a></td>
+<td class="birth_date">16 November 1946</td>
+<td class="created">14 Oct 2014</td>
+</tr>
+
+<tr data-item-id="612079806" class="list_item compact odd">
+<td class="listorian">47.</td>
+<td class="name"><a href="/name/nm0523932">Ernst Lubitsch</a></td>
+<td class="known_for">Director, <a href="/title/tt0035446/">Ser ou N&#xE3;o Ser</a></td>
+<td class="birth_date">29 January 1892</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079875" class="list_item compact even">
+<td class="listorian">48.</td>
+<td class="name"><a href="/name/nm0000631">Ridley Scott</a></td>
+<td class="known_for">Producer, <a href="/title/tt0083658/">Blade Runner, o Ca&#xE7;ador de Andr&#xF3;ides</a></td>
+<td class="birth_date">30 November 1937</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612079974" class="list_item compact odd">
+<td class="listorian">49.</td>
+<td class="name"><a href="/name/nm0939992">Sam Wood</a></td>
+<td class="known_for">Director, <a href="/title/tt0026778/">Uma Noite na &#xD3;pera</a></td>
+<td class="birth_date">10 July 1883</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080094" class="list_item compact even">
+<td class="listorian">50.</td>
+<td class="name"><a href="/name/nm0899581">Luchino Visconti</a></td>
+<td class="known_for">Director, <a href="/title/tt0054248/">Rocco e Seus Irm&#xE3;os</a></td>
+<td class="birth_date">2 November 1906</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080063" class="list_item compact odd">
+<td class="listorian">51.</td>
+<td class="name"><a href="/name/nm0955443">Yimou Zhang</a></td>
+<td class="known_for">Director, <a href="/title/tt0299977/">Her&#xF3;i</a></td>
+<td class="birth_date">14 November 1951</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080520" class="list_item compact even">
+<td class="listorian">52.</td>
+<td class="name"><a href="/name/nm0003226">Kenji Mizoguchi</a></td>
+<td class="known_for">Director, <a href="/title/tt0046478/">Contos da Lua Vaga</a></td>
+<td class="birth_date">16 May 1898</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080558" class="list_item compact odd">
+<td class="listorian">53.</td>
+<td class="name"><a href="/name/nm0001104">Frank Darabont</a></td>
+<td class="known_for">Writer, <a href="/title/tt0111161/">Um Sonho de Liberdade</a></td>
+<td class="birth_date">28 January 1959</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080007" class="list_item compact even">
+<td class="listorian">54.</td>
+<td class="name"><a href="/name/nm0000500">Richard Linklater</a></td>
+<td class="known_for">Director, <a href="/title/tt0381681/">Antes do P&#xF4;r-do-Sol</a></td>
+<td class="birth_date">30 July 1960</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080615" class="list_item compact odd">
+<td class="listorian">55.</td>
+<td class="name"><a href="/name/nm0000709">Robert Zemeckis</a></td>
+<td class="known_for">Writer, <a href="/title/tt0096874/">De Volta para o Futuro Parte II</a></td>
+<td class="birth_date">14 May 1951</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080288" class="list_item compact even">
+<td class="listorian">56.</td>
+<td class="name"><a href="/name/nm0001437">Emir Kusturica</a></td>
+<td class="known_for">Director, <a href="/title/tt0114787/">Underground - Mentiras de Guerra</a></td>
+<td class="birth_date">24 November 1954</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080639" class="list_item compact odd">
+<td class="listorian">57.</td>
+<td class="name"><a href="/name/nm0000080">Orson Welles</a></td>
+<td class="known_for">Actor, <a href="/title/tt0033467/">Cidad&#xE3;o Kane</a></td>
+<td class="birth_date">6 May 1915</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080254" class="list_item compact even">
+<td class="listorian">58.</td>
+<td class="name"><a href="/name/nm0909825">Raoul Walsh</a></td>
+<td class="known_for">Director, <a href="/title/tt0042041/">F&#xFA;ria Sanguin&#xE1;ria</a></td>
+<td class="birth_date">11 March 1887</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080832" class="list_item compact odd">
+<td class="listorian">59.</td>
+<td class="name"><a href="/name/nm0000591">Roman Polanski</a></td>
+<td class="known_for">Director, <a href="/title/tt0253474/">The Pianist</a></td>
+<td class="birth_date">18 August 1933</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080790" class="list_item compact even">
+<td class="listorian">60.</td>
+<td class="name"><a href="/name/nm0440604">Anurag Kashyap</a></td>
+<td class="known_for">Writer, <a href="/title/tt1954470/">Gangs of Wasseypur</a></td>
+<td class="birth_date">10 September 1972</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081119" class="list_item compact odd">
+<td class="listorian">61.</td>
+<td class="name"><a href="/name/nm0578483">Jean-Pierre Melville</a></td>
+<td class="known_for">Writer, <a href="/title/tt0062229/">O Samurai</a></td>
+<td class="birth_date">20 October 1917</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080948" class="list_item compact even">
+<td class="listorian">62.</td>
+<td class="name"><a href="/name/nm0000116">James Cameron</a></td>
+<td class="known_for">Writer, <a href="/title/tt0090605/">Aliens, O Resgate</a></td>
+<td class="birth_date">16 August 1954</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080704" class="list_item compact odd">
+<td class="listorian">63.</td>
+<td class="name"><a href="/name/nm0000076">François Truffaut</a></td>
+<td class="known_for">Writer, <a href="/title/tt0053198/">Os Incompreendidos</a></td>
+<td class="birth_date">6 February 1932</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080870" class="list_item compact even">
+<td class="listorian">64.</td>
+<td class="name"><a href="/name/nm0001232">Milos Forman</a></td>
+<td class="known_for">Director, <a href="/title/tt0073486/">Um Estranho no Ninho</a></td>
+<td class="birth_date">18 February 1932</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612080971" class="list_item compact odd">
+<td class="listorian">65.</td>
+<td class="name"><a href="/name/nm0003836">Michael Powell</a></td>
+<td class="known_for">Director, <a href="/title/tt0040725/">Os Sapatinhos Vermelhos</a></td>
+<td class="birth_date">30 September 1905</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081009" class="list_item compact even">
+<td class="listorian">66.</td>
+<td class="name"><a href="/name/nm0199381">Georgiy Daneliya</a></td>
+<td class="known_for">Director, <a href="/title/tt0091341/">Kin-dza-dza!</a></td>
+<td class="birth_date">25 August 1930</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="626799333" class="list_item compact odd">
+<td class="listorian">67.</td>
+<td class="name"><a href="/name/nm0080235">Vishal Bhardwaj</a></td>
+<td class="known_for">Composer, <a href="/title/tt3390572/">Haider</a></td>
+<td class="birth_date"></td>
+<td class="created">14 Oct 2014</td>
+</tr>
+
+<tr data-item-id="612081081" class="list_item compact even">
+<td class="listorian">68.</td>
+<td class="name"><a href="/name/nm0001120">Vittorio De Sica</a></td>
+<td class="known_for">Director, <a href="/title/tt0040522/">Ladr&#xF5;es de Bicicletas</a></td>
+<td class="birth_date">7 July 1901</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081146" class="list_item compact odd">
+<td class="listorian">69.</td>
+<td class="name"><a href="/name/nm0947998">Atif Yilmaz</a></td>
+<td class="known_for">Director, <a href="/title/tt0263975/">Selvi boylum, al yazmalim</a></td>
+<td class="birth_date">9 December 1925</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081239" class="list_item compact even">
+<td class="listorian">70.</td>
+<td class="name"><a href="/name/nm0000581">Joseph L. Mankiewicz</a></td>
+<td class="known_for">Writer, <a href="/title/tt0042192/">A Malvada</a></td>
+<td class="birth_date">11 February 1909</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081198" class="list_item compact odd">
+<td class="listorian">71.</td>
+<td class="name"><a href="/name/nm0006703">Zeki Ökten</a></td>
+<td class="known_for">Director, <a href="/title/tt0253997/">&#xC7;&#xF6;p&#xE7;&#xFC;ler Krali</a></td>
+<td class="birth_date">4 August 1941</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081367" class="list_item compact even">
+<td class="listorian">72.</td>
+<td class="name"><a href="/name/nm0920074">William A. Wellman</a></td>
+<td class="known_for">Director, <a href="/title/tt0029606/">Nasce uma Estrela</a></td>
+<td class="birth_date">29 February 1896</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081407" class="list_item compact odd">
+<td class="listorian">73.</td>
+<td class="name"><a href="/name/nm0003638">F.W. Murnau</a></td>
+<td class="known_for">Director, <a href="/title/tt0013442/">Nosferatu</a></td>
+<td class="birth_date">28 December 1888</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081306" class="list_item compact even">
+<td class="listorian">74.</td>
+<td class="name"><a href="/name/nm1410815">Asghar Farhadi</a></td>
+<td class="known_for">Writer, <a href="/title/tt1832382/">A Separa&#xE7;&#xE3;o</a></td>
+<td class="birth_date"></td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="626799673" class="list_item compact odd">
+<td class="listorian">75.</td>
+<td class="name"><a href="/name/nm0828419">George Stevens</a></td>
+<td class="known_for">Director, <a href="/title/tt0049261/">Assim Caminha a Humanidade</a></td>
+<td class="birth_date">18 December 1904</td>
+<td class="created">14 Oct 2014</td>
+</tr>
+
+<tr data-item-id="612081539" class="list_item compact even">
+<td class="listorian">76.</td>
+<td class="name"><a href="/name/nm0868153">Giuseppe Tornatore</a></td>
+<td class="known_for">Writer, <a href="/title/tt0095765/">Cinema Paradiso</a></td>
+<td class="birth_date">27 May 1956</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081604" class="list_item compact odd">
+<td class="listorian">77.</td>
+<td class="name"><a href="/name/nm0719756">Jean Renoir</a></td>
+<td class="known_for">Writer, <a href="/title/tt0028950/">A Grande Ilus&#xE3;o</a></td>
+<td class="birth_date">15 September 1894</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081707" class="list_item compact even">
+<td class="listorian">78.</td>
+<td class="name"><a href="/name/nm0564970">Leo McCarey</a></td>
+<td class="known_for">Director, <a href="/title/tt0050105/">Tarde Demais para Esquecer</a></td>
+<td class="birth_date">3 October 1896</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081804" class="list_item compact odd">
+<td class="listorian">79.</td>
+<td class="name"><a href="/name/nm0877078">Yavuz Turgul</a></td>
+<td class="known_for">Writer, <a href="/title/tt0116231/">O Bandido</a></td>
+<td class="birth_date">5 April 1946</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081836" class="list_item compact even">
+<td class="listorian">80.</td>
+<td class="name"><a href="/name/nm0003593">Fred Zinnemann</a></td>
+<td class="known_for">Director, <a href="/title/tt0044706/">Matar ou Morrer</a></td>
+<td class="birth_date">29 April 1907</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081937" class="list_item compact odd">
+<td class="listorian">81.</td>
+<td class="name"><a href="/name/nm0002545">Preston Sturges</a></td>
+<td class="known_for">Writer, <a href="/title/tt0034240/">Contrastes Humanos</a></td>
+<td class="birth_date">29 August 1898</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081577" class="list_item compact even">
+<td class="listorian">82.</td>
+<td class="name"><a href="/name/nm0002160">Moustapha Akkad</a></td>
+<td class="known_for">Producer, <a href="/title/tt0074896/">Maom&#xE9; - O Mensageiro de Al&#xE1;</a></td>
+<td class="birth_date">1 July 1930</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082040" class="list_item compact odd">
+<td class="listorian">83.</td>
+<td class="name"><a href="/name/nm0386246">Rajkumar Hirani</a></td>
+<td class="known_for">Writer, <a href="/title/tt1187043/">3 Idiotas</a></td>
+<td class="birth_date">20 November 1962</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081978" class="list_item compact even">
+<td class="listorian">84.</td>
+<td class="name"><a href="/name/nm0332539">Edmund Goulding</a></td>
+<td class="known_for">Writer, <a href="/title/tt0020823/">Noivado de Ambi&#xE7;&#xE3;o</a></td>
+<td class="birth_date">20 March 1891</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612081752" class="list_item compact odd">
+<td class="listorian">85.</td>
+<td class="name"><a href="/name/nm0149196">Nuri Bilge Ceylan</a></td>
+<td class="known_for">Director, <a href="/title/tt1827487/">Era uma Vez na Anatolia</a></td>
+<td class="birth_date">26 January 1959</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082138" class="list_item compact even">
+<td class="listorian">86.</td>
+<td class="name"><a href="/name/nm0936404">Robert Wise</a></td>
+<td class="known_for">Director, <a href="/title/tt0059742/">A Novi&#xE7;a Rebelde</a></td>
+<td class="birth_date">10 September 1914</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082344" class="list_item compact odd">
+<td class="listorian">87.</td>
+<td class="name"><a href="/name/nm0000419">Jean-Luc Godard</a></td>
+<td class="known_for">Director, <a href="/title/tt0056663/">Viver a Vida</a></td>
+<td class="birth_date">3 December 1930</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082220" class="list_item compact even">
+<td class="listorian">88.</td>
+<td class="name"><a href="/name/nm0001425">Krzysztof Kieslowski</a></td>
+<td class="known_for">Writer, <a href="/title/tt0111495/">A Fraternidade &#xE9; Vermelha</a></td>
+<td class="birth_date">27 June 1941</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082249" class="list_item compact odd">
+<td class="listorian">89.</td>
+<td class="name"><a href="/name/nm0001661">Rob Reiner</a></td>
+<td class="known_for">Actor, <a href="/title/tt0088258/">Isto &#xC9; Spinal Tap</a></td>
+<td class="birth_date">6 March 1947</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="626799949" class="list_item compact even">
+<td class="listorian">90.</td>
+<td class="name"><a href="/name/nm0001129">Jonathan Demme</a></td>
+<td class="known_for">Director, <a href="/title/tt0102926/">O Sil&#xEA;ncio dos Inocentes</a></td>
+<td class="birth_date">22 February 1944</td>
+<td class="created">14 Oct 2014</td>
+</tr>
+
+<tr data-item-id="612082475" class="list_item compact odd">
+<td class="listorian">91.</td>
+<td class="name"><a href="/name/nm0696247">Emeric Pressburger</a></td>
+<td class="known_for">Writer, <a href="/title/tt0040725/">Os Sapatinhos Vermelhos</a></td>
+<td class="birth_date">5 December 1902</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082120" class="list_item compact even">
+<td class="listorian">92.</td>
+<td class="name"><a href="/name/nm0000975">Robert Bresson</a></td>
+<td class="known_for">Writer, <a href="/title/tt0049902/">Um Condenado &#xE0; Morte Escapou</a></td>
+<td class="birth_date">25 September 1901</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082523" class="list_item compact odd">
+<td class="listorian">93.</td>
+<td class="name"><a href="/name/nm0236729">Srdjan Dragojevic</a></td>
+<td class="known_for">Writer, <a href="/title/tt0116860/">Bela Aldeia, Bela Chama</a></td>
+<td class="birth_date">1 January 1963</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082653" class="list_item compact even">
+<td class="listorian">94.</td>
+<td class="name"><a href="/name/nm0000416">Terry Gilliam</a></td>
+<td class="known_for">Writer, <a href="/title/tt0071853/">Monty Python em Busca do C&#xE1;lice Sagrado</a></td>
+<td class="birth_date">22 November 1940</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082574" class="list_item compact odd">
+<td class="listorian">95.</td>
+<td class="name"><a href="/name/nm0006498">Majid Majidi</a></td>
+<td class="known_for">Director, <a href="/title/tt0118849/">Filhos do Para&#xED;so</a></td>
+<td class="birth_date"></td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082689" class="list_item compact even">
+<td class="listorian">96.</td>
+<td class="name"><a href="/name/nm0881279">Lee Unkrich</a></td>
+<td class="known_for">Editorial Department, <a href="/title/tt0266543/">Procurando Nemo</a></td>
+<td class="birth_date">8 August 1967</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612083905" class="list_item compact odd">
+<td class="listorian">97.</td>
+<td class="name"><a href="/name/nm0764316">Rajkumar Santoshi</a></td>
+<td class="known_for">Writer, <a href="/title/tt0109117/">Andaz Apna Apna</a></td>
+<td class="birth_date"></td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612082784" class="list_item compact even">
+<td class="listorian">98.</td>
+<td class="name"><a href="/name/nm0001202">Rainer Werner Fassbinder</a></td>
+<td class="known_for">Writer, <a href="/title/tt0079095/">O Casamento de Maria Braun</a></td>
+<td class="birth_date">31 May 1945</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612083291" class="list_item compact odd">
+<td class="listorian">99.</td>
+<td class="name"><a href="/name/nm0001501">Louis Malle</a></td>
+<td class="known_for">Director, <a href="/title/tt0092593/">Adeus, Meninos</a></td>
+<td class="birth_date">30 October 1932</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612083484" class="list_item compact even">
+<td class="listorian">100.</td>
+<td class="name"><a href="/name/nm0586482">Nikita Mikhalkov</a></td>
+<td class="known_for">Actor, <a href="/title/tt0111579/">O Sol Enganador</a></td>
+<td class="birth_date">21 October 1945</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612083689" class="list_item compact odd">
+<td class="listorian">101.</td>
+<td class="name"><a href="/name/nm0001023">John Cassavetes</a></td>
+<td class="known_for">Actor, <a href="/title/tt0063522/">O Beb&#xEA; de Rosemary</a></td>
+<td class="birth_date">9 December 1929</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612083410" class="list_item compact even">
+<td class="listorian">102.</td>
+<td class="name"><a href="/name/nm0006452">Stanley Kramer</a></td>
+<td class="known_for">Producer, <a href="/title/tt0055031/">Julgamento em Nuremberg</a></td>
+<td class="birth_date">29 September 1913</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612083782" class="list_item compact odd">
+<td class="listorian">103.</td>
+<td class="name"><a href="/name/nm0850601">Béla Tarr</a></td>
+<td class="known_for">Director, <a href="/title/tt1316540/">O Cavalo de Turin</a></td>
+<td class="birth_date">21 July 1955</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084608" class="list_item compact even">
+<td class="listorian">104.</td>
+<td class="name"><a href="/name/nm0007181">Yash Chopra</a></td>
+<td class="known_for">Producer, <a href="/title/tt0420332/">Veer-Zaara</a></td>
+<td class="birth_date">27 September 1932</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612083981" class="list_item compact odd">
+<td class="listorian">105.</td>
+<td class="name"><a href="/name/nm0000186">David Lynch</a></td>
+<td class="known_for">Writer, <a href="/title/tt0166924/">Cidade dos Sonhos</a></td>
+<td class="birth_date">20 January 1946</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084212" class="list_item compact even">
+<td class="listorian">106.</td>
+<td class="name"><a href="/name/nm0281808">Victor Fleming</a></td>
+<td class="known_for">Director, <a href="/title/tt0032138/">O M&#xE1;gico de Oz</a></td>
+<td class="birth_date">23 February 1889</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612083378" class="list_item compact odd">
+<td class="listorian">107.</td>
+<td class="name"><a href="/name/nm0001348">Werner Herzog</a></td>
+<td class="known_for">Self, <a href="/title/tt0427312/">O Homem Urso</a></td>
+<td class="birth_date">5 September 1942</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084244" class="list_item compact even">
+<td class="listorian">108.</td>
+<td class="name"><a href="/name/nm0000165">Ron Howard</a></td>
+<td class="known_for">Actor, <a href="/title/tt0069704/">Loucura de Ver&#xE3;o</a></td>
+<td class="birth_date">1 March 1954</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612083865" class="list_item compact odd">
+<td class="listorian">109.</td>
+<td class="name"><a href="/name/nm0001741">Bryan Singer</a></td>
+<td class="known_for">Producer, <a href="/title/tt0114814/">Os Suspeitos</a></td>
+<td class="birth_date">17 September 1965</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084133" class="list_item compact even">
+<td class="listorian">110.</td>
+<td class="name"><a href="/name/nm1463981">Çagan Irmak</a></td>
+<td class="known_for">Writer, <a href="/title/tt0476735/">Babam ve oglum</a></td>
+<td class="birth_date">4 April 1970</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084410" class="list_item compact odd">
+<td class="listorian">111.</td>
+<td class="name"><a href="/name/nm0000487">Ang Lee</a></td>
+<td class="known_for">Director, <a href="/title/tt0454876/">As Aventuras de Pi</a></td>
+<td class="birth_date">23 October 1954</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084460" class="list_item compact even">
+<td class="listorian">112.</td>
+<td class="name"><a href="/name/nm0468169">Dusan Kovacevic</a></td>
+<td class="known_for">Writer, <a href="/title/tt0084302/">Maratonci trce pocasni krug</a></td>
+<td class="birth_date">12 July 1948</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084496" class="list_item compact odd">
+<td class="listorian">113.</td>
+<td class="name"><a href="/name/nm0001124">Cecil B. DeMille</a></td>
+<td class="known_for">Producer, <a href="/title/tt0049833/">Os Dez Mandamentos</a></td>
+<td class="birth_date">12 August 1881</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084540" class="list_item compact even">
+<td class="listorian">114.</td>
+<td class="name"><a href="/name/nm0000694">Wim Wenders</a></td>
+<td class="known_for">Director, <a href="/title/tt0093191/">Asas do Desejo</a></td>
+<td class="birth_date">14 August 1945</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084654" class="list_item compact odd">
+<td class="listorian">115.</td>
+<td class="name"><a href="/name/nm0167241">Henri-Georges Clouzot</a></td>
+<td class="known_for">Writer, <a href="/title/tt0046911/">As Diab&#xF3;licas</a></td>
+<td class="birth_date">20 November 1907</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084382" class="list_item compact even">
+<td class="listorian">116.</td>
+<td class="name"><a href="/name/nm0176699">Jack Conway</a></td>
+<td class="known_for">Director, <a href="/title/tt0027884/">Casado com Minha Noiva</a></td>
+<td class="birth_date">17 July 1887</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084950" class="list_item compact odd">
+<td class="listorian">117.</td>
+<td class="name"><a href="/name/nm0000766">Theodoros Angelopoulos</a></td>
+<td class="known_for">Director, <a href="/title/tt0096288/">Paisagem na Neblina</a></td>
+<td class="birth_date">27 April 1935</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084718" class="list_item compact even">
+<td class="listorian">118.</td>
+<td class="name"><a href="/name/nm0744023">Roberto Rossellini</a></td>
+<td class="known_for">Writer, <a href="/title/tt0038890/">Roma, Cidade Aberta</a></td>
+<td class="birth_date">8 May 1906</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084769" class="list_item compact odd">
+<td class="listorian">119.</td>
+<td class="name"><a href="/name/nm0000774">Michelangelo Antonioni</a></td>
+<td class="known_for">Writer, <a href="/title/tt0060176/">Blow-Up - Depois Daquele Beijo</a></td>
+<td class="birth_date">29 September 1912</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084922" class="list_item compact even">
+<td class="listorian">120.</td>
+<td class="name"><a href="/name/nm0695937">Otto Preminger</a></td>
+<td class="known_for">Director, <a href="/title/tt0052561/">Anatomia de um Crime</a></td>
+<td class="birth_date">5 December 1905</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085254" class="list_item compact odd">
+<td class="listorian">121.</td>
+<td class="name"><a href="/name/nm0000265">Robert Altman</a></td>
+<td class="known_for">Director, <a href="/title/tt0280707/">Assassinato em Gosford Park</a></td>
+<td class="birth_date">20 February 1925</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085593" class="list_item compact even">
+<td class="listorian">122.</td>
+<td class="name"><a href="/name/nm0576529">Dariush Mehrjui</a></td>
+<td class="known_for">Director, <a href="/title/tt0099729/">Hamoun</a></td>
+<td class="birth_date">8 December 1939</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085548" class="list_item compact odd">
+<td class="listorian">123.</td>
+<td class="name"><a href="/name/nm0890060">Ram Gopal Varma</a></td>
+<td class="known_for">Producer, <a href="/title/tt0473310/">Ram Gopal Varma Ki Aag</a></td>
+<td class="birth_date">7 April 1962</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085055" class="list_item compact even">
+<td class="listorian">124.</td>
+<td class="name"><a href="/name/nm0030417">Hideaki Anno</a></td>
+<td class="known_for">Director, <a href="/title/tt0169858/">Shin seiki Evangelion Gekij&#xF4;-ban: Air/Magokoro wo, kimi ni</a></td>
+<td class="birth_date">22 May 1960</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085094" class="list_item compact odd">
+<td class="listorian">125.</td>
+<td class="name"><a href="/name/nm0001843">James Whale</a></td>
+<td class="known_for">Director, <a href="/title/tt0021884/">Frankenstein</a></td>
+<td class="birth_date">22 July 1889</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085176" class="list_item compact even">
+<td class="listorian">126.</td>
+<td class="name"><a href="/name/nm0135952">Nae Caranfil</a></td>
+<td class="known_for">Director, <a href="/title/tt0314067/">Filantropica</a></td>
+<td class="birth_date">7 September 1960</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085686" class="list_item compact odd">
+<td class="listorian">127.</td>
+<td class="name"><a href="/name/nm0112218">Richard Brooks</a></td>
+<td class="known_for">Writer, <a href="/title/tt0051459/">Gata em Teto de Zinco Quente</a></td>
+<td class="birth_date">18 May 1912</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085404" class="list_item compact even">
+<td class="listorian">128.</td>
+<td class="name"><a href="/name/nm0939182">Kar Wai Wong</a></td>
+<td class="known_for">Writer, <a href="/title/tt0118694/">Amor &#xE0; Flor da Pele</a></td>
+<td class="birth_date">17 July 1956</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085371" class="list_item compact odd">
+<td class="listorian">129.</td>
+<td class="name"><a href="/name/nm0006445">Eric Rohmer</a></td>
+<td class="known_for">Director, <a href="/title/tt0064612/">Minha Noite Com Ela</a></td>
+<td class="birth_date">4 April 1920</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085451" class="list_item compact even">
+<td class="listorian">130.</td>
+<td class="name"><a href="/name/nm0004716">Darren Aronofsky</a></td>
+<td class="known_for">Director, <a href="/title/tt0180093/">R&#xE9;quiem Para um Sonho</a></td>
+<td class="birth_date">12 February 1969</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085650" class="list_item compact odd">
+<td class="listorian">131.</td>
+<td class="name"><a href="/name/nm0003433">Carl Theodor Dreyer</a></td>
+<td class="known_for">Writer, <a href="/title/tt0019254/">O Mart&#xED;rio de Joana D&#x27;Arc</a></td>
+<td class="birth_date">3 February 1889</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085479" class="list_item compact even">
+<td class="listorian">132.</td>
+<td class="name"><a href="/name/nm0202088">Jules Dassin</a></td>
+<td class="known_for">Director, <a href="/title/tt0048021/">Rififi</a></td>
+<td class="birth_date">18 December 1911</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085788" class="list_item compact odd">
+<td class="listorian">133.</td>
+<td class="name"><a href="/name/nm0684596">Lucian Pintilie</a></td>
+<td class="known_for">Director, <a href="/title/tt0103969/">Balanta</a></td>
+<td class="birth_date">9 November 1933</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085137" class="list_item compact even">
+<td class="listorian">134.</td>
+<td class="name"><a href="/name/nm0903049">Josef von Sternberg</a></td>
+<td class="known_for">Director, <a href="/title/tt0020697/">O Anjo Azul</a></td>
+<td class="birth_date">29 May 1894</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085924" class="list_item compact odd">
+<td class="listorian">135.</td>
+<td class="name"><a href="/name/nm0000466">Jean-Pierre Jeunet</a></td>
+<td class="known_for">Director, <a href="/title/tt0211915/">O Fabuloso Destino de Am&#xE9;lie Poulain</a></td>
+<td class="birth_date">3 September 1953</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612084800" class="list_item compact even">
+<td class="listorian">136.</td>
+<td class="name"><a href="/name/nm0548648">Goran Markovic</a></td>
+<td class="known_for">Director, <a href="/title/tt0105602/">Tito i ja</a></td>
+<td class="birth_date">24 August 1946</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085017" class="list_item compact odd">
+<td class="listorian">137.</td>
+<td class="name"><a href="/name/nm0332950">Ashutosh Gowariker</a></td>
+<td class="known_for">Writer, <a href="/title/tt0169102/">Lagaan: Era uma Vez na &#xCD;ndia</a></td>
+<td class="birth_date">15 February 1964</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612085971" class="list_item compact even">
+<td class="listorian">138.</td>
+<td class="name"><a href="/name/nm0001239">John Frankenheimer</a></td>
+<td class="known_for">Director, <a href="/title/tt0122690/">Ronin</a></td>
+<td class="birth_date">19 February 1930</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086077" class="list_item compact odd">
+<td class="listorian">139.</td>
+<td class="name"><a href="/name/nm0906667">Andrzej Wajda</a></td>
+<td class="known_for">Director, <a href="/title/tt0879843/">Katyn</a></td>
+<td class="birth_date">6 March 1926</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086342" class="list_item compact even">
+<td class="listorian">140.</td>
+<td class="name"><a href="/name/nm0002045">Stanley Donen</a></td>
+<td class="known_for">Director, <a href="/title/tt0045152/">Cantando na Chuva</a></td>
+<td class="birth_date">13 April 1924</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086412" class="list_item compact odd">
+<td class="listorian">141.</td>
+<td class="name"><a href="/name/nm0045800">Lloyd Bacon</a></td>
+<td class="known_for">Director, <a href="/title/tt0024034/">Rua 42</a></td>
+<td class="birth_date">4 December 1889</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086459" class="list_item compact even">
+<td class="listorian">142.</td>
+<td class="name"><a href="/name/nm0593014">Kenji Misumi</a></td>
+<td class="known_for">Director, <a href="/title/tt0068815/">Lobo Solit&#xE1;rio - A Espada da Vingan&#xE7;a</a></td>
+<td class="birth_date">2 March 1921</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086520" class="list_item compact odd">
+<td class="listorian">143.</td>
+<td class="name"><a href="/name/nm0466153">Hirokazu Koreeda</a></td>
+<td class="known_for">Director, <a href="/title/tt1087578/">Andando</a></td>
+<td class="birth_date">6 June 1962</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086614" class="list_item compact even">
+<td class="listorian">144.</td>
+<td class="name"><a href="/name/nm0138893">Marcel Carné</a></td>
+<td class="known_for">Director, <a href="/title/tt0037674/">O Boulevard do Crime</a></td>
+<td class="birth_date">18 August 1906</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086675" class="list_item compact odd">
+<td class="listorian">145.</td>
+<td class="name"><a href="/name/nm0769874">Franklin J. Schaffner</a></td>
+<td class="known_for">Director, <a href="/title/tt0063442/">O Planeta dos Macacos</a></td>
+<td class="birth_date">30 May 1920</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086727" class="list_item compact even">
+<td class="listorian">146.</td>
+<td class="name"><a href="/name/nm0715346">Carol Reed</a></td>
+<td class="known_for">Director, <a href="/title/tt0041959/">O 3&#xBA; Homem</a></td>
+<td class="birth_date">30 December 1906</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086792" class="list_item compact odd">
+<td class="listorian">147.</td>
+<td class="name"><a href="/name/nm0452102">Abbas Kiarostami</a></td>
+<td class="known_for">Writer, <a href="/title/tt1020773/">C&#xF3;pia Fiel</a></td>
+<td class="birth_date">22 June 1940</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086845" class="list_item compact even">
+<td class="listorian">148.</td>
+<td class="name"><a href="/name/nm0001429">Takeshi Kitano</a></td>
+<td class="known_for">Actor, <a href="/title/tt0363226/">Zatoichi</a></td>
+<td class="birth_date">18 January 1947</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086936" class="list_item compact odd">
+<td class="listorian">149.</td>
+<td class="name"><a href="/name/nm0081449">Dragan Bjelogrlic</a></td>
+<td class="known_for">Actor, <a href="/title/tt0116860/">Bela Aldeia, Bela Chama</a></td>
+<td class="birth_date">10 October 1963</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612086987" class="list_item compact even">
+<td class="listorian">150.</td>
+<td class="name"><a href="/name/nm0000318">Tim Burton</a></td>
+<td class="known_for">Producer, <a href="/title/tt0099487/">Edward M&#xE3;os de Tesoura</a></td>
+<td class="birth_date">25 August 1958</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087024" class="list_item compact odd">
+<td class="listorian">151.</td>
+<td class="name"><a href="/name/nm0886754">W.S. Van Dyke</a></td>
+<td class="known_for">Director, <a href="/title/tt0025878/">A Ceia dos Acusados</a></td>
+<td class="birth_date">21 March 1889</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087072" class="list_item compact even">
+<td class="listorian">152.</td>
+<td class="name"><a href="/name/nm0314584">Pietro Germi</a></td>
+<td class="known_for">Writer, <a href="/title/tt0055913/">Div&#xF3;rcio &#xE0; Italiana</a></td>
+<td class="birth_date">14 September 1914</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087114" class="list_item compact odd">
+<td class="listorian">153.</td>
+<td class="name"><a href="/name/nm0000361">Brian De Palma</a></td>
+<td class="known_for">Director, <a href="/title/tt0086250/">Scarface</a></td>
+<td class="birth_date">11 September 1940</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087165" class="list_item compact even">
+<td class="listorian">154.</td>
+<td class="name"><a href="/name/nm0778633">Ettore Scola</a></td>
+<td class="known_for">Writer, <a href="/title/tt0056512/">Aquele Que Sabe Viver</a></td>
+<td class="birth_date">10 May 1931</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087194" class="list_item compact odd">
+<td class="listorian">155.</td>
+<td class="name"><a href="/name/nm0027572">Wes Anderson</a></td>
+<td class="known_for">Director, <a href="/title/tt2278388/">O Grande Hotel Budapeste</a></td>
+<td class="birth_date">1 May 1969</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087245" class="list_item compact even">
+<td class="listorian">156.</td>
+<td class="name"><a href="/name/nm0001351">George Roy Hill</a></td>
+<td class="known_for">Director, <a href="/title/tt0064115/">Butch Cassidy</a></td>
+<td class="birth_date">20 December 1921</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087451" class="list_item compact odd">
+<td class="listorian">157.</td>
+<td class="name"><a href="/name/nm0218547">Zeki Demirkubuz</a></td>
+<td class="known_for">Director, <a href="/title/tt0128332/">Masumiyet</a></td>
+<td class="birth_date">1 October 1964</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087483" class="list_item compact even">
+<td class="listorian">158.</td>
+<td class="name"><a href="/name/nm0005363">Guy Ritchie</a></td>
+<td class="known_for">Director, <a href="/title/tt0208092/">Snatch: Porcos e Diamantes</a></td>
+<td class="birth_date">10 September 1968</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087513" class="list_item compact odd">
+<td class="listorian">159.</td>
+<td class="name"><a href="/name/nm0000953">Peter Bogdanovich</a></td>
+<td class="known_for">Actor, <a href="/title/tt0067328/">A &#xDA;ltima Sess&#xE3;o de Cinema</a></td>
+<td class="birth_date">30 July 1939</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087571" class="list_item compact even">
+<td class="listorian">160.</td>
+<td class="name"><a href="/name/nm0661791">Chan-wook Park</a></td>
+<td class="known_for">Director, <a href="/title/tt0364569/">Oldboy</a></td>
+<td class="birth_date">23 August 1963</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087593" class="list_item compact odd">
+<td class="listorian">161.</td>
+<td class="name"><a href="/name/nm0001402">Terry Jones</a></td>
+<td class="known_for">Writer, <a href="/title/tt0071853/">Monty Python em Busca do C&#xE1;lice Sagrado</a></td>
+<td class="birth_date">1 February 1942</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087651" class="list_item compact even">
+<td class="listorian">162.</td>
+<td class="name"><a href="/name/nm0004056">Andrew Stanton</a></td>
+<td class="known_for">Writer, <a href="/title/tt0266543/">Procurando Nemo</a></td>
+<td class="birth_date">3 December 1965</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087680" class="list_item compact odd">
+<td class="listorian">163.</td>
+<td class="name"><a href="/name/nm0002020">Costa-Gavras</a></td>
+<td class="known_for">Director, <a href="/title/tt0084335/">Desaparecido - Um Grande Mist&#xE9;rio</a></td>
+<td class="birth_date">12 February 1933</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087734" class="list_item compact even">
+<td class="listorian">164.</td>
+<td class="name"><a href="/name/nm0005222">Sam Mendes</a></td>
+<td class="known_for">Director, <a href="/title/tt0169547/">Beleza Americana</a></td>
+<td class="birth_date">1 August 1965</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087769" class="list_item compact odd">
+<td class="listorian">165.</td>
+<td class="name"><a href="/name/nm0000520">Michael Mann</a></td>
+<td class="known_for">Producer, <a href="/title/tt0113277/">Fogo Contra Fogo</a></td>
+<td class="birth_date">5 February 1943</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087814" class="list_item compact even">
+<td class="listorian">166.</td>
+<td class="name"><a href="/name/nm0171443">Nesli Çölgeçen</a></td>
+<td class="known_for">Director, <a href="/title/tt0201368/">Z&#xFC;g&#xFC;rt Aga</a></td>
+<td class="birth_date"></td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087837" class="list_item compact odd">
+<td class="listorian">167.</td>
+<td class="name"><a href="/name/nm0305557">Luis García Berlanga</a></td>
+<td class="known_for">Writer, <a href="/title/tt0057643/">O Carrasco</a></td>
+<td class="birth_date">12 July 1921</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087902" class="list_item compact even">
+<td class="listorian">168.</td>
+<td class="name"><a href="/name/nm0339030">Paul Greengrass</a></td>
+<td class="known_for">Director, <a href="/title/tt0440963/">O Ultimato Bourne</a></td>
+<td class="birth_date">13 August 1955</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087936" class="list_item compact odd">
+<td class="listorian">169.</td>
+<td class="name"><a href="/name/nm0000736">Robert Aldrich</a></td>
+<td class="known_for">Director, <a href="/title/tt0061578/">Os Doze Condenados</a></td>
+<td class="birth_date">9 August 1918</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612087965" class="list_item compact even">
+<td class="listorian">170.</td>
+<td class="name"><a href="/name/nm0190859">Alfonso Cuarón</a></td>
+<td class="known_for">Writer, <a href="/title/tt1454468/">Gravidade</a></td>
+<td class="birth_date">28 November 1961</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088019" class="list_item compact odd">
+<td class="listorian">171.</td>
+<td class="name"><a href="/name/nm0000184">George Lucas</a></td>
+<td class="known_for">Writer, <a href="/title/tt0086190/">O Retorno de Jedi</a></td>
+<td class="birth_date">14 May 1944</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088036" class="list_item compact even">
+<td class="listorian">172.</td>
+<td class="name"><a href="/name/nm0000905">Roberto Benigni</a></td>
+<td class="known_for">Actor, <a href="/title/tt0118799/">A Vida &#xC9; Bela</a></td>
+<td class="birth_date">27 October 1952</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088080" class="list_item compact odd">
+<td class="listorian">173.</td>
+<td class="name"><a href="/name/nm0651900">Mamoru Oshii</a></td>
+<td class="known_for">Director, <a href="/title/tt0113568/">O Fantasma do Futuro</a></td>
+<td class="birth_date">8 August 1951</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088114" class="list_item compact even">
+<td class="listorian">174.</td>
+<td class="name"><a href="/name/nm0793881">Kaneto Shindô</a></td>
+<td class="known_for">Writer, <a href="/title/tt1028532/">Sempre ao Seu Lado</a></td>
+<td class="birth_date">22 April 1912</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088167" class="list_item compact odd">
+<td class="listorian">175.</td>
+<td class="name"><a href="/name/nm0000247">John Woo</a></td>
+<td class="known_for">Director, <a href="/title/tt0119094/">A Outra Face</a></td>
+<td class="birth_date">23 September 1946</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088189" class="list_item compact even">
+<td class="listorian">176.</td>
+<td class="name"><a href="/name/nm0000108">Luc Besson</a></td>
+<td class="known_for">Writer, <a href="/title/tt0119116/">O Quinto Elemento</a></td>
+<td class="birth_date">18 March 1959</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088239" class="list_item compact odd">
+<td class="listorian">177.</td>
+<td class="name"><a href="/name/nm0001351">George Roy Hill</a></td>
+<td class="known_for">Director, <a href="/title/tt0064115/">Butch Cassidy</a></td>
+<td class="birth_date">20 December 1921</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088272" class="list_item compact even">
+<td class="listorian">178.</td>
+<td class="name"><a href="/name/nm0000264">Pedro Almodóvar</a></td>
+<td class="known_for">Writer, <a href="/title/tt0287467/">Fale com Ela</a></td>
+<td class="birth_date">25 September 1949</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088342" class="list_item compact odd">
+<td class="listorian">179.</td>
+<td class="name"><a href="/name/nm0720297">Alain Resnais</a></td>
+<td class="known_for">Director, <a href="/title/tt0052893/">Hiroshima Meu Amor</a></td>
+<td class="birth_date">3 June 1922</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088474" class="list_item compact even">
+<td class="listorian">180.</td>
+<td class="name"><a href="/name/nm0000965">Danny Boyle</a></td>
+<td class="known_for">Director, <a href="/title/tt1010048/">Quem Quer Ser um Milion&#xE1;rio?</a></td>
+<td class="birth_date">20 October 1956</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088503" class="list_item compact odd">
+<td class="listorian">181.</td>
+<td class="name"><a href="/name/nm0803705">Victor Sjöström</a></td>
+<td class="known_for">Director, <a href="/title/tt0012364/">A Carruagem Fantasma</a></td>
+<td class="birth_date">20 September 1879</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088548" class="list_item compact even">
+<td class="listorian">182.</td>
+<td class="name"><a href="/name/nm0349425">Tomás Gutiérrez Alea</a></td>
+<td class="known_for">Director, <a href="/title/tt0106966/">Morango E Chocolate</a></td>
+<td class="birth_date">11 December 1928</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088611" class="list_item compact odd">
+<td class="listorian">183.</td>
+<td class="name"><a href="/name/nm0001885">Lars von Trier</a></td>
+<td class="known_for">Writer, <a href="/title/tt1527186/">Melancolia</a></td>
+<td class="birth_date">30 April 1956</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088638" class="list_item compact even">
+<td class="listorian">184.</td>
+<td class="name"><a href="/name/nm0226189">William Dieterle</a></td>
+<td class="known_for">Director, <a href="/title/tt0029146/">A Vida de Emile Zola</a></td>
+<td class="birth_date">15 July 1893</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088713" class="list_item compact odd">
+<td class="listorian">185.</td>
+<td class="name"><a href="/name/nm0000428">D.W. Griffith</a></td>
+<td class="known_for">Director, <a href="/title/tt0004972/">O Nascimento de Uma Na&#xE7;&#xE3;o</a></td>
+<td class="birth_date">22 January 1875</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088779" class="list_item compact even">
+<td class="listorian">186.</td>
+<td class="name"><a href="/name/nm0905152">Andy Wachowski</a></td>
+<td class="known_for">Writer, <a href="/title/tt0133093/">Matrix</a></td>
+<td class="birth_date">29 December 1967</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088849" class="list_item compact odd">
+<td class="listorian">187.</td>
+<td class="name"><a href="/name/nm1027719">Farhan Akhtar</a></td>
+<td class="known_for">Writer, <a href="/title/tt0292490/">O Que o Cora&#xE7;&#xE3;o Deseja</a></td>
+<td class="birth_date">9 January 1974</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088869" class="list_item compact even">
+<td class="listorian">188.</td>
+<td class="name"><a href="/name/nm0712947">Nicholas Ray</a></td>
+<td class="known_for">Director, <a href="/title/tt0048545/">Juventude Transviada</a></td>
+<td class="birth_date">7 August 1911</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088914" class="list_item compact odd">
+<td class="listorian">189.</td>
+<td class="name"><a href="/name/nm0065442">Jacques Becker</a></td>
+<td class="known_for">Writer, <a href="/title/tt0054407/">A Um Passo da Liberdade</a></td>
+<td class="birth_date">15 September 1906</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612088956" class="list_item compact even">
+<td class="listorian">190.</td>
+<td class="name"><a href="/name/nm0671957">Arthur Penn</a></td>
+<td class="known_for">Director, <a href="/title/tt0061418/">Bonnie e Clyde - Uma Rajada de Balas</a></td>
+<td class="birth_date">27 September 1922</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089013" class="list_item compact odd">
+<td class="listorian">191.</td>
+<td class="name"><a href="/name/nm0579828">Vladimir Menshov</a></td>
+<td class="known_for">Actor, <a href="/title/tt0403358/">Guardi&#xF5;es da Noite</a></td>
+<td class="birth_date">17 September 1939</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089123" class="list_item compact even">
+<td class="listorian">192.</td>
+<td class="name"><a href="/name/nm0856267">Hiroshi Teshigahara</a></td>
+<td class="known_for">Director, <a href="/title/tt0058625/">A Mulher da Areia</a></td>
+<td class="birth_date">28 January 1927</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089165" class="list_item compact odd">
+<td class="listorian">193.</td>
+<td class="name"><a href="/name/nm0001945">Claude Berri</a></td>
+<td class="known_for">Writer, <a href="/title/tt0091288/">Jean de Florette</a></td>
+<td class="birth_date">1 July 1934</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089211" class="list_item compact even">
+<td class="listorian">194.</td>
+<td class="name"><a href="/name/nm0899121">Thomas Vinterberg</a></td>
+<td class="known_for">Self, <a href="/title/tt2106476/">The Hunt</a></td>
+<td class="birth_date">19 May 1969</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089235" class="list_item compact odd">
+<td class="listorian">195.</td>
+<td class="name"><a href="/name/nm0000464">Jim Jarmusch</a></td>
+<td class="known_for">Director, <a href="/title/tt0165798/">Ghost Dog</a></td>
+<td class="birth_date">22 January 1953</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089306" class="list_item compact even">
+<td class="listorian">196.</td>
+<td class="name"><a href="/name/nm0526199">Kátia Lund</a></td>
+<td class="known_for">Director, <a href="/title/tt0317248/">Cidade de Deus</a></td>
+<td class="birth_date"></td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089370" class="list_item compact odd">
+<td class="listorian">197.</td>
+<td class="name"><a href="/name/nm0649097">Max Ophüls</a></td>
+<td class="known_for">Director, <a href="/title/tt0046022/">Desejos Proibidos</a></td>
+<td class="birth_date">6 May 1902</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089460" class="list_item compact even">
+<td class="listorian">198.</td>
+<td class="name"><a href="/name/nm0449984">Irvin Kershner</a></td>
+<td class="known_for">Director, <a href="/title/tt0080684/">O Imp&#xE9;rio Contra-Ataca</a></td>
+<td class="birth_date">29 April 1923</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089504" class="list_item compact odd">
+<td class="listorian">199.</td>
+<td class="name"><a href="/name/nm0005139">Mike Leigh</a></td>
+<td class="known_for">Director, <a href="/title/tt0117589/">Segredos E Mentiras</a></td>
+<td class="birth_date">20 February 1943</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089534" class="list_item compact even">
+<td class="listorian">200.</td>
+<td class="name"><a href="/name/nm0001837">Peter Weir</a></td>
+<td class="known_for">Director, <a href="/title/tt0120382/">O Show de Truman</a></td>
+<td class="birth_date">21 August 1944</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089588" class="list_item compact odd">
+<td class="listorian">201.</td>
+<td class="name"><a href="/name/nm0002120">Lasse Hallström</a></td>
+<td class="known_for">Director, <a href="/title/tt0241303/">Chocolate</a></td>
+<td class="birth_date">2 June 1946</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089650" class="list_item compact even">
+<td class="listorian">202.</td>
+<td class="name"><a href="/name/nm0781292">Edward Sedgwick</a></td>
+<td class="known_for">Director, <a href="/title/tt0018742/">O Homem das Novidades</a></td>
+<td class="birth_date">7 November 1892</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089697" class="list_item compact odd">
+<td class="listorian">203.</td>
+<td class="name"><a href="/name/nm0001532">John McTiernan</a></td>
+<td class="known_for">Director, <a href="/title/tt0095016/">Duro de Matar</a></td>
+<td class="birth_date">8 January 1951</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089728" class="list_item compact even">
+<td class="listorian">204.</td>
+<td class="name"><a href="/name/nm0000759">Paul Thomas Anderson</a></td>
+<td class="known_for">Director, <a href="/title/tt0469494/">Sangue Negro</a></td>
+<td class="birth_date">26 June 1970</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089774" class="list_item compact odd">
+<td class="listorian">205.</td>
+<td class="name"><a href="/name/nm0836328">John Sturges</a></td>
+<td class="known_for">Director, <a href="/title/tt0057115/">Fugindo do Inferno</a></td>
+<td class="birth_date">3 January 1910</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089808" class="list_item compact even">
+<td class="listorian">206.</td>
+<td class="name"><a href="/name/nm0422638">Wen Jiang</a></td>
+<td class="known_for">Actor, <a href="/title/tt0245929/">Guizi lai le</a></td>
+<td class="birth_date">5 January 1963</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089843" class="list_item compact odd">
+<td class="listorian">207.</td>
+<td class="name"><a href="/name/nm0454771">Henry King</a></td>
+<td class="known_for">Director, <a href="/title/tt0041996/">Almas Em Chamas</a></td>
+<td class="birth_date">24 January 1886</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612089962" class="list_item compact even">
+<td class="listorian">208.</td>
+<td class="name"><a href="/name/nm0080235">Vishal Bhardwaj</a></td>
+<td class="known_for">Composer, <a href="/title/tt3390572/">Haider</a></td>
+<td class="birth_date"></td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612090032" class="list_item compact odd">
+<td class="listorian">209.</td>
+<td class="name"><a href="/name/nm0631872">Bozidar 'Bota' Nikolic</a></td>
+<td class="known_for">Cinematographer, <a href="/title/tt0086935/">Balkanski spijun</a></td>
+<td class="birth_date">1 January 1942</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612090115" class="list_item compact even">
+<td class="listorian">210.</td>
+<td class="name"><a href="/name/nm0847223">Isao Takahata</a></td>
+<td class="known_for">Director, <a href="/title/tt0095327/">T&#xFA;mulo dos Vagalumes</a></td>
+<td class="birth_date">29 October 1935</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612090163" class="list_item compact odd">
+<td class="listorian">211.</td>
+<td class="name"><a href="/name/nm0576987">Fernando Meirelles</a></td>
+<td class="known_for">Director, <a href="/title/tt0317248/">Cidade de Deus</a></td>
+<td class="birth_date">9 November 1955</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612090228" class="list_item compact even">
+<td class="listorian">212.</td>
+<td class="name"><a href="/name/nm0408076">Shôhei Imamura</a></td>
+<td class="known_for">Director, <a href="/title/tt0120408/">A Enguia</a></td>
+<td class="birth_date">15 September 1926</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612090245" class="list_item compact odd">
+<td class="listorian">213.</td>
+<td class="name"><a href="/name/nm0001603">Sam Peckinpah</a></td>
+<td class="known_for">Writer, <a href="/title/tt0065214/">Meu &#xD3;dio Ser&#xE1; Sua Heran&#xE7;a</a></td>
+<td class="birth_date">21 February 1925</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612090291" class="list_item compact even">
+<td class="listorian">214.</td>
+<td class="name"><a href="/name/nm0000231">Oliver Stone</a></td>
+<td class="known_for">Director, <a href="/title/tt0091763/">Platoon</a></td>
+<td class="birth_date">15 September 1946</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612090328" class="list_item compact odd">
+<td class="listorian">215.</td>
+<td class="name"><a href="/name/nm0443411">Tony Kaye</a></td>
+<td class="known_for">Director, <a href="/title/tt0120586/">A Outra Hist&#xF3;ria Americana</a></td>
+<td class="birth_date"></td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095104" class="list_item compact even">
+<td class="listorian">216.</td>
+<td class="name"><a href="/name/nm0015570">Orhan Aksoy</a></td>
+<td class="known_for">Director, <a href="/title/tt0765833/">Neseli G&#xFC;nler</a></td>
+<td class="birth_date">10 January 1930</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095219" class="list_item compact odd">
+<td class="listorian">217.</td>
+<td class="name"><a href="/name/nm0024912">Shimit Amin</a></td>
+<td class="known_for">Editorial Department, <a href="/title/tt0133189/">SLC Punk!</a></td>
+<td class="birth_date"></td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095264" class="list_item compact even">
+<td class="listorian">218.</td>
+<td class="name"><a href="/name/nm0557945">Yasuzô Masumura</a></td>
+<td class="known_for">Director, <a href="/title/tt0077463/">Sonezaki shinju</a></td>
+<td class="birth_date">25 August 1924</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095308" class="list_item compact odd">
+<td class="listorian">219.</td>
+<td class="name"><a href="/name/nm0083348">Brad Bird</a></td>
+<td class="known_for">Writer, <a href="/title/tt0382932/">Ratatouille</a></td>
+<td class="birth_date">24 September 1957</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095337" class="list_item compact even">
+<td class="listorian">220.</td>
+<td class="name"><a href="/name/nm0000570">Alan Parker</a></td>
+<td class="known_for">Director, <a href="/title/tt0092563/">Cora&#xE7;&#xE3;o Sat&#xE2;nico</a></td>
+<td class="birth_date">14 February 1944</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095375" class="list_item compact odd">
+<td class="listorian">221.</td>
+<td class="name"><a href="/name/nm0516360">Ken Loach</a></td>
+<td class="known_for">Director, <a href="/title/tt0460989/">Ventos da Liberdade</a></td>
+<td class="birth_date">17 June 1936</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095401" class="list_item compact even">
+<td class="listorian">222.</td>
+<td class="name"><a href="/name/nm0442454">Aki Kaurismäki</a></td>
+<td class="known_for">Writer, <a href="/title/tt0311519/">O Homem Sem Passado</a></td>
+<td class="birth_date">4 April 1957</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095495" class="list_item compact odd">
+<td class="listorian">223.</td>
+<td class="name"><a href="/name/nm0579954">Jirí Menzel</a></td>
+<td class="known_for">Actor, <a href="/title/tt0060802/">Trens Estreitamente Vigiados</a></td>
+<td class="birth_date">23 February 1938</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095800" class="list_item compact even">
+<td class="listorian">224.</td>
+<td class="name"><a href="/name/nm0188669">John Cromwell</a></td>
+<td class="known_for">Director, <a href="/title/tt0025586/">Escravos do Desejo</a></td>
+<td class="birth_date">23 December 1887</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095839" class="list_item compact odd">
+<td class="listorian">225.</td>
+<td class="name"><a href="/name/nm0496969">Chang-dong Lee</a></td>
+<td class="known_for">Writer, <a href="/title/tt1287878/">Poesia</a></td>
+<td class="birth_date">1 April 1954</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095943" class="list_item compact even">
+<td class="listorian">226.</td>
+<td class="name"><a href="/name/nm0001175">Blake Edwards</a></td>
+<td class="known_for">Writer, <a href="/title/tt0063415/">Um Convidado Bem Trapalh&#xE3;o</a></td>
+<td class="birth_date">26 July 1922</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612095970" class="list_item compact odd">
+<td class="listorian">227.</td>
+<td class="name"><a href="/name/nm0006487">Jim Sheridan</a></td>
+<td class="known_for">Director, <a href="/title/tt0107207/">Em Nome do Pai</a></td>
+<td class="birth_date">6 February 1949</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096007" class="list_item compact even">
+<td class="listorian">228.</td>
+<td class="name"><a href="/name/nm0623768">Ronald Neame</a></td>
+<td class="known_for">Director, <a href="/title/tt0069113/">O Destino do Poseidon</a></td>
+<td class="birth_date">23 April 1911</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096093" class="list_item compact odd">
+<td class="listorian">229.</td>
+<td class="name"><a href="/name/nm0000797">Hal Ashby</a></td>
+<td class="known_for">Director, <a href="/title/tt0078841/">Muito Al&#xE9;m do Jardim</a></td>
+<td class="birth_date">2 September 1929</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096643" class="list_item compact even">
+<td class="listorian">230.</td>
+<td class="name"><a href="/name/nm0001178">Sergei M. Eisenstein</a></td>
+<td class="known_for">Director, <a href="/title/tt0015648/">O Encoura&#xE7;ado Potemkin</a></td>
+<td class="birth_date">22 January 1898</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096167" class="list_item compact odd">
+<td class="listorian">231.</td>
+<td class="name"><a href="/name/nm0359734">Michael Haneke</a></td>
+<td class="known_for">Writer, <a href="/title/tt1149362/">A Fita Branca</a></td>
+<td class="birth_date">23 March 1942</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096199" class="list_item compact even">
+<td class="listorian">232.</td>
+<td class="name"><a href="/name/nm0002728">Juan José Campanella</a></td>
+<td class="known_for">Writer, <a href="/title/tt1305806/">O Segredo dos Seus Olhos</a></td>
+<td class="birth_date">19 July 1959</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096251" class="list_item compact odd">
+<td class="listorian">233.</td>
+<td class="name"><a href="/name/nm0002233">Erich von Stroheim</a></td>
+<td class="known_for">Actor, <a href="/title/tt0043014/">Crep&#xFA;sculo dos Deuses</a></td>
+<td class="birth_date">22 September 1885</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096298" class="list_item compact even">
+<td class="listorian">234.</td>
+<td class="name"><a href="/name/nm0001243">William Friedkin</a></td>
+<td class="known_for">Director, <a href="/title/tt0070047/">O Exorcista</a></td>
+<td class="birth_date">29 August 1935</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096342" class="list_item compact odd">
+<td class="listorian">235.</td>
+<td class="name"><a href="/name/nm0591486">Vincente Minnelli</a></td>
+<td class="known_for">Director, <a href="/title/tt0051658/">Gigi</a></td>
+<td class="birth_date">28 February 1903</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096381" class="list_item compact even">
+<td class="listorian">236.</td>
+<td class="name"><a href="/name/nm0001880">Edward Zwick</a></td>
+<td class="known_for">Producer, <a href="/title/tt0325710/">O &#xDA;ltimo Samurai</a></td>
+<td class="birth_date">8 October 1952</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096419" class="list_item compact odd">
+<td class="listorian">237.</td>
+<td class="name"><a href="/name/nm0898288">Denis Villeneuve</a></td>
+<td class="known_for">Director, <a href="/title/tt1392214/">Os Suspeitos</a></td>
+<td class="birth_date">3 October 1967</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096478" class="list_item compact even">
+<td class="listorian">238.</td>
+<td class="name"><a href="/name/nm0948950">Yoshishige Yoshida</a></td>
+<td class="known_for">Director, <a href="/title/tt0055732/">Akitsu onsen</a></td>
+<td class="birth_date">16 February 1933</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096545" class="list_item compact odd">
+<td class="listorian">239.</td>
+<td class="name"><a href="/name/nm0320285">Marco Tullio Giordana</a></td>
+<td class="known_for">Director, <a href="/title/tt0238891/">Os Cem Passos</a></td>
+<td class="birth_date">1 October 1950</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096586" class="list_item compact even">
+<td class="listorian">240.</td>
+<td class="name"><a href="/name/nm0796923">Don Siegel</a></td>
+<td class="known_for">Director, <a href="/title/tt0066999/">Perseguidor Implac&#xE1;vel</a></td>
+<td class="birth_date">26 October 1912</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096820" class="list_item compact odd">
+<td class="listorian">241.</td>
+<td class="name"><a href="/name/nm0664607">Goran Paskaljevic</a></td>
+<td class="known_for">Director, <a href="/title/tt0169145/">Barril de P&#xF3;lvora</a></td>
+<td class="birth_date">22 April 1947</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096918" class="list_item compact even">
+<td class="listorian">242.</td>
+<td class="name"><a href="/name/nm1167933">Damián Szifrón</a></td>
+<td class="known_for">Writer, <a href="/title/tt3011894/">Relatos Selvagens</a></td>
+<td class="birth_date">9 July 1975</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096954" class="list_item compact odd">
+<td class="listorian">243.</td>
+<td class="name"><a href="/name/nm0001408">Shekhar Kapur</a></td>
+<td class="known_for">Director, <a href="/title/tt0127536/">Elizabeth</a></td>
+<td class="birth_date">6 December 1945</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612096999" class="list_item compact even">
+<td class="listorian">244.</td>
+<td class="name"><a href="/name/nm1104118">Ki-duk Kim</a></td>
+<td class="known_for">Writer, <a href="/title/tt0374546/">Primavera, Ver&#xE3;o, Outono, Inverno... E Primavera</a></td>
+<td class="birth_date">20 December 1960</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612097020" class="list_item compact odd">
+<td class="listorian">245.</td>
+<td class="name"><a href="/name/nm0000490">Spike Lee</a></td>
+<td class="known_for">Director, <a href="/title/tt0104797/">Malcolm X</a></td>
+<td class="birth_date">20 March 1957</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612097063" class="list_item compact even">
+<td class="listorian">246.</td>
+<td class="name"><a href="/name/nm0945282">Yôji Yamada</a></td>
+<td class="known_for">Writer, <a href="/title/tt0351817/">O Samurai do Entardecer</a></td>
+<td class="birth_date">13 September 1931</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612097087" class="list_item compact odd">
+<td class="listorian">247.</td>
+<td class="name"><a href="/name/nm0015359">Fatih Akin</a></td>
+<td class="known_for">Director, <a href="/title/tt0347048/">Contra a Parede</a></td>
+<td class="birth_date">25 August 1973</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612097139" class="list_item compact even">
+<td class="listorian">248.</td>
+<td class="name"><a href="/name/nm0015091">Serdar Akar</a></td>
+<td class="known_for">Director, <a href="/title/tt0200654/">Gemide</a></td>
+<td class="birth_date"></td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612097219" class="list_item compact odd">
+<td class="listorian">249.</td>
+<td class="name"><a href="/name/nm0945981">Edward Yang</a></td>
+<td class="known_for">Writer, <a href="/title/tt0244316/">As Coisas Simples da Vida</a></td>
+<td class="birth_date">6 November 1947</td>
+<td class="created">17 Sep 2014</td>
+</tr>
+
+<tr data-item-id="612097285" class="list_item compact even">
+<td class="listorian">250.</td>
+<td class="name"><a href="/name/nm0435563">Mikhail Kalatozov</a></td>
+<td class="known_for">Director, <a href="/title/tt0050634/">Quando Voam as Cegonhas</a></td>
+<td class="birth_date">28 December 1903</td>
+<td class="created">17 Sep 2014</td>
+</tr>
