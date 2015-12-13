@@ -9,7 +9,11 @@ $.getJSON("js/listMovieDirectors.json", function (data){
             .showDistX(false)
             .showDistY(false)
             .duration(300)
-            .color(d3.scale.category10().range());
+        //color =
+            .color(
+            d3.scale.ordinal()
+
+            .range(["#991824"]));
 
         chart.dispatch.on('renderEnd', function(){
             console.log('render complete');

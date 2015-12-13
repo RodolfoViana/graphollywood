@@ -20,6 +20,7 @@
 }
 .mh-menu li:hover a{
 	color: rgba(255,255,255, 1);
+	text-decoration: none;
 }
 .mh-menu li a span{
 	display:block;
