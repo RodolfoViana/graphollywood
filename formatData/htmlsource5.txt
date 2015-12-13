@@ -1,0 +1,1999 @@
+<tr data-item-id="1968259" class="list_item compact odd">
+<td class="listorian">1.</td>
+<td class="name"><a href="/name/nm0000254">Isabelle Adjani</a></td>
+<td class="known_for">Actress, <a href="/title/tt0110963/">A Ra&#xED;nha Margot</a></td>
+<td class="birth_date">27 June 1955</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968264" class="list_item compact even">
+<td class="listorian">2.</td>
+<td class="name"><a href="/name/nm0968541">Oksana Akinshina</a></td>
+<td class="known_for">Actress, <a href="/title/tt0300140/">Para Sempre Lilya</a></td>
+<td class="birth_date">19 April 1987</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968269" class="list_item compact odd">
+<td class="listorian">3.</td>
+<td class="name"><a href="/name/nm0000737">Jane Alexander</a></td>
+<td class="known_for">Actress, <a href="/title/tt0298130/">O Chamado</a></td>
+<td class="birth_date">28 October 1939</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968274" class="list_item compact even">
+<td class="listorian">4.</td>
+<td class="name"><a href="/name/nm0000744">Maria Conchita Alonso</a></td>
+<td class="known_for">Actress, <a href="/title/tt0093894/">O Sobrevivente</a></td>
+<td class="birth_date">29 June 1957</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968277" class="list_item compact odd">
+<td class="listorian">5.</td>
+<td class="name"><a href="/name/nm0000761">Bibi Andersson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0060827/">Quando Duas Mulheres Pecam</a></td>
+<td class="birth_date">11 November 1935</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968280" class="list_item compact even">
+<td class="listorian">6.</td>
+<td class="name"><a href="/name/nm0000096">Gillian Anderson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120902/">Arquivo X: O Filme</a></td>
+<td class="birth_date">9 August 1968</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968283" class="list_item compact odd">
+<td class="listorian">7.</td>
+<td class="name"><a href="/name/nm0000267">Julie Andrews</a></td>
+<td class="known_for">Actress, <a href="/title/tt0059742/">A Novi&#xE7;a Rebelde</a></td>
+<td class="birth_date">1 October 1935</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968299" class="list_item compact even">
+<td class="listorian">8.</td>
+<td class="name"><a href="/name/nm0000268">Ann-Margret</a></td>
+<td class="known_for">Actress, <a href="/title/tt0107050/">Dois Velhos Rabugentos</a></td>
+<td class="birth_date">28 April 1941</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968303" class="list_item compact odd">
+<td class="listorian">9.</td>
+<td class="name"><a href="/name/nm0000769">Susan Anspach</a></td>
+<td class="known_for">Actress, <a href="/title/tt0065724/">Cada Um Vive Como Quer</a></td>
+<td class="birth_date">23 November 1942</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968306" class="list_item compact even">
+<td class="listorian">10.</td>
+<td class="name"><a href="/name/nm0000795">Jean Arthur</a></td>
+<td class="known_for">Actress, <a href="/title/tt0031679/">A Mulher Faz o Homem</a></td>
+<td class="birth_date">17 October 1900</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968323" class="list_item compact odd">
+<td class="listorian">11.</td>
+<td class="name"><a href="/name/nm0038449">Ariane Ascaride</a></td>
+<td class="known_for">Actress, <a href="/title/tt0119620/">Marius E Jeannette</a></td>
+<td class="birth_date">10 October 1954</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1968328" class="list_item compact even">
+<td class="listorian">12.</td>
+<td class="name"><a href="/name/nm0044535">Sabine Azéma</a></td>
+<td class="known_for">Actress, <a href="/title/tt0498120/">Medos Privados em Lugares P&#xFA;blicos</a></td>
+<td class="birth_date">20 September 1949</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977571" class="list_item compact odd">
+<td class="listorian">13.</td>
+<td class="name"><a href="/name/nm0004647">Carroll Baker</a></td>
+<td class="known_for">Actress, <a href="/title/tt0119174/">Vidas em Jogo</a></td>
+<td class="birth_date">28 May 1931</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977581" class="list_item compact even">
+<td class="listorian">14.</td>
+<td class="name"><a href="/name/nm0001929">Josiane Balasko</a></td>
+<td class="known_for">Actress, <a href="/title/tt0113149/">Uma Cama Para Tr&#xEA;s</a></td>
+<td class="birth_date">15 April 1950</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977596" class="list_item compact odd">
+<td class="listorian">15.</td>
+<td class="name"><a href="/name/nm0000843">Anne Bancroft</a></td>
+<td class="known_for">Actress, <a href="/title/tt0061722/">A Primeira Noite de um Homem</a></td>
+<td class="birth_date">17 September 1931</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977607" class="list_item compact even">
+<td class="listorian">16.</td>
+<td class="name"><a href="/name/nm0000845">Tallulah Bankhead</a></td>
+<td class="known_for">Actress, <a href="/title/tt0037017/">Um Barco e Nove Destinos</a></td>
+<td class="birth_date">31 January 1902</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977612" class="list_item compact odd">
+<td class="listorian">17.</td>
+<td class="name"><a href="/name/nm0000882">Nathalie Baye</a></td>
+<td class="known_for">Actress, <a href="/title/tt0264464/">Prenda-me Se For Capaz</a></td>
+<td class="birth_date">6 July 1948</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977664" class="list_item compact even">
+<td class="listorian">18.</td>
+<td class="name"><a href="/name/nm0000322">Emmanuelle Béart</a></td>
+<td class="known_for">Actress, <a href="/title/tt0117060/">Miss&#xE3;o: Imposs&#xED;vel</a></td>
+<td class="birth_date">14 August 1963</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977671" class="list_item compact odd">
+<td class="listorian">19.</td>
+<td class="name"><a href="/name/nm0000006">Ingrid Bergman</a></td>
+<td class="known_for">Actress, <a href="/title/tt0034583/">Casablanca</a></td>
+<td class="birth_date">29 August 1915</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977703" class="list_item compact even">
+<td class="listorian">20.</td>
+<td class="name"><a href="/name/nm0077622">Marilou Berry</a></td>
+<td class="known_for">Actress, <a href="/title/tt0374583/">Quest&#xE3;o de Imagem</a></td>
+<td class="birth_date">1 February 1983</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977716" class="list_item compact odd">
+<td class="listorian">21.</td>
+<td class="name"><a href="/name/nm0000302">Jacqueline Bisset</a></td>
+<td class="known_for">Actress, <a href="/title/tt0062765/">Bullitt</a></td>
+<td class="birth_date">13 September 1944</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977720" class="list_item compact even">
+<td class="listorian">22.</td>
+<td class="name"><a href="/name/nm0000950">Brenda Blethyn</a></td>
+<td class="known_for">Actress, <a href="/title/tt0783233/">Desejo e Repara&#xE7;&#xE3;o</a></td>
+<td class="birth_date">20 February 1946</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977767" class="list_item compact odd">
+<td class="listorian">23.</td>
+<td class="name"><a href="/name/nm0093030">Florinda Bolkan</a></td>
+<td class="known_for">Actress, <a href="/title/tt0065889/">Investiga&#xE7;&#xE3;o Sobre um Cidad&#xE3;o Acima de Qualquer Suspeita</a></td>
+<td class="birth_date">15 February 1941</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977775" class="list_item compact even">
+<td class="listorian">24.</td>
+<td class="name"><a href="/name/nm0094135">Beulah Bondi</a></td>
+<td class="known_for">Actress, <a href="/title/tt0038650/">A Felicidade N&#xE3;o Se Compra</a></td>
+<td class="birth_date">3 May 1889</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977779" class="list_item compact odd">
+<td class="listorian">25.</td>
+<td class="name"><a href="/name/nm0094789">Sandrine Bonnaire</a></td>
+<td class="known_for">Actress, <a href="/title/tt0089960/">Os Renegados</a></td>
+<td class="birth_date">31 May 1967</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977837" class="list_item compact even">
+<td class="listorian">26.</td>
+<td class="name"><a href="/name/nm0000315">Louise Brooks</a></td>
+<td class="known_for">Actress, <a href="/title/tt0018737/">A Caixa de Pandora</a></td>
+<td class="birth_date">14 November 1906</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977870" class="list_item compact odd">
+<td class="listorian">27.</td>
+<td class="name"><a href="/name/nm0000995">Ellen Burstyn</a></td>
+<td class="known_for">Actress, <a href="/title/tt0816692/">Interestelar</a></td>
+<td class="birth_date">7 December 1932</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977889" class="list_item compact even">
+<td class="listorian">28.</td>
+<td class="name"><a href="/name/nm0141380">Margit Carstensen</a></td>
+<td class="known_for">Actress, <a href="/title/tt0068278/">As L&#xE1;grimas Amargas de Petra von Kant</a></td>
+<td class="birth_date">29 February 1940</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977903" class="list_item compact odd">
+<td class="listorian">29.</td>
+<td class="name"><a href="/name/nm0000330">Stockard Channing</a></td>
+<td class="known_for">Actress, <a href="/title/tt0077631/">Grease: Nos Tempos da Brilhantina</a></td>
+<td class="birth_date">13 February 1944</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977914" class="list_item compact even">
+<td class="listorian">30.</td>
+<td class="name"><a href="/name/nm0001036">Geraldine Chaplin</a></td>
+<td class="known_for">Actress, <a href="/title/tt0103939/">Chaplin</a></td>
+<td class="birth_date">31 July 1944</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977920" class="list_item compact odd">
+<td class="listorian">31.</td>
+<td class="name"><a href="/name/nm0155098">Tsilla Chelton</a></td>
+<td class="known_for">Actress, <a href="/title/tt0100747/">Tia Danielle - Perversa e Perigosa</a></td>
+<td class="birth_date">21 June 1919</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977933" class="list_item compact even">
+<td class="listorian">32.</td>
+<td class="name"><a href="/name/nm0001041">Maggie Cheung</a></td>
+<td class="known_for">Actress, <a href="/title/tt0118694/">Amor &#xE0; Flor da Pele</a></td>
+<td class="birth_date">20 September 1964</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985163" class="list_item compact odd">
+<td class="listorian">33.</td>
+<td class="name"><a href="/name/nm0001046">Julie Christie</a></td>
+<td class="known_for">Actress, <a href="/title/tt0059113/">Doutor Jivago</a></td>
+<td class="birth_date">14 April 1941</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985230" class="list_item compact even">
+<td class="listorian">34.</td>
+<td class="name"><a href="/name/nm0001049">Jill Clayburgh</a></td>
+<td class="known_for">Actress, <a href="/title/tt1478338/">Miss&#xE3;o Madrinha de Casamento</a></td>
+<td class="birth_date">30 April 1944</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977976" class="list_item compact odd">
+<td class="listorian">35.</td>
+<td class="name"><a href="/name/nm0000335">Glenn Close</a></td>
+<td class="known_for">Actress, <a href="/title/tt2015381/">Guardi&#xF5;es da Gal&#xE1;xia</a></td>
+<td class="birth_date">19 March 1947</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1977989" class="list_item compact even">
+<td class="listorian">36.</td>
+<td class="name"><a href="/name/nm0001055">Claudette Colbert</a></td>
+<td class="known_for">Actress, <a href="/title/tt0025316/">Aconteceu Naquela Noite</a></td>
+<td class="birth_date">13 September 1903</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978008" class="list_item compact odd">
+<td class="listorian">37.</td>
+<td class="name"><a href="/name/nm0001057">Toni Collette</a></td>
+<td class="known_for">Actress, <a href="/title/tt0167404/">O Sexto Sentido</a></td>
+<td class="birth_date">1 November 1972</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978019" class="list_item compact even">
+<td class="listorian">38.</td>
+<td class="name"><a href="/name/nm0185635">Ruth Cracknell</a></td>
+<td class="known_for">Actress, <a href="/title/tt0113658/">Nunca &#xC9; Tarde Para Amar</a></td>
+<td class="birth_date">6 July 1925</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978035" class="list_item compact odd">
+<td class="listorian">39.</td>
+<td class="name"><a href="/name/nm0001076">Joan Crawford</a></td>
+<td class="known_for">Actress, <a href="/title/tt0037913/">Alma em Supl&#xED;cio</a></td>
+<td class="birth_date">23 March 1905</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978089" class="list_item compact even">
+<td class="listorian">40.</td>
+<td class="name"><a href="/name/nm0189093">Henrietta Crosman</a></td>
+<td class="known_for">Actress, <a href="/title/tt0024453/">Peregrina&#xE7;&#xE3;o</a></td>
+<td class="birth_date">2 September 1861</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978094" class="list_item compact odd">
+<td class="listorian">41.</td>
+<td class="name"><a href="/name/nm0001080">Lindsay Crouse</a></td>
+<td class="known_for">Actress, <a href="/title/tt0140352/">O Informante</a></td>
+<td class="birth_date">12 May 1948</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978101" class="list_item compact even">
+<td class="listorian">42.</td>
+<td class="name"><a href="/name/nm0004851">Penélope Cruz</a></td>
+<td class="known_for">Actress, <a href="/title/tt1298650/">Piratas do Caribe: Navegando em &#xC1;guas Misteriosas</a></td>
+<td class="birth_date">28 April 1974</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978107" class="list_item compact odd">
+<td class="listorian">43.</td>
+<td class="name"><a href="/name/nm0000130">Jamie Lee Curtis</a></td>
+<td class="known_for">Actress, <a href="/title/tt0111503/">True Lies</a></td>
+<td class="birth_date">22 November 1958</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978112" class="list_item compact even">
+<td class="listorian">44.</td>
+<td class="name"><a href="/name/nm0000132">Claire Danes</a></td>
+<td class="known_for">Actress, <a href="/title/tt1278469/">Temple Grandin</a></td>
+<td class="birth_date">12 April 1979</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978121" class="list_item compact odd">
+<td class="listorian">45.</td>
+<td class="name"><a href="/name/nm0203836">Marion Davies</a></td>
+<td class="known_for">Actress, <a href="/title/tt0019379/">Fazendo Fita</a></td>
+<td class="birth_date">3 January 1897</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978147" class="list_item compact even">
+<td class="listorian">46.</td>
+<td class="name"><a href="/name/nm0000012">Bette Davis</a></td>
+<td class="known_for">Actress, <a href="/title/tt0042192/">A Malvada</a></td>
+<td class="birth_date">5 April 1908</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978176" class="list_item compact odd">
+<td class="listorian">47.</td>
+<td class="name"><a href="/name/nm0001114">Judy Davis</a></td>
+<td class="known_for">Actress, <a href="/title/tt1859650/">Para Roma, com Amor</a></td>
+<td class="birth_date">23 April 1955</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978208" class="list_item compact even">
+<td class="listorian">48.</td>
+<td class="name"><a href="/name/nm0205423">Sammi Davis</a></td>
+<td class="known_for">Actress, <a href="/title/tt0113101/">Grand Hotel</a></td>
+<td class="birth_date">21 June 1964</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978240" class="list_item compact odd">
+<td class="listorian">49.</td>
+<td class="name"><a href="/name/nm0000014">Olivia de Havilland</a></td>
+<td class="known_for">Actress, <a href="/title/tt0029843/">As Aventuras de Robin Hood</a></td>
+<td class="birth_date">1 July 1916</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978272" class="list_item compact even">
+<td class="listorian">50.</td>
+<td class="name"><a href="/name/nm0000365">Julie Delpy</a></td>
+<td class="known_for">Actress, <a href="/title/tt0381681/">Antes do P&#xF4;r-do-Sol</a></td>
+<td class="birth_date">21 December 1969</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978275" class="list_item compact odd">
+<td class="listorian">51.</td>
+<td class="name"><a href="/name/nm0001132">Judi Dench</a></td>
+<td class="known_for">Actress, <a href="/title/tt1074638/">007 - Opera&#xE7;&#xE3;o Skyfall</a></td>
+<td class="birth_date">9 December 1934</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978279" class="list_item compact even">
+<td class="listorian">52.</td>
+<td class="name"><a href="/name/nm0000366">Catherine Deneuve</a></td>
+<td class="known_for">Actress, <a href="/title/tt0168629/">Dan&#xE7;ando no Escuro</a></td>
+<td class="birth_date">22 October 1943</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978293" class="list_item compact odd">
+<td class="listorian">53.</td>
+<td class="name"><a href="/name/nm0000368">Laura Dern</a></td>
+<td class="known_for">Actress, <a href="/title/tt0107290/">Jurassic Park: O Parque dos Dinossauros</a></td>
+<td class="birth_date">10 February 1967</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978300" class="list_item compact even">
+<td class="listorian">54.</td>
+<td class="name"><a href="/name/nm0222922">Emmanuelle Devos</a></td>
+<td class="known_for">Actress, <a href="/title/tt1035736/">Coco Antes de Chanel</a></td>
+<td class="birth_date">10 May 1964</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978307" class="list_item compact odd">
+<td class="listorian">55.</td>
+<td class="name"><a href="/name/nm0000017">Marlene Dietrich</a></td>
+<td class="known_for">Soundtrack, <a href="/title/tt0051201/">Testemunha de Acusa&#xE7;&#xE3;o</a></td>
+<td class="birth_date">27 December 1901</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978324" class="list_item compact even">
+<td class="listorian">56.</td>
+<td class="name"><a href="/name/nm0237597">Marie Dressler</a></td>
+<td class="known_for">Actress, <a href="/title/tt0023948/">Jantar &#xE0;s Oito</a></td>
+<td class="birth_date">9 November 1868</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978342" class="list_item compact odd">
+<td class="listorian">57.</td>
+<td class="name"><a href="/name/nm0242041">Mary Duncan</a></td>
+<td class="known_for">Actress, <a href="/title/tt0020768/">O P&#xE3;o Nosso de Cada Dia</a></td>
+<td class="birth_date">13 August 1895</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978347" class="list_item compact even">
+<td class="listorian">58.</td>
+<td class="name"><a href="/name/nm0001159">Faye Dunaway</a></td>
+<td class="known_for">Actress, <a href="/title/tt0071315/">Chinatown</a></td>
+<td class="birth_date">14 January 1941</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978354" class="list_item compact odd">
+<td class="listorian">59.</td>
+<td class="name"><a href="/name/nm0002050">Irene Dunne</a></td>
+<td class="known_for">Actress, <a href="/title/tt0034012/">Serenata Prateada</a></td>
+<td class="birth_date">20 December 1898</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978383" class="list_item compact even">
+<td class="listorian">60.</td>
+<td class="name"><a href="/name/nm0001167">Shelley Duvall</a></td>
+<td class="known_for">Actress, <a href="/title/tt0081505/">O Iluminado</a></td>
+<td class="birth_date">7 July 1949</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978403" class="list_item compact odd">
+<td class="listorian">61.</td>
+<td class="name"><a href="/name/nm0002059">Lisa Eichhorn</a></td>
+<td class="known_for">Actress, <a href="/title/tt2194499/">Quest&#xE3;o de Tempo</a></td>
+<td class="birth_date">4 February 1952</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978413" class="list_item compact even">
+<td class="listorian">62.</td>
+<td class="name"><a href="/name/nm0266029">Maria Falconetti</a></td>
+<td class="known_for">Actress, <a href="/title/tt0019254/">O Mart&#xED;rio de Joana D&#x27;Arc</a></td>
+<td class="birth_date">21 July 1892</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978513" class="list_item compact odd">
+<td class="listorian">63.</td>
+<td class="name"><a href="/name/nm2992228">Nisreen Faour</a></td>
+<td class="known_for">Actress, <a href="/title/tt1190858/">Amreeka</a></td>
+<td class="birth_date"></td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978518" class="list_item compact even">
+<td class="listorian">64.</td>
+<td class="name"><a href="/name/nm0001201">Mia Farrow</a></td>
+<td class="known_for">Actress, <a href="/title/tt0063522/">O Beb&#xEA; de Rosemary</a></td>
+<td class="birth_date">9 February 1945</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978555" class="list_item compact odd">
+<td class="listorian">65.</td>
+<td class="name"><a href="/name/nm0000398">Sally Field</a></td>
+<td class="known_for">Actress, <a href="/title/tt0109830/">Forrest Gump: O Contador de Hist&#xF3;rias</a></td>
+<td class="birth_date">6 November 1946</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978561" class="list_item compact even">
+<td class="listorian">66.</td>
+<td class="name"><a href="/name/nm0276247">Gracie Fields</a></td>
+<td class="known_for">Soundtrack, <a href="/title/tt0120630/">A Fuga das Galinhas</a></td>
+<td class="birth_date">9 January 1898</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978570" class="list_item compact odd">
+<td class="listorian">67.</td>
+<td class="name"><a href="/name/nm0282630">Sheila Florance</a></td>
+<td class="known_for">Actress, <a href="/title/tt0079501/">Mad Max</a></td>
+<td class="birth_date">24 July 1916</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978574" class="list_item compact even">
+<td class="listorian">68.</td>
+<td class="name"><a href="/name/nm0000404">Jane Fonda</a></td>
+<td class="known_for">Actress, <a href="/title/tt0080319/">Como Eliminar Seu Chefe</a></td>
+<td class="birth_date">21 December 1937</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978579" class="list_item compact odd">
+<td class="listorian">69.</td>
+<td class="name"><a href="/name/nm0000021">Joan Fontaine</a></td>
+<td class="known_for">Actress, <a href="/title/tt0032976/">Rebecca, A Mulher Inesquec&#xED;vel</a></td>
+<td class="birth_date">22 October 1917</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978586" class="list_item compact even">
+<td class="listorian">70.</td>
+<td class="name"><a href="/name/nm0000149">Jodie Foster</a></td>
+<td class="known_for">Actress, <a href="/title/tt0102926/">O Sil&#xEA;ncio dos Inocentes</a></td>
+<td class="birth_date">19 November 1962</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978595" class="list_item compact odd">
+<td class="listorian">71.</td>
+<td class="name"><a href="/name/nm0289098">Kerry Fox</a></td>
+<td class="known_for">Actress, <a href="/title/tt0111149/">Cova Rasa</a></td>
+<td class="birth_date">30 July 1966</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985218" class="list_item compact even">
+<td class="listorian">72.</td>
+<td class="name"><a href="/name/nm0296594">Catherine Frot</a></td>
+<td class="known_for">Actress, <a href="/title/tt0487503/">Ao Lado da Pianista</a></td>
+<td class="birth_date">1 May 1956</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978604" class="list_item compact odd">
+<td class="listorian">73.</td>
+<td class="name"><a href="/name/nm0299028">Deborra-Lee Furness</a></td>
+<td class="known_for">Actress, <a href="/title/tt1219342/">A Lenda dos Guardi&#xF5;es</a></td>
+<td class="birth_date">8 December 1955</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978610" class="list_item compact even">
+<td class="listorian">74.</td>
+<td class="name"><a href="/name/nm0001250">Charlotte Gainsbourg</a></td>
+<td class="known_for">Actress, <a href="/title/tt1937390/">Ninfoman&#xED;aca: Volume 1</a></td>
+<td class="birth_date">21 July 1971</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978615" class="list_item compact odd">
+<td class="listorian">75.</td>
+<td class="name"><a href="/name/nm0001256">Greta Garbo</a></td>
+<td class="known_for">Actress, <a href="/title/tt0031725/">Ninotchka</a></td>
+<td class="birth_date">18 September 1905</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978648" class="list_item compact even">
+<td class="listorian">76.</td>
+<td class="name"><a href="/name/nm0001257">Ava Gardner</a></td>
+<td class="known_for">Actress, <a href="/title/tt0038669/">Assassinos</a></td>
+<td class="birth_date">24 December 1922</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978657" class="list_item compact odd">
+<td class="listorian">77.</td>
+<td class="name"><a href="/name/nm0000023">Judy Garland</a></td>
+<td class="known_for">Soundtrack, <a href="/title/tt0032138/">O M&#xE1;gico de Oz</a></td>
+<td class="birth_date">10 June 1922</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978667" class="list_item compact even">
+<td class="listorian">78.</td>
+<td class="name"><a href="/name/nm0002093">Greer Garson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0035093/">Rosa de Esperan&#xE7;a</a></td>
+<td class="birth_date">29 September 1904</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978712" class="list_item compact odd">
+<td class="listorian">79.</td>
+<td class="name"><a href="/name/nm0310980">Janet Gaynor</a></td>
+<td class="known_for">Actress, <a href="/title/tt0018455/">Aurora</a></td>
+<td class="birth_date">6 October 1906</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978734" class="list_item compact even">
+<td class="listorian">80.</td>
+<td class="name"><a href="/name/nm0315640">Luminita Gheorghiu</a></td>
+<td class="known_for">Actress, <a href="/title/tt1032846/">4 Meses, 3 Semanas e 2 Dias</a></td>
+<td class="birth_date">1 September 1949</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978762" class="list_item compact odd">
+<td class="listorian">81.</td>
+<td class="name"><a href="/name/nm0001273">Lillian Gish</a></td>
+<td class="known_for">Actress, <a href="/title/tt0048424/">Mensageiro do Diabo</a></td>
+<td class="birth_date">14 October 1893</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985843" class="list_item compact even">
+<td class="listorian">82.</td>
+<td class="name"><a href="/name/nm0000084">Li Gong</a></td>
+<td class="known_for">Actress, <a href="/title/tt0212712/">2046 - Os Segredos do Amor</a></td>
+<td class="birth_date">31 December 1965</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978793" class="list_item compact odd">
+<td class="listorian">83.</td>
+<td class="name"><a href="/name/nm0002106">Ruth Gordon</a></td>
+<td class="known_for">Actress, <a href="/title/tt0063522/">O Beb&#xEA; de Rosemary</a></td>
+<td class="birth_date">30 October 1896</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978822" class="list_item compact even">
+<td class="listorian">84.</td>
+<td class="name"><a href="/name/nm0362267">Ann Harding</a></td>
+<td class="known_for">Actress, <a href="/title/tt0039502/">Aconteceu na 5a. Avenida</a></td>
+<td class="birth_date">7 August 1901</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978837" class="list_item compact odd">
+<td class="listorian">85.</td>
+<td class="name"><a href="/name/nm0001318">Jean Harlow</a></td>
+<td class="known_for">Actress, <a href="/title/tt0022286/">Inimigo P&#xFA;blico</a></td>
+<td class="birth_date">3 March 1911</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978865" class="list_item compact even">
+<td class="listorian">86.</td>
+<td class="name"><a href="/name/nm0363888">Jessica Harper</a></td>
+<td class="known_for">Actress, <a href="/title/tt0076786/">Suspiria</a></td>
+<td class="birth_date">10 October 1949</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978870" class="list_item compact odd">
+<td class="listorian">87.</td>
+<td class="name"><a href="/name/nm0364915">Julie Harris</a></td>
+<td class="known_for">Actress, <a href="/title/tt0048028/">Vidas Amargas</a></td>
+<td class="birth_date">2 December 1925</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978882" class="list_item compact even">
+<td class="listorian">88.</td>
+<td class="name"><a href="/name/nm0366027">Lisa Harrow</a></td>
+<td class="known_for">Actress, <a href="/title/tt0082377/">A Profecia III - O Conflito Final</a></td>
+<td class="birth_date">25 August 1943</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978888" class="list_item compact odd">
+<td class="listorian">89.</td>
+<td class="name"><a href="/name/nm0366946">Elizabeth Hartman</a></td>
+<td class="known_for">Actress, <a href="/title/tt0084649/">A Ratinha Valente</a></td>
+<td class="birth_date">23 December 1943</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978892" class="list_item compact even">
+<td class="listorian">90.</td>
+<td class="name"><a href="/name/nm0001333">Susan Hayward</a></td>
+<td class="known_for">Actress, <a href="/title/tt0051758/">Quero Viver!</a></td>
+<td class="birth_date">30 June 1917</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978897" class="list_item compact odd">
+<td class="listorian">91.</td>
+<td class="name"><a href="/name/nm0000028">Rita Hayworth</a></td>
+<td class="known_for">Actress, <a href="/title/tt0038559/">Gilda</a></td>
+<td class="birth_date">17 October 1918</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1978898" class="list_item compact even">
+<td class="listorian">92.</td>
+<td class="name"><a href="/name/nm0372023">Noni Hazlehurst</a></td>
+<td class="known_for">Actress, <a href="/title/tt0424880/">Candy</a></td>
+<td class="birth_date">17 August 1953</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985256" class="list_item compact odd">
+<td class="listorian">93.</td>
+<td class="name"><a href="/name/nm0000446">Mariel Hemingway</a></td>
+<td class="known_for">Actress, <a href="/title/tt0079522/">Manhattan</a></td>
+<td class="birth_date">22 November 1961</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985268" class="list_item compact even">
+<td class="listorian">94.</td>
+<td class="name"><a href="/name/nm0376602">Shirley Henderson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0117951/">Trainspotting - Sem Limites</a></td>
+<td class="birth_date">24 November 1965</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985277" class="list_item compact odd">
+<td class="listorian">95.</td>
+<td class="name"><a href="/name/nm0000030">Audrey Hepburn</a></td>
+<td class="known_for">Actress, <a href="/title/tt0054698/">Bonequinha de Luxo</a></td>
+<td class="birth_date">4 May 1929</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985286" class="list_item compact even">
+<td class="listorian">96.</td>
+<td class="name"><a href="/name/nm0000031">Katharine Hepburn</a></td>
+<td class="known_for">Actress, <a href="/title/tt0029947/">Levada da Breca</a></td>
+<td class="birth_date">12 May 1907</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985296" class="list_item compact odd">
+<td class="listorian">97.</td>
+<td class="name"><a href="/name/nm0384908">Wendy Hiller</a></td>
+<td class="known_for">Actress, <a href="/title/tt0080678/">O Homem Elefante</a></td>
+<td class="birth_date">15 August 1912</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985305" class="list_item compact even">
+<td class="listorian">98.</td>
+<td class="name"><a href="/name/nm0394759">Sacha Horler</a></td>
+<td class="known_for">Actress, <a href="/title/tt1219342/">A Lenda dos Guardi&#xF5;es</a></td>
+<td class="birth_date">12 February 1970</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985309" class="list_item compact odd">
+<td class="listorian">99.</td>
+<td class="name"><a href="/name/nm0400998">Wendy Hughes</a></td>
+<td class="known_for">Actress, <a href="/title/tt0085295/">Careful, He Might Hear You</a></td>
+<td class="birth_date">29 July 1952</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985313" class="list_item compact even">
+<td class="listorian">100.</td>
+<td class="name"><a href="/name/nm0000456">Holly Hunter</a></td>
+<td class="known_for">Actress, <a href="/title/tt0317705/">Os Incr&#xED;veis</a></td>
+<td class="birth_date">20 March 1958</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985319" class="list_item compact odd">
+<td class="listorian">101.</td>
+<td class="name"><a href="/name/nm0001376">Isabelle Huppert</a></td>
+<td class="known_for">Actress, <a href="/title/tt1602620/">Amor</a></td>
+<td class="birth_date">16 March 1953</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985395" class="list_item compact even">
+<td class="listorian">102.</td>
+<td class="name"><a href="/name/nm0001378">Anjelica Huston</a></td>
+<td class="known_for">Actress, <a href="/title/tt0265666/">Os Exc&#xEA;ntricos Tenenbaums</a></td>
+<td class="birth_date">8 July 1951</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985408" class="list_item compact odd">
+<td class="listorian">103.</td>
+<td class="name"><a href="/name/nm0001388">Amy Irving</a></td>
+<td class="known_for">Actress, <a href="/title/tt0074285/">Carrie, a Estranha</a></td>
+<td class="birth_date">10 September 1953</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985433" class="list_item compact even">
+<td class="listorian">104.</td>
+<td class="name"><a href="/name/nm0413559">Glenda Jackson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0067805/">Domingo Maldito</a></td>
+<td class="birth_date">9 May 1936</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985467" class="list_item compact odd">
+<td class="listorian">105.</td>
+<td class="name"><a href="/name/nm0001393">Irène Jacob</a></td>
+<td class="known_for">Actress, <a href="/title/tt0111495/">A Fraternidade &#xE9; Vermelha</a></td>
+<td class="birth_date">15 July 1966</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985476" class="list_item compact even">
+<td class="listorian">106.</td>
+<td class="name"><a href="/name/nm0005049">Allison Janney</a></td>
+<td class="known_for">Actress, <a href="/title/tt0169547/">Beleza Americana</a></td>
+<td class="birth_date">19 November 1959</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985502" class="list_item compact odd">
+<td class="listorian">107.</td>
+<td class="name"><a href="/name/nm0421799">Julia Jentsch</a></td>
+<td class="known_for">Actress, <a href="/title/tt0426578/">Uma Mulher Contra Hitler</a></td>
+<td class="birth_date">20 February 1978</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985532" class="list_item compact even">
+<td class="listorian">108.</td>
+<td class="name"><a href="/name/nm0161133">Do-yeon Jeon</a></td>
+<td class="known_for">Actress, <a href="/title/tt0817225/">Sol Secreto</a></td>
+<td class="birth_date">11 February 1973</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985548" class="list_item compact odd">
+<td class="listorian">109.</td>
+<td class="name"><a href="/name/nm1711154">Cecilia Johnson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0447642/">Hannah House</a></td>
+<td class="birth_date"></td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985555" class="list_item compact even">
+<td class="listorian">110.</td>
+<td class="name"><a href="/name/nm0428354">Jennifer Jones</a></td>
+<td class="known_for">Actress, <a href="/title/tt0036377/">A Can&#xE7;&#xE3;o de Bernadette</a></td>
+<td class="birth_date">2 March 1919</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985561" class="list_item compact odd">
+<td class="listorian">111.</td>
+<td class="name"><a href="/name/nm0000171">Ashley Judd</a></td>
+<td class="known_for">Actress, <a href="/title/tt1840309/">Divergente</a></td>
+<td class="birth_date">19 April 1968</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985584" class="list_item compact even">
+<td class="listorian">112.</td>
+<td class="name"><a href="/name/nm0436706">Ida Kaminska</a></td>
+<td class="known_for">Actress, <a href="/title/tt0059527/">A Pequena Loja da Rua Principal</a></td>
+<td class="birth_date">4 September 1899</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985594" class="list_item compact odd">
+<td class="listorian">113.</td>
+<td class="name"><a href="/name/nm0439344">Anna Karina</a></td>
+<td class="known_for">Actress, <a href="/title/tt0056663/">Viver a Vida</a></td>
+<td class="birth_date">22 September 1940</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985641" class="list_item compact even">
+<td class="listorian">114.</td>
+<td class="name"><a href="/name/nm0000473">Diane Keaton</a></td>
+<td class="known_for">Actress, <a href="/title/tt0071562/">O Poderoso Chef&#xE3;o II</a></td>
+<td class="birth_date">5 January 1946</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985658" class="list_item compact odd">
+<td class="listorian">115.</td>
+<td class="name"><a href="/name/nm0001416">Catherine Keener</a></td>
+<td class="known_for">Actress, <a href="/title/tt1535109/">Capit&#xE3;o Phillips</a></td>
+<td class="birth_date">23 March 1959</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985663" class="list_item compact even">
+<td class="listorian">116.</td>
+<td class="name"><a href="/name/nm0000039">Deborah Kerr</a></td>
+<td class="known_for">Actress, <a href="/title/tt0049408/">O Rei e Eu</a></td>
+<td class="birth_date">30 September 1921</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985709" class="list_item compact odd">
+<td class="listorian">117.</td>
+<td class="name"><a href="/name/nm1067547">Hye-ja Kim</a></td>
+<td class="known_for">Actress, <a href="/title/tt1216496/">Mother - A Busca Pela Verdade</a></td>
+<td class="birth_date"></td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985619" class="list_item compact even">
+<td class="listorian">118.</td>
+<td class="name"><a href="/name/nm0457219">Kyôko Kishida</a></td>
+<td class="known_for">Actress, <a href="/title/tt0058625/">A Mulher da Areia</a></td>
+<td class="birth_date">29 April 1930</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985724" class="list_item compact odd">
+<td class="listorian">119.</td>
+<td class="name"><a href="/name/nm0001441">Christine Lahti</a></td>
+<td class="known_for">Actress, <a href="/title/tt0096018/">O Peso de Um Passado</a></td>
+<td class="birth_date">4 April 1950</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985735" class="list_item compact even">
+<td class="listorian">120.</td>
+<td class="name"><a href="/name/nm0000178">Diane Lane</a></td>
+<td class="known_for">Actress, <a href="/title/tt0770828/">O Homem de A&#xE7;o</a></td>
+<td class="birth_date">22 January 1965</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985743" class="list_item compact odd">
+<td class="listorian">121.</td>
+<td class="name"><a href="/name/nm0001448">Jessica Lange</a></td>
+<td class="known_for">Actress, <a href="/title/tt0319061/">Peixe Grande e Suas Hist&#xF3;rias Maravilhosas</a></td>
+<td class="birth_date">20 April 1949</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985758" class="list_item compact even">
+<td class="listorian">122.</td>
+<td class="name"><a href="/name/nm0001453">Piper Laurie</a></td>
+<td class="known_for">Actress, <a href="/title/tt0074285/">Carrie, a Estranha</a></td>
+<td class="birth_date">22 January 1932</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985770" class="list_item compact odd">
+<td class="listorian">123.</td>
+<td class="name"><a href="/name/nm0000492">Jennifer Jason Leigh</a></td>
+<td class="known_for">Actress, <a href="/title/tt0361862/">O Oper&#xE1;rio</a></td>
+<td class="birth_date">5 February 1962</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985774" class="list_item compact even">
+<td class="listorian">124.</td>
+<td class="name"><a href="/name/nm0000046">Vivien Leigh</a></td>
+<td class="known_for">Actress, <a href="/title/tt0031381/">...E o Vento Levou</a></td>
+<td class="birth_date">5 November 1913</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985919" class="list_item compact odd">
+<td class="listorian">125.</td>
+<td class="name"><a href="/name/nm0001473">Laura Linney</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120382/">O Show de Truman</a></td>
+<td class="birth_date">5 February 1964</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985929" class="list_item compact even">
+<td class="listorian">126.</td>
+<td class="name"><a href="/name/nm0000182">Jennifer Lopez</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120780/">Irresist&#xED;vel Paix&#xE3;o</a></td>
+<td class="birth_date">24 July 1969</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985935" class="list_item compact odd">
+<td class="listorian">127.</td>
+<td class="name"><a href="/name/nm0000047">Sophia Loren</a></td>
+<td class="known_for">Actress, <a href="/title/tt0054749/">Duas Mulheres</a></td>
+<td class="birth_date">20 September 1934</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985947" class="list_item compact even">
+<td class="listorian">128.</td>
+<td class="name"><a href="/name/nm0001485">Myrna Loy</a></td>
+<td class="known_for">Actress, <a href="/title/tt0036868/">Os Melhores Anos de Nossa Vida</a></td>
+<td class="birth_date">2 August 1905</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985968" class="list_item compact odd">
+<td class="listorian">129.</td>
+<td class="name"><a href="/name/nm0000511">Shirley MacLaine</a></td>
+<td class="known_for">Actress, <a href="/title/tt0053604/">Se Meu Apartamento Falasse</a></td>
+<td class="birth_date">24 April 1934</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986009" class="list_item compact even">
+<td class="listorian">130.</td>
+<td class="name"><a href="/name/nm0536167">Anna Magnani</a></td>
+<td class="known_for">Actress, <a href="/title/tt0038890/">Roma, Cidade Aberta</a></td>
+<td class="birth_date">7 March 1908</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986034" class="list_item compact odd">
+<td class="listorian">131.</td>
+<td class="name"><a href="/name/nm1671512">Anamaria Marinca</a></td>
+<td class="known_for">Actress, <a href="/title/tt1032846/">4 Meses, 3 Semanas e 2 Dias</a></td>
+<td class="birth_date">1 April 1978</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986052" class="list_item compact even">
+<td class="listorian">132.</td>
+<td class="name"><a href="/name/nm0556399">Giulietta Masina</a></td>
+<td class="known_for">Actress, <a href="/title/tt0050783/">Noites de Cab&#xED;ria</a></td>
+<td class="birth_date">22 February 1921</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986060" class="list_item compact odd">
+<td class="listorian">133.</td>
+<td class="name"><a href="/name/nm0556850">Marsha Mason</a></td>
+<td class="known_for">Actress, <a href="/title/tt0091187/">O Destemido Senhor da Guerra</a></td>
+<td class="birth_date">3 April 1942</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1985997" class="list_item compact even">
+<td class="listorian">134.</td>
+<td class="name"><a href="/name/nm0000525">Heather Matarazzo</a></td>
+<td class="known_for">Actress, <a href="/title/tt0114906/">Bem-Vindo &#xE0; Casa de Bonecas</a></td>
+<td class="birth_date">10 November 1982</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986094" class="list_item compact odd">
+<td class="listorian">135.</td>
+<td class="name"><a href="/name/nm0560962">Carmen Maura</a></td>
+<td class="known_for">Actress, <a href="/title/tt0441909/">Volver</a></td>
+<td class="birth_date">15 September 1945</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986103" class="list_item compact even">
+<td class="listorian">136.</td>
+<td class="name"><a href="/name/nm0570192">Dorothy McGuire</a></td>
+<td class="known_for">Actress, <a href="/title/tt0039416/">A Luz &#xE9; Para Todos</a></td>
+<td class="birth_date">14 June 1916</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986120" class="list_item compact odd">
+<td class="listorian">137.</td>
+<td class="name"><a href="/name/nm0000541">Bette Midler</a></td>
+<td class="known_for">Soundtrack, <a href="/title/tt0094715/">Amigas Para Sempre</a></td>
+<td class="birth_date">1 December 1945</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986136" class="list_item compact even">
+<td class="listorian">138.</td>
+<td class="name"><a href="/name/nm0587249">Sylvia Miles</a></td>
+<td class="known_for">Actress, <a href="/title/tt0064665/">Perdidos na Noite</a></td>
+<td class="birth_date">9 September 1932</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986144" class="list_item compact odd">
+<td class="listorian">139.</td>
+<td class="name"><a href="/name/nm0591485">Liza Minnelli</a></td>
+<td class="known_for">Soundtrack, <a href="/title/tt0068327/">Cabaret</a></td>
+<td class="birth_date">12 March 1946</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986152" class="list_item compact even">
+<td class="listorian">140.</td>
+<td class="name"><a href="/name/nm0591930">Brigitte Mira</a></td>
+<td class="known_for">Actress, <a href="/title/tt0071141/">O Medo Consome a Alma</a></td>
+<td class="birth_date">20 April 1910</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986157" class="list_item compact odd">
+<td class="listorian">141.</td>
+<td class="name"><a href="/name/nm0000545">Helen Mirren</a></td>
+<td class="known_for">Actress, <a href="/title/tt0436697/">A Rainha</a></td>
+<td class="birth_date">26 July 1945</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986213" class="list_item compact even">
+<td class="listorian">142.</td>
+<td class="name"><a href="/name/nm0594244">Mitsuko Miura</a></td>
+<td class="known_for">Actress, <a href="/title/tt0044745/">Inazuma</a></td>
+<td class="birth_date"></td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986242" class="list_item compact odd">
+<td class="listorian">143.</td>
+<td class="name"><a href="/name/nm0001543">Gretchen Mol</a></td>
+<td class="known_for">Actress, <a href="/title/tt0128442/">Cartas na Mesa</a></td>
+<td class="birth_date">8 November 1972</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986249" class="list_item compact even">
+<td class="listorian">144.</td>
+<td class="name"><a href="/name/nm0005244">Fernanda Montenegro</a></td>
+<td class="known_for">Actress, <a href="/title/tt0140888/">Central do Brasil</a></td>
+<td class="birth_date">16 October 1929</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986255" class="list_item compact odd">
+<td class="listorian">145.</td>
+<td class="name"><a href="/name/nm0000194">Julianne Moore</a></td>
+<td class="known_for">Actress, <a href="/title/tt0118715/">O Grande Lebowski</a></td>
+<td class="birth_date">3 December 1960</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986273" class="list_item compact even">
+<td class="listorian">146.</td>
+<td class="name"><a href="/name/nm0603402">Jeanne Moreau</a></td>
+<td class="known_for">Actress, <a href="/title/tt0055032/">Jules e Jim - Uma Mulher para Dois</a></td>
+<td class="birth_date">23 January 1928</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986304" class="list_item compact odd">
+<td class="listorian">147.</td>
+<td class="name"><a href="/name/nm0603446">Yolande Moreau</a></td>
+<td class="known_for">Actress, <a href="/title/tt0211915/">O Fabuloso Destino de Am&#xE9;lie Poulain</a></td>
+<td class="birth_date">27 February 1953</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986312" class="list_item compact even">
+<td class="listorian">148.</td>
+<td class="name"><a href="/name/nm0604709">Helen Morgan</a></td>
+<td class="known_for">Actress, <a href="/title/tt0019644/">Aplausos</a></td>
+<td class="birth_date">2 August 1900</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986385" class="list_item compact odd">
+<td class="listorian">149.</td>
+<td class="name"><a href="/name/nm0606688">Judy Morris</a></td>
+<td class="known_for">Actress, <a href="/title/tt0079727/">O Encanador</a></td>
+<td class="birth_date"></td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986322" class="list_item compact even">
+<td class="listorian">150.</td>
+<td class="name"><a href="/name/nm0608090">Samantha Morton</a></td>
+<td class="known_for">Actress, <a href="/title/tt0401729/">John Carter: Entre Dois Mundos</a></td>
+<td class="birth_date">13 May 1977</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986339" class="list_item compact odd">
+<td class="listorian">151.</td>
+<td class="name"><a href="/name/nm0610228">Lisbeth Movin</a></td>
+<td class="known_for">Actress, <a href="/title/tt0092603/">A Festa de Babette</a></td>
+<td class="birth_date">25 August 1917</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986238" class="list_item compact even">
+<td class="listorian">152.</td>
+<td class="name"><a href="/name/nm0611538">Madhabi Mukherjee</a></td>
+<td class="known_for">Actress, <a href="/title/tt0057935/">A Esposa Solit&#xE1;ria</a></td>
+<td class="birth_date">10 February 1942</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986346" class="list_item compact odd">
+<td class="listorian">153.</td>
+<td class="name"><a href="/name/nm1659547">Carey Mulligan</a></td>
+<td class="known_for">Actress, <a href="/title/tt0780504/">Drive</a></td>
+<td class="birth_date">28 May 1985</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986353" class="list_item compact even">
+<td class="listorian">154.</td>
+<td class="name"><a href="/name/nm0617009">Sophia Myles</a></td>
+<td class="known_for">Actress, <a href="/title/tt0320691/">Anjos da Noite</a></td>
+<td class="birth_date">18 March 1980</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986365" class="list_item compact odd">
+<td class="listorian">155.</td>
+<td class="name"><a href="/name/nm0623554">Anna Neagle</a></td>
+<td class="known_for">Actress, <a href="/title/tt0043871/">Odette, Agente 23</a></td>
+<td class="birth_date">20 October 1904</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986382" class="list_item compact even">
+<td class="listorian">156.</td>
+<td class="name"><a href="/name/nm0623658">Patricia Neal</a></td>
+<td class="known_for">Actress, <a href="/title/tt0054698/">Bonequinha de Luxo</a></td>
+<td class="birth_date">20 January 1926</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986395" class="list_item compact odd">
+<td class="listorian">157.</td>
+<td class="name"><a href="/name/nm0625075">Kate Nelligan</a></td>
+<td class="known_for">Actress, <a href="/title/tt0111742/">Lobo</a></td>
+<td class="birth_date">16 March 1950</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986406" class="list_item compact even">
+<td class="listorian">158.</td>
+<td class="name"><a href="/name/nm0636146">Nadine Nortier</a></td>
+<td class="known_for">Actress, <a href="/title/tt0061996/">Mouchette, a Virgem Possu&#xED;da</a></td>
+<td class="birth_date"></td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986413" class="list_item compact odd">
+<td class="listorian">159.</td>
+<td class="name"><a href="/name/nm0001571">Kim Novak</a></td>
+<td class="known_for">Actress, <a href="/title/tt0052357/">Um Corpo Que Cai</a></td>
+<td class="birth_date">13 February 1933</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986418" class="list_item compact even">
+<td class="listorian">160.</td>
+<td class="name"><a href="/name/nm0652961">Nobuko Otowa</a></td>
+<td class="known_for">Actress, <a href="/title/tt0058430/">Onibaba, O Sexo Diab&#xF3;lico</a></td>
+<td class="birth_date">1 October 1924</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986444" class="list_item compact odd">
+<td class="listorian">161.</td>
+<td class="name"><a href="/name/nm0656183">Geraldine Page</a></td>
+<td class="known_for">Actress, <a href="/title/tt0076618/">Bernardo e Bianca</a></td>
+<td class="birth_date">22 November 1924</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986451" class="list_item compact even">
+<td class="listorian">162.</td>
+<td class="name"><a href="/name/nm0660116">Vera Pap</a></td>
+<td class="known_for">Actress, <a href="/title/tt0077165/">Angi Vera</a></td>
+<td class="birth_date">27 January 1956</td>
+<td class="created">12 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986481" class="list_item compact odd">
+<td class="listorian">163.</td>
+<td class="name"><a href="/name/nm0004650">Marisa Paredes</a></td>
+<td class="known_for">Actress, <a href="/title/tt0118799/">A Vida &#xC9; Bela</a></td>
+<td class="birth_date">3 April 1946</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986487" class="list_item compact even">
+<td class="listorian">164.</td>
+<td class="name"><a href="/name/nm0001594">Anne Parillaud</a></td>
+<td class="known_for">Actress, <a href="/title/tt0100263/">Nikita - Criada Para Matar</a></td>
+<td class="birth_date">6 May 1960</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986497" class="list_item compact odd">
+<td class="listorian">165.</td>
+<td class="name"><a href="/name/nm0662223">Eleanor Parker</a></td>
+<td class="known_for">Actress, <a href="/title/tt0059742/">A Novi&#xE7;a Rebelde</a></td>
+<td class="birth_date">26 June 1922</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986505" class="list_item compact even">
+<td class="listorian">166.</td>
+<td class="name"><a href="/name/nm1459779">Mirella Pascual</a></td>
+<td class="known_for">Actress, <a href="/title/tt0331370/">Whisky</a></td>
+<td class="birth_date"></td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986544" class="list_item compact odd">
+<td class="listorian">167.</td>
+<td class="name"><a href="/name/nm0674781">Valerie Perrine</a></td>
+<td class="known_for">Actress, <a href="/title/tt0078346/">Superman: O Filme</a></td>
+<td class="birth_date">3 September 1943</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986552" class="list_item compact even">
+<td class="listorian">168.</td>
+<td class="name"><a href="/name/nm0000201">Michelle Pfeiffer</a></td>
+<td class="known_for">Actress, <a href="/title/tt0086250/">Scarface</a></td>
+<td class="birth_date">29 April 1958</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986559" class="list_item compact odd">
+<td class="listorian">169.</td>
+<td class="name"><a href="/name/nm0681933">Mary Pickford</a></td>
+<td class="known_for">Actress, <a href="/title/tt0019788/">Coquete</a></td>
+<td class="birth_date">8 April 1892</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986576" class="list_item compact even">
+<td class="listorian">170.</td>
+<td class="name"><a href="/name/nm0700574">Angela Punch McGregor</a></td>
+<td class="known_for">Actress, <a href="/title/tt0084893/">We of the Never Never</a></td>
+<td class="birth_date">21 January 1953</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986581" class="list_item compact odd">
+<td class="listorian">171.</td>
+<td class="name"><a href="/name/nm0001648">Charlotte Rampling</a></td>
+<td class="known_for">Actress, <a href="/title/tt0324133/">Swimming Pool - &#xC0; Beira da Piscina</a></td>
+<td class="birth_date">5 February 1946</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986588" class="list_item compact even">
+<td class="listorian">172.</td>
+<td class="name"><a href="/name/nm0000603">Vanessa Redgrave</a></td>
+<td class="known_for">Actress, <a href="/title/tt0117060/">Miss&#xE3;o: Imposs&#xED;vel</a></td>
+<td class="birth_date">30 January 1937</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986602" class="list_item compact odd">
+<td class="listorian">173.</td>
+<td class="name"><a href="/name/nm0717189">Beryl Reid</a></td>
+<td class="known_for">Actress, <a href="/title/tt0063185/">Tri&#xE2;ngulo Feminino</a></td>
+<td class="birth_date">17 June 1919</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986608" class="list_item compact even">
+<td class="listorian">174.</td>
+<td class="name"><a href="/name/nm0728812">Thelma Ritter</a></td>
+<td class="known_for">Actress, <a href="/title/tt0047396/">Janela Indiscreta</a></td>
+<td class="birth_date">14 February 1902</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986616" class="list_item compact odd">
+<td class="listorian">175.</td>
+<td class="name"><a href="/name/nm0728938">Emmanuelle Riva</a></td>
+<td class="known_for">Actress, <a href="/title/tt1602620/">Amor</a></td>
+<td class="birth_date">24 February 1927</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986625" class="list_item compact even">
+<td class="listorian">176.</td>
+<td class="name"><a href="/name/nm0000210">Julia Roberts</a></td>
+<td class="known_for">Actress, <a href="/title/tt0125439/">Um Lugar Chamado Notting Hill</a></td>
+<td class="birth_date">28 October 1967</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986627" class="list_item compact odd">
+<td class="listorian">177.</td>
+<td class="name"><a href="/name/nm0731499">Rachel Roberts</a></td>
+<td class="known_for">Actress, <a href="/title/tt0073540/">Picnic na Montanha Misteriosa</a></td>
+<td class="birth_date">20 September 1927</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986642" class="list_item compact even">
+<td class="listorian">178.</td>
+<td class="name"><a href="/name/nm0734156">Crissy Rock</a></td>
+<td class="known_for">Actress, <a href="/title/tt0110296/">Ladybird Ladybird</a></td>
+<td class="birth_date">23 September 1958</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986650" class="list_item compact odd">
+<td class="listorian">179.</td>
+<td class="name"><a href="/name/nm0001677">Ginger Rogers</a></td>
+<td class="known_for">Actress, <a href="/title/tt0027125/">O Picolino</a></td>
+<td class="birth_date">16 July 1911</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986689" class="list_item compact even">
+<td class="listorian">180.</td>
+<td class="name"><a href="/name/nm0001684">Katharine Ross</a></td>
+<td class="known_for">Actress, <a href="/title/tt0061722/">A Primeira Noite de um Homem</a></td>
+<td class="birth_date">29 January 1940</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986695" class="list_item compact odd">
+<td class="listorian">181.</td>
+<td class="name"><a href="/name/nm0005386">Cecilia Roth</a></td>
+<td class="known_for">Actress, <a href="/title/tt0185125/">Tudo Sobre Minha M&#xE3;e</a></td>
+<td class="birth_date">8 August 1956</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986706" class="list_item compact even">
+<td class="listorian">182.</td>
+<td class="name"><a href="/name/nm0747690">Brigitte Roüan</a></td>
+<td class="known_for">Actress, <a href="/title/tt0119923/">Post Coitum - Animal Triste</a></td>
+<td class="birth_date">28 September 1946</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986715" class="list_item compact odd">
+<td class="listorian">183.</td>
+<td class="name"><a href="/name/nm0001687">Gena Rowlands</a></td>
+<td class="known_for">Actress, <a href="/title/tt0332280/">Di&#xE1;rio de uma Paix&#xE3;o</a></td>
+<td class="birth_date">19 June 1930</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986728" class="list_item compact even">
+<td class="listorian">184.</td>
+<td class="name"><a href="/name/nm0751301">Lucy Russell</a></td>
+<td class="known_for">Actress, <a href="/title/tt0372784/">Batman Begins</a></td>
+<td class="birth_date"></td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986739" class="list_item compact odd">
+<td class="listorian">185.</td>
+<td class="name"><a href="/name/nm0751426">Rosalind Russell</a></td>
+<td class="known_for">Actress, <a href="/title/tt0032599/">Jejum de Amor</a></td>
+<td class="birth_date">4 June 1907</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986731" class="list_item compact even">
+<td class="listorian">186.</td>
+<td class="name"><a href="/name/nm0000622">Theresa Russell</a></td>
+<td class="known_for">Actress, <a href="/title/tt0413300/">Homem-Aranha 3</a></td>
+<td class="birth_date">20 March 1957</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986745" class="list_item compact odd">
+<td class="listorian">187.</td>
+<td class="name"><a href="/name/nm0000212">Meg Ryan</a></td>
+<td class="known_for">Actress, <a href="/title/tt0108160/">Sintonia de Amor</a></td>
+<td class="birth_date">19 November 1961</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986756" class="list_item compact even">
+<td class="listorian">188.</td>
+<td class="name"><a href="/name/nm0757102">Sumiko Sakamoto</a></td>
+<td class="known_for">Actress, <a href="/title/tt0084390/">A Balada de Narayama</a></td>
+<td class="birth_date">25 November 1936</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986759" class="list_item compact odd">
+<td class="listorian">189.</td>
+<td class="name"><a href="/name/nm0000215">Susan Sarandon</a></td>
+<td class="known_for">Actress, <a href="/title/tt0103074/">Thelma &#x26; Louise</a></td>
+<td class="birth_date">4 October 1946</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986782" class="list_item compact even">
+<td class="listorian">190.</td>
+<td class="name"><a href="/name/nm0778016">Hanna Schygulla</a></td>
+<td class="known_for">Actress, <a href="/title/tt0079095/">O Casamento de Maria Braun</a></td>
+<td class="birth_date">25 December 1943</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986785" class="list_item compact odd">
+<td class="listorian">191.</td>
+<td class="name"><a href="/name/nm0000218">Kristin Scott Thomas</a></td>
+<td class="known_for">Actress, <a href="/title/tt0116209/">O Paciente Ingl&#xEA;s</a></td>
+<td class="birth_date">24 May 1960</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986787" class="list_item compact even">
+<td class="listorian">192.</td>
+<td class="name"><a href="/name/nm0781029">Jean Seberg</a></td>
+<td class="known_for">Actress, <a href="/title/tt0053472/">Acossado</a></td>
+<td class="birth_date">13 November 1938</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986796" class="list_item compact odd">
+<td class="listorian">193.</td>
+<td class="name"><a href="/name/nm0786891">Delphine Seyrig</a></td>
+<td class="known_for">Actress, <a href="/title/tt0054632/">O Ano Passado em Marienbad</a></td>
+<td class="birth_date">10 April 1932</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986807" class="list_item compact even">
+<td class="listorian">194.</td>
+<td class="name"><a href="/name/nm0792130">Ann Sheridan</a></td>
+<td class="known_for">Actress, <a href="/title/tt0057731/">Another World</a></td>
+<td class="birth_date">21 February 1915</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986810" class="list_item compact odd">
+<td class="listorian">195.</td>
+<td class="name"><a href="/name/nm0000223">Elisabeth Shue</a></td>
+<td class="known_for">Actress, <a href="/title/tt0164052/">O Homem Sem Sombra</a></td>
+<td class="birth_date">6 October 1963</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986814" class="list_item compact even">
+<td class="listorian">196.</td>
+<td class="name"><a href="/name/nm0796662">Sylvia Sidney</a></td>
+<td class="known_for">Actress, <a href="/title/tt0028212/">O Marido Era o Culpado</a></td>
+<td class="birth_date">8 August 1910</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986820" class="list_item compact odd">
+<td class="listorian">197.</td>
+<td class="name"><a href="/name/nm0797531">Simone Signoret</a></td>
+<td class="known_for">Actress, <a href="/title/tt0046911/">As Diab&#xF3;licas</a></td>
+<td class="birth_date">25 March 1921</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986829" class="list_item compact even">
+<td class="listorian">198.</td>
+<td class="name"><a href="/name/nm0001739">Jean Simmons</a></td>
+<td class="known_for">Actress, <a href="/title/tt0054331/">Spartacus</a></td>
+<td class="birth_date">31 January 1929</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986837" class="list_item compact odd">
+<td class="listorian">199.</td>
+<td class="name"><a href="/name/nm0800386">Simone Simon</a></td>
+<td class="known_for">Actress, <a href="/title/tt0034587/">Sangue de Pantera</a></td>
+<td class="birth_date">23 April 1910</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986840" class="list_item compact even">
+<td class="listorian">200.</td>
+<td class="name"><a href="/name/nm0001749">Maggie Smith</a></td>
+<td class="known_for">Actress, <a href="/title/tt0064840/">A Primavera de uma Solteirona</a></td>
+<td class="birth_date">28 December 1934</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986843" class="list_item compact odd">
+<td class="listorian">201.</td>
+<td class="name"><a href="/name/nm0811202">Carrie Snodgress</a></td>
+<td class="known_for">Actress, <a href="/title/tt0089767/">O Cavaleiro Solit&#xE1;rio</a></td>
+<td class="birth_date">27 October 1945</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986846" class="list_item compact even">
+<td class="listorian">202.</td>
+<td class="name"><a href="/name/nm0000651">Sissy Spacek</a></td>
+<td class="known_for">Actress, <a href="/title/tt0074285/">Carrie, a Estranha</a></td>
+<td class="birth_date">25 December 1949</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986849" class="list_item compact odd">
+<td class="listorian">203.</td>
+<td class="name"><a href="/name/nm0822535">Kim Stanley</a></td>
+<td class="known_for">Actress, <a href="/title/tt0086197/">Os Eleitos - Onde o Futuro Come&#xE7;a</a></td>
+<td class="birth_date">11 February 1925</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986850" class="list_item compact even">
+<td class="listorian">204.</td>
+<td class="name"><a href="/name/nm0001766">Barbara Stanwyck</a></td>
+<td class="known_for">Actress, <a href="/title/tt0036775/">Pacto de Sangue</a></td>
+<td class="birth_date">16 July 1907</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986856" class="list_item compact odd">
+<td class="listorian">205.</td>
+<td class="name"><a href="/name/nm0001767">Imelda Staunton</a></td>
+<td class="known_for">Actress, <a href="/title/tt1587310/">Mal&#xE9;vola</a></td>
+<td class="birth_date">9 January 1956</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986858" class="list_item compact even">
+<td class="listorian">206.</td>
+<td class="name"><a href="/name/nm0831471">Shirley Stoler</a></td>
+<td class="known_for">Actress, <a href="/title/tt0077416/">O Franco Atirador</a></td>
+<td class="birth_date">30 March 1929</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986864" class="list_item compact odd">
+<td class="listorian">207.</td>
+<td class="name"><a href="/name/nm0000658">Meryl Streep</a></td>
+<td class="known_for">Actress, <a href="/title/tt0458352/">O Diabo Veste Prada</a></td>
+<td class="birth_date">22 June 1949</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986861" class="list_item compact even">
+<td class="listorian">208.</td>
+<td class="name"><a href="/name/nm0000659">Barbra Streisand</a></td>
+<td class="known_for">Soundtrack, <a href="/title/tt0075265/">Nasce uma Estrela</a></td>
+<td class="birth_date">24 April 1942</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986878" class="list_item compact odd">
+<td class="listorian">209.</td>
+<td class="name"><a href="/name/nm0837925">Margaret Sullavan</a></td>
+<td class="known_for">Actress, <a href="/title/tt0033045/">A Loja da Esquina</a></td>
+<td class="birth_date">16 May 1909</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986881" class="list_item compact even">
+<td class="listorian">210.</td>
+<td class="name"><a href="/name/nm0005476">Hilary Swank</a></td>
+<td class="known_for">Actress, <a href="/title/tt0405159/">Menina de Ouro</a></td>
+<td class="birth_date">30 July 1974</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986885" class="list_item compact odd">
+<td class="listorian">211.</td>
+<td class="name"><a href="/name/nm0841797">Gloria Swanson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0043014/">Crep&#xFA;sculo dos Deuses</a></td>
+<td class="birth_date">27 March 1899</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986887" class="list_item compact even">
+<td class="listorian">212.</td>
+<td class="name"><a href="/name/nm0842770">Tilda Swinton</a></td>
+<td class="known_for">Actress, <a href="/title/tt1242460/">Precisamos Falar Sobre o Kevin</a></td>
+<td class="birth_date">5 November 1960</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986902" class="list_item compact odd">
+<td class="listorian">213.</td>
+<td class="name"><a href="/name/nm0849011">Kinuyo Tanaka</a></td>
+<td class="known_for">Actress, <a href="/title/tt0047445/">Intendente Sansho</a></td>
+<td class="birth_date">28 November 1910</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986920" class="list_item compact even">
+<td class="listorian">214.</td>
+<td class="name"><a href="/name/nm0000072">Elizabeth Taylor</a></td>
+<td class="known_for">Actress, <a href="/title/tt0049261/">Assim Caminha a Humanidade</a></td>
+<td class="birth_date">27 February 1932</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986927" class="list_item compact odd">
+<td class="listorian">215.</td>
+<td class="name"><a href="/name/nm0000666">Lili Taylor</a></td>
+<td class="known_for">Actress, <a href="/title/tt1457767/">Invoca&#xE7;&#xE3;o do Mal</a></td>
+<td class="birth_date">20 February 1967</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986933" class="list_item compact even">
+<td class="listorian">216.</td>
+<td class="name"><a href="/name/nm0824373">Johanna ter Steege</a></td>
+<td class="known_for">Actress, <a href="/title/tt0096163/">O Sil&#xEA;ncio do Lago</a></td>
+<td class="birth_date">10 May 1961</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986937" class="list_item compact odd">
+<td class="listorian">217.</td>
+<td class="name"><a href="/name/nm0856500">Sylvie Testud</a></td>
+<td class="known_for">Actress, <a href="/title/tt0450188/">Piaf: Um Hino ao Amor</a></td>
+<td class="birth_date">17 January 1971</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986942" class="list_item compact even">
+<td class="listorian">218.</td>
+<td class="name"><a href="/name/nm0000668">Emma Thompson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0114388/">Raz&#xE3;o e Sensibilidade</a></td>
+<td class="birth_date">15 April 1959</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986948" class="list_item compact odd">
+<td class="listorian">219.</td>
+<td class="name"><a href="/name/nm0862026">Ingrid Thulin</a></td>
+<td class="known_for">Actress, <a href="/title/tt0050986/">Morangos Silvestres</a></td>
+<td class="birth_date">27 January 1926</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1986954" class="list_item compact even">
+<td class="listorian">220.</td>
+<td class="name"><a href="/name/nm0000074">Gene Tierney</a></td>
+<td class="known_for">Actress, <a href="/title/tt0037008/">Laura</a></td>
+<td class="birth_date">19 November 1920</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1989152" class="list_item compact odd">
+<td class="listorian">221.</td>
+<td class="name"><a href="/name/nm0000678">Kathleen Turner</a></td>
+<td class="known_for">Actress, <a href="/title/tt0159097/">As Virgens Suicidas</a></td>
+<td class="birth_date">19 June 1954</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987019" class="list_item compact even">
+<td class="listorian">222.</td>
+<td class="name"><a href="/name/nm0001805">Lana Turner</a></td>
+<td class="known_for">Actress, <a href="/title/tt0052918/">Imita&#xE7;&#xE3;o da Vida</a></td>
+<td class="birth_date">8 February 1921</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987022" class="list_item compact odd">
+<td class="listorian">223.</td>
+<td class="name"><a href="/name/nm0878302">Dorothy Tutin</a></td>
+<td class="known_for">Actress, <a href="/title/tt0065593/">Cromwell, O Homem de Ferro</a></td>
+<td class="birth_date">8 April 1930</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987026" class="list_item compact even">
+<td class="listorian">224.</td>
+<td class="name"><a href="/name/nm0880521">Liv Ullmann</a></td>
+<td class="known_for">Actress, <a href="/title/tt0060827/">Quando Duas Mulheres Pecam</a></td>
+<td class="birth_date">16 December 1938</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987045" class="list_item compact odd">
+<td class="listorian">225.</td>
+<td class="name"><a href="/name/nm0892857">Monique van de Ven</a></td>
+<td class="known_for">Actress, <a href="/title/tt0070842/">Louca Paix&#xE3;o</a></td>
+<td class="birth_date">28 July 1952</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987050" class="list_item compact even">
+<td class="listorian">226.</td>
+<td class="name"><a href="/name/nm0886638">Mamie Van Doren</a></td>
+<td class="known_for">Actress, <a href="/title/tt0052278/">Um Amor de Professora</a></td>
+<td class="birth_date">6 February 1931</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987054" class="list_item compact odd">
+<td class="listorian">227.</td>
+<td class="name"><a href="/name/nm0900143">Monica Vitti</a></td>
+<td class="known_for">Actress, <a href="/title/tt0053619/">A Aventura</a></td>
+<td class="birth_date">3 November 1931</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987060" class="list_item compact even">
+<td class="listorian">228.</td>
+<td class="name"><a href="/name/nm0905147">Jutta Wachowiak</a></td>
+<td class="known_for">Actress, <a href="/title/tt0081711/">Die Verlobte</a></td>
+<td class="birth_date">13 December 1940</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987065" class="list_item compact odd">
+<td class="listorian">229.</td>
+<td class="name"><a href="/name/nm0906723">Ayako Wakao</a></td>
+<td class="known_for">Actress, <a href="/title/tt0048933/">A Rua da Vergonha</a></td>
+<td class="birth_date">8 November 1933</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987083" class="list_item compact even">
+<td class="listorian">230.</td>
+<td class="name"><a href="/name/nm0907942">Kerry Walker</a></td>
+<td class="known_for">Actress, <a href="/title/tt0203009/">Moulin Rouge: Amor em Vermelho</a></td>
+<td class="birth_date">29 February 1948</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987088" class="list_item compact odd">
+<td class="listorian">231.</td>
+<td class="name"><a href="/name/nm0001833">Emily Watson</a></td>
+<td class="known_for">Actress, <a href="/title/tt0121164/">A Noiva Cad&#xE1;ver</a></td>
+<td class="birth_date">14 January 1967</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987095" class="list_item compact even">
+<td class="listorian">232.</td>
+<td class="name"><a href="/name/nm0915208">Naomi Watts</a></td>
+<td class="known_for">Actress, <a href="/title/tt0360717/">King Kong</a></td>
+<td class="birth_date">28 September 1968</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987194" class="list_item compact odd">
+<td class="listorian">233.</td>
+<td class="name"><a href="/name/nm0000244">Sigourney Weaver</a></td>
+<td class="known_for">Actress, <a href="/title/tt0090605/">Aliens, O Resgate</a></td>
+<td class="birth_date">8 October 1949</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987143" class="list_item compact even">
+<td class="listorian">234.</td>
+<td class="name"><a href="/name/nm0916050">Chloe Webb</a></td>
+<td class="known_for">Actress, <a href="/title/tt0096320/">Irm&#xE3;os G&#xEA;meos</a></td>
+<td class="birth_date">25 June 1956</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987121" class="list_item compact odd">
+<td class="listorian">235.</td>
+<td class="name"><a href="/name/nm0001838">Rachel Weisz</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120616/">A M&#xFA;mia</a></td>
+<td class="birth_date">7 March 1970</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987113" class="list_item compact even">
+<td class="listorian">236.</td>
+<td class="name"><a href="/name/nm0001839">Tuesday Weld</a></td>
+<td class="known_for">Actress, <a href="/title/tt0087843/">Era Uma Vez na Am&#xE9;rica</a></td>
+<td class="birth_date">27 August 1943</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987126" class="list_item compact odd">
+<td class="listorian">237.</td>
+<td class="name"><a href="/name/nm0922213">Mae West</a></td>
+<td class="known_for">Soundtrack, <a href="/title/tt0024166/">Santa n&#xE3;o Sou</a></td>
+<td class="birth_date">17 August 1893</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987136" class="list_item compact even">
+<td class="listorian">238.</td>
+<td class="name"><a href="/name/nm0931329">Michelle Williams</a></td>
+<td class="known_for">Actress, <a href="/title/tt1130884/">Ilha do Medo</a></td>
+<td class="birth_date">9 September 1980</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987158" class="list_item compact odd">
+<td class="listorian">239.</td>
+<td class="name"><a href="/name/nm0000700">Debra Winger</a></td>
+<td class="known_for">Actress, <a href="/title/tt0086425/">La&#xE7;os de Ternura</a></td>
+<td class="birth_date">16 May 1955</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987169" class="list_item compact even">
+<td class="listorian">240.</td>
+<td class="name"><a href="/name/nm0935190">Angela Winkler</a></td>
+<td class="known_for">Actress, <a href="/title/tt0078875/">O Tambor</a></td>
+<td class="birth_date">22 January 1944</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987176" class="list_item compact odd">
+<td class="listorian">241.</td>
+<td class="name"><a href="/name/nm0000701">Kate Winslet</a></td>
+<td class="known_for">Actress, <a href="/title/tt0120338/">Titanic</a></td>
+<td class="birth_date">5 October 1975</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987274" class="list_item compact even">
+<td class="listorian">242.</td>
+<td class="name"><a href="/name/nm0001859">Shelley Winters</a></td>
+<td class="known_for">Actress, <a href="/title/tt0056193/">Lolita</a></td>
+<td class="birth_date">18 August 1922</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987291" class="list_item compact odd">
+<td class="listorian">243.</td>
+<td class="name"><a href="/name/nm0000702">Reese Witherspoon</a></td>
+<td class="known_for">Actress, <a href="/title/tt0358273/">Johnny &#x26; June</a></td>
+<td class="birth_date">22 March 1976</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987299" class="list_item compact even">
+<td class="listorian">244.</td>
+<td class="name"><a href="/name/nm0940946">Joanne Woodward</a></td>
+<td class="known_for">Actress, <a href="/title/tt0107818/">Filad&#xE9;lfia</a></td>
+<td class="birth_date">27 February 1930</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1989344" class="list_item compact odd">
+<td class="listorian">245.</td>
+<td class="name"><a href="/name/nm0001862">Mary Woronov</a></td>
+<td class="known_for">Actress, <a href="/title/tt1172994/">A Casa do Diabo</a></td>
+<td class="birth_date">8 December 1943</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987309" class="list_item compact even">
+<td class="listorian">246.</td>
+<td class="name"><a href="/name/nm0942863">Teresa Wright</a></td>
+<td class="known_for">Actress, <a href="/title/tt0036342/">Sombra de uma D&#xFA;vida</a></td>
+<td class="birth_date">27 October 1918</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987315" class="list_item compact odd">
+<td class="listorian">247.</td>
+<td class="name"><a href="/name/nm0943837">Jane Wyman</a></td>
+<td class="known_for">Actress, <a href="/title/tt0037884/">Farrapo Humano</a></td>
+<td class="birth_date">5 January 1917</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987325" class="list_item compact even">
+<td class="listorian">248.</td>
+<td class="name"><a href="/name/nm0948772">Susannah York</a></td>
+<td class="known_for">Actress, <a href="/title/tt0078346/">Superman: O Filme</a></td>
+<td class="birth_date">9 January 1939</td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987333" class="list_item compact odd">
+<td class="listorian">249.</td>
+<td class="name"><a href="/name/nm0950902">Jeong-hie Yun</a></td>
+<td class="known_for">Actress, <a href="/title/tt1287878/">Poesia</a></td>
+<td class="birth_date"></td>
+<td class="created">13 Mar 2011</td>
+</tr>
+
+<tr data-item-id="1987338" class="list_item compact even">
+<td class="listorian">250.</td>
+<td class="name"><a href="/name/nm0000250">Renée Zellweger</a></td>
+<td class="known_for">Actress, <a href="/title/tt0243155/">O Di&#xE1;rio de Bridget Jones</a></td>
+<td class="birth_date">25 April 1969</td>
+<td class="created">13 Mar 2011</td>
+</tr>

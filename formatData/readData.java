@@ -18,10 +18,12 @@ public class readData {
 			BufferedReader br = null;
 			String line = "";
 			boolean flag = false;
-			int nominated = 0;
-			int won = 0;
+			boolean win = false;
+			boolean descript = false;
 			String awards = "";
 			String id = "";
+			
+			id = (this.csvFile.substring(this.csvFile.length()-11, this.csvFile.length()-4));
 			
 			try {
 				br = new BufferedReader(new FileReader(this.csvFile));
@@ -35,28 +37,27 @@ public class readData {
 							flag=false;
 						}else{
 							if(line.contains("Won")){
-								won++;
-								nominated++;
+								win = true;
+								id +=";1;1";
 							}else if(line.contains("Nominated")){
-								nominated++;
+								id+= ";1;0";
 							}else if(line.contains("</a>        <span class=")){
 								String movie_name = line.split(">")[1]; 
-								awards += "," + (movie_name.substring(0, movie_name.length()-3));
+								id += ";" + (movie_name.substring(0, movie_name.length()-3));
+								awards += id + "\n";
+								id = (this.csvFile.substring(this.csvFile.length()-11, this.csvFile.length()-4));
+							}else if(line.contains("award_description")){
+								descript = true;
+							}else if(descript){
+								id += ";" + (line.substring(2, line.length()-6));
+								descript = false;
 							}
 						}
 						
 					}
-				}
-				
-				if(nominated==0){
-					id = (this.csvFile.substring(this.csvFile.length()-11, this.csvFile.length()-4));
-					id += ";NA;" + won + ";" + nominated;
-				}else{
-					awards = awards.substring(1, awards.length());
-					id = (this.csvFile.substring(this.csvFile.length()-11, this.csvFile.length()-4));
-					id += ";" + awards + ";" + won + ";" + nominated;
-				}
-				System.out.println(id);
+				}		
+			
+			System.out.println(awards);
 				
 			} catch (FileNotFoundException e) {
 				e.printStackTrace();
