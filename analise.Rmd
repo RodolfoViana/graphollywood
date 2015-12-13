@@ -1,0 +1,61 @@
+---
+title: "analise"
+author: "Rodolfo Viana"
+date: "12-12-2015"
+output: html_document
+---
+
+```{r}
+library(dplyr)
+library(ggplot2)
+
+allMovies <- read.delim("~/Projetos/graphollywood/listMovieDirectors.csv")
+
+allMovies$director <- as.character(allMovies$director)
+allMovies$rating <- as.numeric(as.character(allMovies$rating))
+allMovies[is.na(allMovies)] <- 0
+allMovies$year <- as.numeric(as.character(allMovies$year))
+allMovies[is.na(allMovies)] <- 0
+
+directors <- unique(allMovies$director)
+
+df <- data.frame(coef = 0)
+for (d in 1:length(directors)){
+  tt <- filter(allMovies, director == directors[d])  %>%
+    filter(year > 0)  %>%
+    filter(rating > 0)
+  df <- rbind(df, lm(data = tt, rating ~ year)[[1]][2])
+}
+df <- as.data.frame(df[-1,])
+df <- cbind(df, directors)
+colnames <- c("coef", "director")
+
+top_5_coef <- head(df[order(df$coef, decreasing=TRUE),], n=5)
+botton_5_coef <- head(df[order(df$coef, decreasing=FALSE),], n=5)
+
+
+mod5 <- lm(rating ~ year, data = x)
+summary(mod5)
+
+ggplot(x, aes(x=year, y=rating, group = 1)) +
+    geom_point(shape=1) +    # Use hollow circles
+    geom_smooth(method=lm,   # Add linear regression line
+                se=FALSE)
+
+
+groupbyParlamentar <-  group_by(filevlrGlosa, txNomeParlamentar)
+parlamentarVlrGlosa <- summarise(groupbyParlamentar, sum(vlrGlosa))
+
+
+allMoviesbyDirector <- group_by(allMovies, director)
+new_allMovies <- summarise(allMoviesbyDirector, soma = sum(rating), n_filmes = n(), variacao = sd(rating), media = mean(rating))
+
+top_5_n_filmes <- head(new_allMovies[order(new_allMovies$n_filmes, decreasing=TRUE),], n=5)
+botton_5_n_filmes <- head(new_allMovies[order(new_allMovies$n_filmes, decreasing=FALSE),], n=5)
+
+top_5_variacao <- head(new_allMovies[order(new_allMovies$variacao, decreasing=TRUE),], n=5)
+botton_5_variacao <- head(new_allMovies[order(new_allMovies$variacao, decreasing=FALSE),], n=5)
+
+top_5_media <- head(new_allMovies[order(new_allMovies$media, decreasing=TRUE),], n=5)
+botton_5_media <- head(new_allMovies[order(new_allMovies$media, decreasing=FALSE),], n=5)
+```
