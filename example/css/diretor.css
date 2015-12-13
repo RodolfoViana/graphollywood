@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: #991824;
 }
 
 .bg-dark {
@@ -69,7 +69,7 @@ section {
 }
 .brand{
     position: absolute;
-    top:10;     
+    top:10;
 }
 aside {
     padding: 50px 0;
