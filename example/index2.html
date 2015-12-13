@@ -37,6 +37,37 @@
     <link rel="stylesheet" type="text/css" href="css/demo.css" />
     <link rel="stylesheet" type="text/css" href="css/style.css" />
     <link href='http://fonts.googleapis.com/css?family=Hind' rel='stylesheet' type='text/css' />
+
+    <style>
+
+        .node {
+            cursor: pointer;
+        }
+
+        .node:hover {
+            stroke: #000;
+            stroke-width: 1.5px;
+        }
+
+        .node--leaf {
+            fill: #991824;
+        }
+
+        .label {
+            font: 11px "Hind", Helvetica, Arial, sans-serif;
+            text-anchor: middle;
+            color: #fff;
+            text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+        }
+
+        .label,
+        .node--root,
+        .node--leaf {
+            pointer-events: none;
+        }
+
+    </style>
+
     </head>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->

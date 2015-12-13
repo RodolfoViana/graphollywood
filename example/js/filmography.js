@@ -4,10 +4,9 @@
 var margin = 20,
     diameter = 960;
 
-var color = d3.scale.linear()
-    .domain([-1, 5])
-    .range(["hsl(152,80%,80%)", "hsl(228,30%,40%)"])
-    .interpolate(d3.interpolateHcl);
+var color = d3.scale.ordinal()
+    .domain(["outros","pmdb","psdb","psol","pt"])
+    .range(["#3C3C3B", "darkred", "#3C3C3B", "#C3C3B3", "#FF3300"]);
 
 var pack = d3.layout.pack()
     .padding(2)
@@ -38,6 +37,7 @@ d3.json("js/diret.json", function(error, root) {
         .data(nodes)
         .enter().append("text")
         .attr("class", "label")
+        .style("color","white")
         .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
         .style("display", function(d) { return d.parent === root ? "inline" : "none"; })
         .text(function(d) { return d.name; });
@@ -62,6 +62,7 @@ d3.json("js/diret.json", function(error, root) {
 
         transition.selectAll("text")
             .filter(function(d) { return d.parent === focus || this.style.display === "inline"; })
+            .attr("color","#ffffff")
             .style("fill-opacity", function(d) { return d.parent === focus ? 1 : 0; })
             .each("start", function(d) { if (d.parent === focus) this.style.display = "inline"; })
             .each("end", function(d) { if (d.parent !== focus) this.style.display = "none"; });
