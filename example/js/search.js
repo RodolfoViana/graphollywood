@@ -8,9 +8,7 @@ function busca(){
   var deathDate;
   var biografia;
   
-  console.log("aushaus");
-
-
+  console.log("here");
 
 
   // Resgatar valores.
