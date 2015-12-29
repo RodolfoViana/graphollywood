@@ -21,6 +21,8 @@ $.getJSON("js/listMovieDirectors.json", function (data){
 
         //chart.xAxis.tickFormat(d3.format('.02f'));
         chart.yAxis.tickFormat(d3.format('.02f'));
+        chart.forceY([0,10]);
+
 
 
         director = getDirector("Steven Spielberg");
