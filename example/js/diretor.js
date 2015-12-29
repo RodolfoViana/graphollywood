@@ -28,38 +28,30 @@ $.getJSON("js/listMovieDirectors.json", function (data){
         d3.select('#test1 svg')
             .datum(nv.log(director)).call(chart);
 
-        // chart.tooltip.contentGenerator(function () {
-        // 	return "<table>" +
-        // 			    "<thead>" +
-        // 			    	"<tr>" + 
-        // 			    		"<td colspan='3'>" +
-        // 			    			 	"<strong class='x-value'>"+ director[0].values[1].movie +"</strong>" +
-        // 			    	    "</td>"+
-        // 			    	"</tr>" +
+        chart.tooltip.contentGenerator(function (d) {
+            
+          var html = "<table><thead><td colspan='3'>Movie: <b>"+d.point.movie+"</b></td></thead>" 
+          
+          d.series.forEach(function(elem){
+            var movie = d.point.movie;
+            var year = d.point.x;
+            var rating = d.point.y;
+            var votes = d.point.size;
+            var cover = d.point.cover;
+            html += "<tbody><tr><td colspan='3'>Year: <b>" + year + "</b></tr>";
+            html += "<tr><td>rating: <b>" + rating + "</b></tr>";
+            html += "<tr><td>votes: <b>" + votes + "</b></tr><td></tbody></table>";
+            if (cover != "NA"){
+                html += "<img src=" + cover + " align='center'>";
+            }
+            
+          })
+          return html;
+        });
 
-        // 			    "</thead>" +
+        
+    return chart;
 
-
-        // 			    "<tbody>" +
-        // 			    	"<tr>" +
-        // 			    		"<td class='legend-color-guide'>" +
-        // 			    			"<div style='background-color: rgb(31,119,180)'></div>" +
-        // 			    		"</td>" +
-        // 			    		"<td class='key'>"+ director[0].key +"</td>" +
-
-        //  			    	"<td class='value'>" + director[0].values[1].size + " votes</td>"+
-        //  			    	"<td>" + director[0].values[1].x + "</td>" +
-        // 			    	"</tr>"
-        // 			    "</tbody>" +
-
-        // 			    "<img src='' style='width:304px;height:228px;'>" +
-        // 	      "</table>";
-        // });
-
-
-        nv.utils.windowResize(chart.update);
-        chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
-        return chart;
     });
 
 
@@ -81,37 +73,18 @@ $.getJSON("js/listMovieDirectors.json", function (data){
 
                 var movies = allMovies[i]["movies"];
                 for (j = 0; j < movies.length; j++) {
+                    console.log(movies[j]["cover"])
                     data[0].values.push({
                         x: parseInt(movies[j]["year"], 10),
                         y: parseInt(movies[j]["rating"]),
                         size: parseInt(movies[j]["cover"]),
+                        cover: movies[j]["fcover"],
                         movie: movies[j]["movie"],
                         shape: shapes[j % shapes.length]
                     });
                 }
             };
         };
-
-        // for (i = 0; i < groups; i++) {
-        //     data.push({
-        //         key: allMovies[i].director,
-        //         values: [],
-        //         slope: Math.random() - .01,
-        //         intercept: Math.random() - .5
-        //     });
-
-
-        //     var movies = allMovies[i]["movies"];
-        //     for (j = 0; j < movies.length; j++) {
-        //         data[i].values.push({
-        //             x: parseInt(movies[j]["year"], 10),
-        //             y: parseInt(movies[j]["rating"]),
-        //             size: parseInt(movies[j]["cover"]),
-        //             movie: movies[j]["movie"],
-        //             shape: shapes[j % shapes.length]
-        //         });
-        //     }
-        // }
         return data;
     }
 
