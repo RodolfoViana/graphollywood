@@ -2,8 +2,37 @@ var allMovies;
 var director;
 $.getJSON("js/listMovieDirectors.json", function (data){
     allMovies = data;
+    director = getDirector("Steven Spielberg");
 
     var chart;
+    var linechart;
+
+
+    nv.addGraph(function() {
+        var linechart = nv.models.lineChart();
+        //.margin({left: 100, right: 70})  //Adjust chart margins to give the x-axis some breathing room.              
+  
+        linechart.forceY([0,10]);
+        linechart.showYAxis(false).showXAxis(false);
+        linechart.interactive(false);
+        linechart.showLegend(false);
+
+  // linechart.yAxis     //Chart y-axis settings
+  //     .axisLabel('Voltage (v)')
+  //     .tickFormat(d3.format('.02f'));
+
+  /* Done setting the chart up? Time to render it!*/
+  var myData = lineReg();   //You need data...
+
+  d3.select('#test1 svg')    //Select the <svg> element you want to render the chart in.   
+      .datum(myData)         //Populate the <svg> element with chart data...
+      .call(linechart)       //Finally, render the chart!
+
+  //Update the chart when window resizes.
+  //nv.utils.windowResize(function() { linechart.update() });
+  return linechart;
+});
+
     nv.addGraph(function() {
         chart = nv.models.scatterChart()
             .showDistX(false)
@@ -19,50 +48,80 @@ $.getJSON("js/listMovieDirectors.json", function (data){
             console.log('render complete');
         });
 
+
         //chart.xAxis.tickFormat(d3.format('.02f'));
         chart.yAxis.tickFormat(d3.format('.02f'));
+        chart.forceY([0,10]);
+        chart.showLegend(false);
 
 
-        director = getDirector("Steven Spielberg");
+         chart.yAxis
+         .axisLabel('Rating');
+
+         chart.xAxis
+         .axisLabel('Year');
 
         d3.select('#test1 svg')
             .datum(nv.log(director)).call(chart);
 
-        // chart.tooltip.contentGenerator(function () {
-        // 	return "<table>" +
-        // 			    "<thead>" +
-        // 			    	"<tr>" + 
-        // 			    		"<td colspan='3'>" +
-        // 			    			 	"<strong class='x-value'>"+ director[0].values[1].movie +"</strong>" +
-        // 			    	    "</td>"+
-        // 			    	"</tr>" +
-
-        // 			    "</thead>" +
-
-
-        // 			    "<tbody>" +
-        // 			    	"<tr>" +
-        // 			    		"<td class='legend-color-guide'>" +
-        // 			    			"<div style='background-color: rgb(31,119,180)'></div>" +
-        // 			    		"</td>" +
-        // 			    		"<td class='key'>"+ director[0].key +"</td>" +
-
-        //  			    	"<td class='value'>" + director[0].values[1].size + " votes</td>"+
-        //  			    	"<td>" + director[0].values[1].x + "</td>" +
-        // 			    	"</tr>"
-        // 			    "</tbody>" +
-
-        // 			    "<img src='' style='width:304px;height:228px;'>" +
-        // 	      "</table>";
-        // });
+        chart.tooltip.contentGenerator(function (d) {
+            
+          var html = "<table><thead><td colspan='3'>Movie: <b>"+d.point.movie+"</b></td></thead>" 
+          
+          d.series.forEach(function(elem){
+            
+            var movie = d.point.movie;
+            var year = d.point.x;
+            var rating = d.point.y;
+            var votes = d.point.size;
+            var cover = d.point.cover;
+            html += "<tbody><tr><td colspan='3'>Year: <b>" + year + "</b></tr>";
+            html += "<tr><td>rating: <b>" + rating + "</b></tr>";
+            html += "<tr><td>votes: <b>" + votes + "</b></tr><td></tbody></table>";
+            if (cover != "NA"){
+                html += "<img src=" + cover + " align='center'>";
+            }
+            
+          })
+          return html;
+        });
 
 
-        nv.utils.windowResize(chart.update);
-        chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
-        return chart;
+
+        
+    return chart;
+
     });
 
+    /*These lines are all chart setup.  Pick and choose which chart features you want to utilize. */
 
+/**************************************
+ * Simple test data generator
+ */
+function lineReg() {
+  var reg = [];
+  var regValues = [];
+
+  //Data is represented as an array of {x,y} pairs.
+  director[0].values.forEach(function (r) {
+    regValues.push([r.x, r.y]);
+  });
+
+  var result = regression('linearThroughOrigin', regValues);
+
+  result.points.forEach(function (e) {
+    reg.push({x: e[0], y: e[1]});
+  });
+
+  //Line chart data should be sent as an array of series objects.
+  return [
+    {
+      values: reg,      //values - represents the array of {x,y} data points
+      key: '', //key  - the name of the series.
+      color: '#ff7f0e'  //color - optional: choose your own line color.
+    }
+  ];
+}
 
     function getDirector(name) { //# groups,# points per group
         var data = [],
@@ -81,37 +140,18 @@ $.getJSON("js/listMovieDirectors.json", function (data){
 
                 var movies = allMovies[i]["movies"];
                 for (j = 0; j < movies.length; j++) {
+                    
                     data[0].values.push({
                         x: parseInt(movies[j]["year"], 10),
                         y: parseInt(movies[j]["rating"]),
                         size: parseInt(movies[j]["cover"]),
+                        cover: movies[j]["fcover"],
                         movie: movies[j]["movie"],
                         shape: shapes[j % shapes.length]
                     });
                 }
             };
         };
-
-        // for (i = 0; i < groups; i++) {
-        //     data.push({
-        //         key: allMovies[i].director,
-        //         values: [],
-        //         slope: Math.random() - .01,
-        //         intercept: Math.random() - .5
-        //     });
-
-
-        //     var movies = allMovies[i]["movies"];
-        //     for (j = 0; j < movies.length; j++) {
-        //         data[i].values.push({
-        //             x: parseInt(movies[j]["year"], 10),
-        //             y: parseInt(movies[j]["rating"]),
-        //             size: parseInt(movies[j]["cover"]),
-        //             movie: movies[j]["movie"],
-        //             shape: shapes[j % shapes.length]
-        //         });
-        //     }
-        // }
         return data;
     }
 
