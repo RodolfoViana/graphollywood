@@ -2,8 +2,37 @@ var allMovies;
 var director;
 $.getJSON("js/listMovieDirectors.json", function (data){
     allMovies = data;
+    director = getDirector("Steven Spielberg");
 
     var chart;
+    var linechart;
+
+
+    nv.addGraph(function() {
+        var linechart = nv.models.lineChart();
+        //.margin({left: 100, right: 70})  //Adjust chart margins to give the x-axis some breathing room.              
+  
+        linechart.forceY([0,10]);
+        linechart.showYAxis(false).showXAxis(false);
+        linechart.interactive(false);
+        linechart.showLegend(false);
+
+  // linechart.yAxis     //Chart y-axis settings
+  //     .axisLabel('Voltage (v)')
+  //     .tickFormat(d3.format('.02f'));
+
+  /* Done setting the chart up? Time to render it!*/
+  var myData = lineReg();   //You need data...
+
+  d3.select('#test1 svg')    //Select the <svg> element you want to render the chart in.   
+      .datum(myData)         //Populate the <svg> element with chart data...
+      .call(linechart)       //Finally, render the chart!
+
+  //Update the chart when window resizes.
+  //nv.utils.windowResize(function() { linechart.update() });
+  return linechart;
+});
+
     nv.addGraph(function() {
         chart = nv.models.scatterChart()
             .showDistX(false)
@@ -19,13 +48,18 @@ $.getJSON("js/listMovieDirectors.json", function (data){
             console.log('render complete');
         });
 
+
         //chart.xAxis.tickFormat(d3.format('.02f'));
         chart.yAxis.tickFormat(d3.format('.02f'));
         chart.forceY([0,10]);
+        chart.showLegend(false);
 
 
+         chart.yAxis
+         .axisLabel('Rating');
 
-        director = getDirector("Steven Spielberg");
+         chart.xAxis
+         .axisLabel('Year');
 
         d3.select('#test1 svg')
             .datum(nv.log(director)).call(chart);
@@ -35,6 +69,7 @@ $.getJSON("js/listMovieDirectors.json", function (data){
           var html = "<table><thead><td colspan='3'>Movie: <b>"+d.point.movie+"</b></td></thead>" 
           
           d.series.forEach(function(elem){
+            
             var movie = d.point.movie;
             var year = d.point.x;
             var rating = d.point.y;
@@ -51,12 +86,42 @@ $.getJSON("js/listMovieDirectors.json", function (data){
           return html;
         });
 
+
+
         
     return chart;
 
     });
 
+    /*These lines are all chart setup.  Pick and choose which chart features you want to utilize. */
 
+/**************************************
+ * Simple test data generator
+ */
+function lineReg() {
+  var reg = [];
+  var regValues = [];
+
+  //Data is represented as an array of {x,y} pairs.
+  director[0].values.forEach(function (r) {
+    regValues.push([r.x, r.y]);
+  });
+
+  var result = regression('linearThroughOrigin', regValues);
+
+  result.points.forEach(function (e) {
+    reg.push({x: e[0], y: e[1]});
+  });
+
+  //Line chart data should be sent as an array of series objects.
+  return [
+    {
+      values: reg,      //values - represents the array of {x,y} data points
+      key: '', //key  - the name of the series.
+      color: '#ff7f0e'  //color - optional: choose your own line color.
+    }
+  ];
+}
 
     function getDirector(name) { //# groups,# points per group
         var data = [],
@@ -75,7 +140,7 @@ $.getJSON("js/listMovieDirectors.json", function (data){
 
                 var movies = allMovies[i]["movies"];
                 for (j = 0; j < movies.length; j++) {
-                    console.log(movies[j]["cover"])
+                    
                     data[0].values.push({
                         x: parseInt(movies[j]["year"], 10),
                         y: parseInt(movies[j]["rating"]),
