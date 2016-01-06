@@ -26,17 +26,18 @@
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="css/creative.css" type="text/css">
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"/>
 
 
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    <meta name="description" content="Tips & Tricks: How to spice up your menu with CSS3" />
-    <meta name="keywords" content="menu, hover, css3, effect, slide out, image, transition" />
-    <meta name="author" content="Codrops" />
-    <link rel="shortcut icon" href="../favicon.ico"> 
-    <link rel="stylesheet" type="text/css" href="css/demo.css" />
-    <link rel="stylesheet" type="text/css" href="css/style.css" />
-    <link href='http://fonts.googleapis.com/css?family=Hind' rel='stylesheet' type='text/css' />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Tips & Tricks: How to spice up your menu with CSS3"/>
+    <meta name="keywords" content="menu, hover, css3, effect, slide out, image, transition"/>
+    <meta name="author" content="Codrops"/>
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/demo.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <link href='http://fonts.googleapis.com/css?family=Hind' rel='stylesheet' type='text/css'/>
 
     <style>
 
@@ -68,7 +69,6 @@
 
     </style>
 
-    </head>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -107,7 +107,7 @@
                 <li>
                     <a class="page-scroll" href="about_us.html">About</a>
                 </li>
-                
+
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -118,55 +118,66 @@
 <header>
     <div class="header-content">
         <div class="header-content-inner">
-           <div class="row">
-               <br>
-               <br>
-               <br>
-               <br>
-               <br>
-               <br>
-               <div class="col-xs-push-3 col-xs-6 text-center">
-                   <img src="img/hollygraph2.png" class="img-responsive" alt="">
-               </div>
-           </div>
+            <div class="row">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+
+                <div class="col-xs-push-3 col-xs-6 text-center">
+                    <img src="img/hollygraph2.png" class="img-responsive" alt="">
+                </div>
+            </div>
             <br>
             <br>
             <br>
+            <!--<div class="ui-widget">-->
+            <!--<label for="tags">Tags: </label>-->
+            <!--<input id="tags">-->
+            <!--</div>-->
             <!--row search bar-->
+            <div id="director" class="director" name="director"></div>
             <div class="row">
                 <div class="col-xs-push-3 col-xs-6 text-center">
-                    <div class="input-group">
-                        <input type="text" class="form-control" placeholder="Search for...">
+                    <form>
+                        <div class="input-group">
+                            <input id="search" name="search" type="text" class="form-control"
+                                   placeholder="Search for..."/>
                         <span class="input-group-btn">
-                            <a href="diretor2.html"><button class="btn btn-default" type="button">Go!</button></a>
+                            <a href="diretor2.html" id="go_link">
+                                <button class="btn btn-default" id="go_button" type="button">Go!</button>
+                            </a>
                         </span>
-                
-                    </div>
-                    <!-- /input-group -->
+
+                        </div>
+                        <!-- /input-group --></form>
+
                 </div>
                 <!-- /.col-lg-12 -->
-            <!-- /.row search bar-->
-            <br>
-            <br>
-            <!--<a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>-->
+                <!-- /.row search bar-->
+                <br>
+                <br>
+                <!--<a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>-->
+            </div>
         </div>
-    </div>
 </header>
 
 <section class="bg-dark" id="filmografy">
     <div class="container">
         <div class="row">
-            <div id="filmography"  class="col-lg-8 col-lg-offset-2 text-center">
+            <div id="filmography" class="col-lg-8 col-lg-offset-2 text-center">
                 <!--<h2 class="section-heading">We've got what you need!</h2>-->
                 <!--<hr class="light">-->
                 <!--<p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in-->
-                    <!--no time! All of the templates and themes on Start Bootstrap are open source, free to download, and-->
-                    <!--easy to use. No strings attached!</p>-->
+                <!--no time! All of the templates and themes on Start Bootstrap are open source, free to download, and-->
+                <!--easy to use. No strings attached!</p>-->
                 <!--<a href="#" class="btn btn-default btn-xl">Get Started!</a>-->
             </div>
         </div>
     </div>
-    <div >
+    <div>
 
     </div>
     <script src="js/d3.min.js"></script>
@@ -264,31 +275,43 @@
 <section class="bg-primary" id="analysis">
     <div class="container">
         <div class="row">
-                <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="container">
-                    <h2>Top 5 Rising</h2>       
+                    <h2>Top 5 Rising</h2>
                     <ul class="mh-menu">
-                        <li><a href="#"><span>Top 1</span> <span>W.S. Van Dyke</span></a><img src="images/01 - Rising.jpg" alt="image01" width="220px"/></li>
-                        <li><a href="#"><span>Top 2</span> <span>Çagan Irmak</span></a><img src="images/02 - Rising.jpg" alt="image02" width="220px"/></li>
-                        <li><a href="#"><span>Top 3</span> <span>Thomas Vinterberg</span></a><img src="images/03 - Rising.jpg" alt="image03" width="220px"/></li>
-                        <li><a href="#"><span>Top 4</span> <span>Kenji Misumi</span></a><img src="images/hollygraph-07.png" alt="image04" width="220px"/></li>
-                        <li><a href="#"><span>Top 5</span> <span>Damián Szifrón</span></a><img src="images/05 - Rising.jpg" alt="image04" width="220px"/></li>
+                        <li><a href="#"><span>Top 1</span> <span>W.S. Van Dyke</span></a><img
+                                src="images/01 - Rising.jpg" alt="image01" width="220px"/></li>
+                        <li><a href="#"><span>Top 2</span> <span>Çagan Irmak</span></a><img src="images/02 - Rising.jpg"
+                                                                                            alt="image02"
+                                                                                            width="220px"/></li>
+                        <li><a href="#"><span>Top 3</span> <span>Thomas Vinterberg</span></a><img
+                                src="images/03 - Rising.jpg" alt="image03" width="220px"/></li>
+                        <li><a href="#"><span>Top 4</span> <span>Kenji Misumi</span></a><img
+                                src="images/hollygraph-07.png" alt="image04" width="220px"/></li>
+                        <li><a href="#"><span>Top 5</span> <span>Damián Szifrón</span></a><img
+                                src="images/05 - Rising.jpg" alt="image04" width="220px"/></li>
                     </ul>
                 </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="container">
-                    <h2>Top 5 Downward</h2>         
+            </div>
+            <div class="col-lg-6">
+                <div class="container">
+                    <h2>Top 5 Downward</h2>
                     <ul class="mh-menu">
-                        <li><a href="#"><span>Top 1</span> <span>Kátia Lund</span></a><img src="images/01 - Downward.jpg" alt="image01" width="220px"/></li>
-                        <li><a href="#"><span>Top 2</span> <span>Hal Ashby</span></a><img src="images/02 - Downward.jpg" alt="image02" width="220px"/></li>
-                        <li><a href="#"><span>Top 3</span> <span>Frank Darabont</span></a><img src="images/05 - Downward.jpg" alt="image03" width="220px"/></li>
-                        <li><a href="#"><span>Top 4</span> <span>Slobodan Sijan</span></a><img src="images/06 - Downward.jpg" alt="image04" width="220px"/></li>
-                        <li><a href="#"><span>Top 5</span> <span>Preston Sturges</span></a><img src="images/04 - Downward.jpg" alt="image04" width="220px"/></li>
+                        <li><a href="#"><span>Top 1</span> <span>Kátia Lund</span></a><img
+                                src="images/01 - Downward.jpg" alt="image01" width="220px"/></li>
+                        <li><a href="#"><span>Top 2</span> <span>Hal Ashby</span></a><img src="images/02 - Downward.jpg"
+                                                                                          alt="image02" width="220px"/>
+                        </li>
+                        <li><a href="#"><span>Top 3</span> <span>Frank Darabont</span></a><img
+                                src="images/05 - Downward.jpg" alt="image03" width="220px"/></li>
+                        <li><a href="#"><span>Top 4</span> <span>Slobodan Sijan</span></a><img
+                                src="images/06 - Downward.jpg" alt="image04" width="220px"/></li>
+                        <li><a href="#"><span>Top 5</span> <span>Preston Sturges</span></a><img
+                                src="images/04 - Downward.jpg" alt="image04" width="220px"/></li>
                     </ul>
                 </div>
 
-                </div>
+            </div>
         </div>
 
         <br>
@@ -296,31 +319,46 @@
         <br>
 
         <div class="row">
-                <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="container">
                     <h3>Most Awarded Directors</h3>
                     <ul class="mh-menu">
-                        <li><a href="#"><span>Top 1</span> <span>Woody Allen</span></a><img src="images/Woody Allen.jpg" alt="image01" width="220px"/></li>
-                        <li><a href="#"><span>Top 2</span> <span>John Huston</span></a><img src="images/John Huston.jpg" alt="image02" width="220px"/></li>
-                        <li><a href="#"><span>Top 3</span> <span>Stanley Kubrick</span></a><img src="images/Stanley Kubrick.jpg" alt="image03" width="220px"/></li>
-                        <li><a href="#"><span>Top 4</span> <span>Ethan Coen</span></a><img src="images/Ethan Coen.jpg" alt="image04" width="220px"/></li>
-                        <li><a href="#"><span>Top 5</span> <span>Martin Scorsese</span></a><img src="images/Martin Scorsese.jpg" alt="image04" width="220px"/></li>
+                        <li><a href="#"><span>Top 1</span> <span>Woody Allen</span></a><img src="images/Woody Allen.jpg"
+                                                                                            alt="image01"
+                                                                                            width="220px"/></li>
+                        <li><a href="#"><span>Top 2</span> <span>John Huston</span></a><img src="images/John Huston.jpg"
+                                                                                            alt="image02"
+                                                                                            width="220px"/></li>
+                        <li><a href="#"><span>Top 3</span> <span>Stanley Kubrick</span></a><img
+                                src="images/Stanley Kubrick.jpg" alt="image03" width="220px"/></li>
+                        <li><a href="#"><span>Top 4</span> <span>Ethan Coen</span></a><img src="images/Ethan Coen.jpg"
+                                                                                           alt="image04" width="220px"/>
+                        </li>
+                        <li><a href="#"><span>Top 5</span> <span>Martin Scorsese</span></a><img
+                                src="images/Martin Scorsese.jpg" alt="image04" width="220px"/></li>
                     </ul>
                 </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="container">
+            </div>
+            <div class="col-lg-6">
+                <div class="container">
                     <h3>Unluckiest Directors </h3>
                     <ul class="mh-menu">
-                        <li><a href="#"><span>Top 1</span> <span>Mike Leigh</span></a><img src="images/Mike Leigh.jpg" alt="image01" width="220px"/></li>
-                        <li><a href="#"><span>Top 2</span> <span>Wes Anderson</span></a><img src="images/Wes Anderson.jpg" alt="image02" width="220px"/></li>
-                        <li><a href="#"><span>Top 3</span> <span>Peter Weir</span></a><img src="images/Peter Weir.jpg" alt="image03" width="220px"/></li>
-                        <li><a href="#"><span>Top 4</span> <span>Paul Thomas</span></a><img src="images/Paul Thomas Anderson.jpg" alt="image04" width="220px"/></li>
-                        <li><a href="#"><span>Top 5</span> <span>Jim Sheridan</span></a><img src="images/Jim Sheridan.jpg" alt="image04" width="220px"/></li>
+                        <li><a href="#"><span>Top 1</span> <span>Mike Leigh</span></a><img src="images/Mike Leigh.jpg"
+                                                                                           alt="image01" width="220px"/>
+                        </li>
+                        <li><a href="#"><span>Top 2</span> <span>Wes Anderson</span></a><img
+                                src="images/Wes Anderson.jpg" alt="image02" width="220px"/></li>
+                        <li><a href="#"><span>Top 3</span> <span>Peter Weir</span></a><img src="images/Peter Weir.jpg"
+                                                                                           alt="image03" width="220px"/>
+                        </li>
+                        <li><a href="#"><span>Top 4</span> <span>Paul Thomas</span></a><img
+                                src="images/Paul Thomas Anderson.jpg" alt="image04" width="220px"/></li>
+                        <li><a href="#"><span>Top 5</span> <span>Jim Sheridan</span></a><img
+                                src="images/Jim Sheridan.jpg" alt="image04" width="220px"/></li>
                     </ul>
                 </div>
 
-                </div>
+            </div>
         </div>
 
         <br>
@@ -329,45 +367,60 @@
 
 
         <div class="row">
-                <div class="col-lg-6">
+            <div class="col-lg-6">
                 <div class="container">
                     <h2>Most Awarded Actors</h2>
                     <ul class="mh-menu">
-                        <li><a href="#"><span>Top 1</span> <span>Woody Allen</span></a><img src="images/Woody Allen.jpg" alt="image01" width="220px"/></li>
-                        <li><a href="#"><span>Top 2</span> <span>Jack Nicholson</span></a><img src="images/Jack Nicholson.jpg" alt="image02" width="220px"/></li>
-                        <li><a href="#"><span>Top 3</span> <span>Al Pacino</span></a><img src="images/Al Pacino.jpg" alt="image03" width="220px"/></li>
-                        <li><a href="#"><span>Top 4</span> <span>Marlon Brando</span></a><img src="images/Marlon Brando.jpg" alt="image04" width="220px"/></li>
-                        <li><a href="#"><span>Top 5</span> <span>George Clooney</span></a><img src="images/George Clooney.jpg" alt="image04" width="220px"/></li>
+                        <li><a href="#"><span>Top 1</span> <span>Woody Allen</span></a><img src="images/Woody Allen.jpg"
+                                                                                            alt="image01"
+                                                                                            width="220px"/></li>
+                        <li><a href="#"><span>Top 2</span> <span>Jack Nicholson</span></a><img
+                                src="images/Jack Nicholson.jpg" alt="image02" width="220px"/></li>
+                        <li><a href="#"><span>Top 3</span> <span>Al Pacino</span></a><img src="images/Al Pacino.jpg"
+                                                                                          alt="image03" width="220px"/>
+                        </li>
+                        <li><a href="#"><span>Top 4</span> <span>Marlon Brando</span></a><img
+                                src="images/Marlon Brando.jpg" alt="image04" width="220px"/></li>
+                        <li><a href="#"><span>Top 5</span> <span>George Clooney</span></a><img
+                                src="images/George Clooney.jpg" alt="image04" width="220px"/></li>
                     </ul>
                 </div>
 
-                </div>
-                <div class="col-lg-6">
-                    <div class="container">
+            </div>
+            <div class="col-lg-6">
+                <div class="container">
                     <h2>Unluckiest Actors</h2>
                     <ul class="mh-menu">
-                        <li><a href="#"><span>Top 1</span> <span>Leonardo DiCaprio</span></a><img src="images/Leonardo DiCaprio.jpg" alt="image01" width="220px"/></li>
-                        <li><a href="#"><span>Top 2</span> <span>Albert Finney</span></a><img src="images/Albert Finney.jpg" alt="image02" width="220px"/></li>
-                        <li><a href="#"><span>Top 3</span> <span>Ed Harris</span></a><img src="images/Ed Harris.jpg" alt="image03" width="220px"/></li>
-                        <li><a href="#"><span>Top 4</span> <span>Ethan Hawke</span></a><img src="images/Ethan Hawke.jpg" alt="image04" width="220px"/></li>
-                        <li><a href="#"><span>Top 5</span> <span>Johnny Depp</span></a><img src="images/Johnny Depp.jpg" alt="image04" width="220px"/></li>
+                        <li><a href="#"><span>Top 1</span> <span>Leonardo DiCaprio</span></a><img
+                                src="images/Leonardo DiCaprio.jpg" alt="image01" width="220px"/></li>
+                        <li><a href="#"><span>Top 2</span> <span>Albert Finney</span></a><img
+                                src="images/Albert Finney.jpg" alt="image02" width="220px"/></li>
+                        <li><a href="#"><span>Top 3</span> <span>Ed Harris</span></a><img src="images/Ed Harris.jpg"
+                                                                                          alt="image03" width="220px"/>
+                        </li>
+                        <li><a href="#"><span>Top 4</span> <span>Ethan Hawke</span></a><img src="images/Ethan Hawke.jpg"
+                                                                                            alt="image04"
+                                                                                            width="220px"/></li>
+                        <li><a href="#"><span>Top 5</span> <span>Johnny Depp</span></a><img src="images/Johnny Depp.jpg"
+                                                                                            alt="image04"
+                                                                                            width="220px"/></li>
                     </ul>
                 </div>
 
-                </div>
+            </div>
         </div>
 
     </div>
-    <div >
+    <div>
 
     </div>
 
 </section>
 
 
-
 <!-- jQuery -->
-<script src="js/jquery.js"></script>
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>
@@ -381,7 +434,6 @@
 <script src="js/creative.js"></script>
 
 <script type="text/javascript" src="js/search.js"></script>
-<script type="text/javascript" src="js/diretor.js"></script>
 
 </body>
 
