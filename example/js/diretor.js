@@ -5,6 +5,11 @@ $.getJSON("js/listMovieDirectors.json", function (data) {
     allMovies = data;
     director = getDirector(getParameterByName('director'));
 
+    //show a specific director as chart example.
+    if (director.length == 0){
+        director = getDirector("Quentin Tarantino");
+    }    
+    
     var chart;
     var linechart;
 
@@ -171,7 +176,7 @@ function busca(){
     var deathDate;
     var biografia;
 
-    console.log("here");
+    
 
 
     // Resgatar valores.
