@@ -85,7 +85,7 @@ $.getJSON("example/js/listMovieDirectors.json", function (data) {
                 html += "<tr><td>rating: <b>" + rating + "</b></tr>";
                 html += "<tr><td>votes: <b>" + votes + "</b></tr><td></tbody></table>";
                 if (cover != "NA") {
-                    html += "<img src=" + cover + " align='center'>";
+                    html += "<img src='" + cover + "' align='center'>";
                 }
 
             })
