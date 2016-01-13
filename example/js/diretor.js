@@ -201,7 +201,7 @@ function busca(){
                     this.urlFoto = '<img src=' + data.directors[i].FIELD2.trim() + '" class="img-responsive"><br />';
                     this.birthDate =  data.directors[i].FIELD4 + '<br />';
 
-
+                    //console.log(data.directors[i].FIELD2.trim());
                     if (data.directors[i].FIELD5.trim() == "NA"){
                         this.deathDate = '---';
                     }else{

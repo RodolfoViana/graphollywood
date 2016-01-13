@@ -11,8 +11,8 @@ $(document).ready(
 
 $("#go_button").click(function(){
     var value = $( "#search").val()
-    console.log("diretor2.html?director="+value)
-    $("#go_link").attr("href", "diretor2.html?director="+value);
+    console.log("diretor.html?director="+value)
+    $("#go_link").attr("href", "diretor.html?director="+value);
 });
 
 
