@@ -1365,7 +1365,7 @@ button, input, select, textarea {
 }
 
 a {
-    color: #337ab7;
+    color: #9a1a26;
     text-decoration: none
 }
 
@@ -1565,7 +1565,7 @@ p {
 }
 
 .text-primary {
-    color: #337ab7
+    color: #9a1a26
 }
 
 a.text-primary:focus, a.text-primary:hover {
@@ -1606,7 +1606,7 @@ a.text-danger:focus, a.text-danger:hover {
 
 .bg-primary {
     color: #fff;
-    background-color: #337ab7
+    background-color: #9a1a26
 }
 
 a.bg-primary:focus, a.bg-primary:hover {
@@ -3432,7 +3432,7 @@ a.btn.disabled, fieldset[disabled] a.btn {
 }
 
 .btn-default {
-    color: #333;
+    color: #9a1a26;
     background-color: #fff;
     border-color: #ccc
 }
