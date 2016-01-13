@@ -45,7 +45,7 @@
         //colors that will reflect geographical regions
                 color = d3.scale.ordinal()
                 .domain(["outros","pmdb","psdb","psol","pt"])
-                .range(["#bdbdbd", "darkred", "#0066CC", "#E69F00", "#FF3300"]);
+                .range(["#0066CC", "darkred", "#0066CC", "#E69F00", "#FF3300"]);
 
 
         var svg = d3.select("#genres").append("svg")
@@ -57,14 +57,14 @@
         // set axes, as well as details on their ticks
         var xAxis = d3.svg.axis()
                 .scale(x)
-                .ticks(0)
+                .ticks(10)
                 .tickSubdivide(true)
                 .tickSize(6, 3, 0)
                 .orient("bottom");
 
         var yAxis = d3.svg.axis()
                 .scale(y)
-                .ticks(0)
+                .ticks(5)
                 .tickSubdivide(true)
                 .tickSize(6, 3, 0)
                 .orient("left");
@@ -186,7 +186,7 @@
             svg.append("text")
                     .attr("class", "y label")
                     .attr("text-anchor", "end")
-                    .attr("x", -20)
+                    .attr("x", - 20)
                     .attr("y", 45)
                     .attr("dy", ".75em")
                     .attr("transform", "rotate(-90)")
