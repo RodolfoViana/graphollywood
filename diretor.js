@@ -199,7 +199,7 @@ function busca(){
 
                     this.nome =  data.directors[i].FIELD1 + '<br />';
                     photo = data.directors[i].FIELD2
-                    console.log(photo)
+
                     this.urlFoto = '<img src=' + photo + ' class="img-responsive"><br />';
                     this.birthDate =  data.directors[i].FIELD4 + '<br />';
 
