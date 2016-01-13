@@ -5,15 +5,14 @@ import imdb
 print 'actor\tmovie\tyear\trating\tvotes\tcover\tfcover'
 
 ia = imdb.IMDb()
-with open('formatData/directors.txt') as f:
+with open('formatData/actors.txt') as f:
     next(f)
-    #for id_actors in f:
-        #actor = ia.get_person(id_actors)
-    actor = ia.get_person('0000210')
-    movie_list = actor['actress']
+    for id_actors in f:
+    	actor = ia.get_person(id_actors)
+	movie_list = actor['actor']
 
 
-    for movie in movie_list:
+    	for movie in movie_list:
             movieId = movie.getID()
             movie = ia.get_movie(movieId)
 

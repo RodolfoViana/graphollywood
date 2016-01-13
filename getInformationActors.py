@@ -2,7 +2,7 @@
 
 
 import imdb
-print 'actor\tfoto\tbiografia\tbirthDate\tdeathDate'
+print 'actor\tfoto\tbiografia\tbirthDate\tdeathDate\tid'
 
 ia = imdb.IMDb()
 with open('formatData/actors.txt') as f:
@@ -16,7 +16,8 @@ with open('formatData/actors.txt') as f:
             foto = "NA"
 
         if (actor.has_key('biography')):
-            biografia = str(actor['biography'])
+            biografia = str(actor['mini biography'])
+	    biografia = biografia[3:-2]
         else:
             biografia = "NA"
 
@@ -30,7 +31,7 @@ with open('formatData/actors.txt') as f:
         else:
             morte = "NA"
 
-        print str(actor) + '\t ' + foto + '\t ' + biografia + '\t ' + nascimento + '\t ' + morte
+        print	str(actor) + '\t' + foto + '\t' + biografia + '\t' + nascimento + '\t' + morte + '\t' + id_actors
 
 
 

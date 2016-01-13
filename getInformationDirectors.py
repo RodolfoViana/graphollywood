@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
 
-
 import imdb
-print 'diretor\tfoto\tbiografia\tbirthDate\tdeathDate'
+print 'diretor\tfoto\tbiografia\tbirthDate\tdeathDate\tid'
 
 ia = imdb.IMDb()
-with open('formatData/directors.txt') as f:
+with open('directors.txt') as f:
     next(f)
     for id_directors in f:
         director = ia.get_person(id_directors)
@@ -15,8 +14,9 @@ with open('formatData/directors.txt') as f:
         else:
             foto = "NA"
 
-        if (director.has_key('biography')):
-            biografia = str(director['biography'])
+        if (director.has_key('mini biography')):
+            biografia = str(director['mini biography'])
+	    biografia = biografia[3:-2]
         else:
             biografia = "NA"
 
@@ -30,7 +30,7 @@ with open('formatData/directors.txt') as f:
         else:
             morte = "NA"
 
-        print str(director) + '\t ' + foto + '\t ' + biografia + '\t ' + nascimento + '\t ' + morte
+        print	str(director) + '\t' + foto + '\t' + biografia + '\t' + nascimento + '\t' + morte + '\t' + str(id_directors)
 
 
 
