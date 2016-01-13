@@ -1,7 +1,7 @@
 var allMovies;
 var director;
 
-$.getJSON("example/js/listMovieDirectors.json", function (data) {
+$.getJSON("js/movieDirectors.json", function (data) {
     allMovies = data;
     director = getDirector(getParameterByName('director'));
 
