@@ -1,7 +1,7 @@
 var allMovies;
 var director;
 
-$.getJSON("data/movieDirectors.json", function (data) {
+$.getJSON("data/movieDirectors-2015.json", function (data) {
     allMovies = data;
     director = getDirector(getParameterByName('director'));
 
@@ -185,7 +185,7 @@ function busca(){
         $('#resultado').html('Carregando dados...');
 
         //Estrutura de resultado.
-        $.getJSON('data/information_directors.json', function(data){
+        $.getJSON('data/info_directors.json', function(data){
             this.qtd = data.directors.length;
             this.nome = '';
             this.urlFoto = '';
@@ -201,7 +201,8 @@ function busca(){
                 if (buscaInputTermos == data.directors[i].FIELD1){
 
                     this.nome =  data.directors[i].FIELD1 + '<br />';
-                    this.urlFoto = '<img src=' + data.directors[i].FIELD2.trim() + '" class="img-responsive"><br />';
+                    var photo = data.directors[i].FIELD2;
+                    this.urlFoto = '<img src="' + photo + '" class="img-responsive"><br />';
                     this.birthDate =  data.directors[i].FIELD4 + '<br />';
 
                     //console.log(data.directors[i].FIELD2.trim());
