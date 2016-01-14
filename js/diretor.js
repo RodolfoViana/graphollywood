@@ -185,7 +185,7 @@ function busca(){
         $('#resultado').html('Carregando dados...');
 
         //Estrutura de resultado.
-        $.getJSON('datas/informationDirectors.json', function(data){
+        $.getJSON('data/information_directors.json', function(data){
             this.qtd = data.directors.length;
             this.nome = '';
             this.urlFoto = '';
