@@ -156,9 +156,9 @@ function getDirector(name) { //# groups,# points per group
                     shape: shapes[j % shapes.length]
                 });
             }
-        }else{
+      
             //location.href="pageNotFound.html";
-        }
+        
     }
     return data;
 }
