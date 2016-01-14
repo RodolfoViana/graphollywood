@@ -155,6 +155,8 @@ function getDirector(name) { //# groups,# points per group
                     shape: shapes[j % shapes.length]
                 });
             }
+        }else{
+            location.href="http://www.site_a_ser_redirecionado.com"
         }
     }
     return data;
