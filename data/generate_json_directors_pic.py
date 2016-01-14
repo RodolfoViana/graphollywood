@@ -1,5 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 import re
 import json
+
 
 data = open('information_directors.json', 'r')
 
@@ -18,9 +21,9 @@ for d in directors:
 	f = re.sub('[^A-Za-z0-9]+', '', director_name)
 	
 
-	if director_pic[:4] == 'http':
-		d["FIELD2"] = 'img/directors_pic/' + f + '.jpg'	
-		print(d["FIELD2"])
+	
+	d["FIELD2"] = 'img/directors_pic/' + f + '.jpg'	
+	print(d["FIELD2"])
 		
 
 with open('info_directors.json', 'w') as outfile:
