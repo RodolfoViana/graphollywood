@@ -208,8 +208,8 @@ function busca(){
                         this.deathDate =  data.directors[i].FIELD5.trim() + '<br />';
                     }
 
-                    this.biography = data.directors[i].FIELD3.substring(0,100) + '...' + '<a href="/name/nm0000005/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
-
+                    this.biography = data.directors[i].FIELD3 + '...' + '<a href="/name/nm0000005/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
+                    
                 }
 
 
