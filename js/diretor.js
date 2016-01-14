@@ -184,15 +184,14 @@ function busca(){
     busca.prototype.resgatarValores = function(){
         $('#resultado').html('Carregando dados...');
 
-        // Estrutura de resultado.
+        //Estrutura de resultado.
         $.getJSON('datas/informationDirectors.json', function(data){
             this.qtd = data.directors.length;
             this.nome = '';
             this.urlFoto = '';
             this.birthDate = '';
             this.deathDate = '';
-            this.biography = '';
-            this.id_director = '';
+            this.biografia = '';
 
             buscaInputTermos = getParameterByName('director');
             
@@ -211,14 +210,9 @@ function busca(){
                         this.deathDate =  data.directors[i].FIELD5.trim() + '<br />';
                     }
 
-                    //this.id_director = data.directors[i].FIELD[6];
-
-                    this.biography = data.directors[i].FIELD3.substring(0,140) + '...' + '<a href="http://www.imdb.com/name/name/nm'+id_director+'/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
+                    this.biografia = data.directors[i].FIELD3 + '<br /><br />';
 
                 }
-            
-
-            console.log(biography);
 
 
             }
@@ -227,7 +221,7 @@ function busca(){
             $('#urlFoto').html(this.urlFoto);
             $('#birthDate').html(this.birthDate);
             $('#deathDate').html(this.deathDate);
-            $('#biography').html(this.biography);
+            $('#biografia').html(this.biografia);
 
         });
 
@@ -238,3 +232,4 @@ function busca(){
 // Objeto.
 var obj = new busca();
 obj.resgatarValores();
+
