@@ -213,7 +213,7 @@ function busca(){
 
                     this.id_director = data.directors[i].FIELD6
 
-                    this.biografia = data.directors[i].FIELD3.substring(0,140) + '...' + '<a href="http://www.imdb.com/name/name/nm'+id_director+'/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
+                    this.biografia = 'TESTE' + '...' + '<a href="http://www.imdb.com/name/name/nm'+id_director+'/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
 
                 }
 
