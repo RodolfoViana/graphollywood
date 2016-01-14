@@ -211,9 +211,10 @@ function busca(){
                         this.deathDate =  data.directors[i].FIELD5.trim() + '<br />';
                     }
 
-                    this.id_director = data.directors[i].FIELD6
+                    this.id_director = String(data.directors[i].FIELD6);
+                    console.log(id_director);
 
-                    this.biografia = data.directors[i].FIELD3.substring(0,140) + '...' + '<a href="http://www.imdb.com/name/name/nm'+id_director+'/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
+                    this.biografia = data.directors[i].FIELD3.substring(0,140) + '...' + '<a href="http://www.imdb.com/name/nm'+id_director+'/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
 
                 }
 
