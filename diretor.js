@@ -5,6 +5,10 @@ $.getJSON("data/movieDirectors-2015.json", function (data) {
     allMovies = data;
     director = getDirector(getParameterByName('director'));
 
+    if (director ===  null){
+        location.href='pageNotFound.html';
+    }
+
     //show a specific director as chart example.
     if (director.length == 0){
         director = getDirector("Quentin Tarantino");
@@ -129,6 +133,9 @@ function lineReg() {
 
 
 function getDirector(name) { //# groups,# points per group
+    if (name === null || name.length === 0){
+        location.href='pageNotFound.html';
+    }
     var data = [],
         shapes = ['circle'],
         random = d3.random.normal();
@@ -161,6 +168,10 @@ function getDirector(name) { //# groups,# points per group
 }
 
 function getParameterByName(name) {
+     if (name === null || name.length === 0){
+        location.href='pageNotFound.html';
+    }
+    
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
     var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
         results = regex.exec(location.search);
