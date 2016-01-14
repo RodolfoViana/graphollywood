@@ -7,6 +7,7 @@ $.getJSON("data/movieDirectors.json", function (data) {
 
     //show a specific director as chart example.
     if (director.length == 0){
+        //location.href="pageNotFound.html";
         director = getDirector("Quentin Tarantino");
     }    
     
@@ -156,7 +157,7 @@ function getDirector(name) { //# groups,# points per group
                 });
             }
         }else{
-            location.href="http://www.site_a_ser_redirecionado.com"
+            //location.href="pageNotFound.html";
         }
     }
     return data;
