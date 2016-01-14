@@ -171,7 +171,7 @@ function getParameterByName(name) {
      if (name === null || name.length === 0){
         location.href='pageNotFound.html';
     }
-    
+
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
     var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
         results = regex.exec(location.search);
@@ -224,9 +224,13 @@ function busca(){
                     }
 
                     this.id_director = String(data.directors[i].FIELD6);
-                    console.log(id_director);
+            
 
-                    this.biografia = data.directors[i].FIELD3.substring(0,240) + '...' + '<a href="http://www.imdb.com/name/nm'+ this.id_director +'/bio?ref_=nm_ov_bio_sm"> See full bio</a> <br /><br />';
+                    if (data.directors[i].FIELD3 == "NA"){
+                        this.biografia = '<a href="http://www.imdb.com/name/nm'+ this.id_director +'/bio?ref_=nm_ov_bio_sm"> See full bio</a> <br /><br />';
+                    }else{                        
+                        this.biografia = data.directors[i].FIELD3.substring(0,240) + '...' + '<a href="http://www.imdb.com/name/nm'+ this.id_director +'/bio?ref_=nm_ov_bio_sm"> See full bio</a> <br /><br />';
+                    }
 
                 }
 
