@@ -96,7 +96,7 @@
                 <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
                 <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
                 <!-- NOTE: To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-                <form name="sentMessage" id="contactForm" novalidate>
+                <form name="sentMessage" id="contactForm" novalidate action="mailto:arthurlustosa@outlook.com">
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>Name</label>
@@ -136,6 +136,24 @@
             </div>
         </div>
     </div>
+
+    <div>
+        <script> 
+        function enviar_formulario(){ 
+           document.formulario1.submit() 
+        } 
+        </script> 
+        </head> 
+
+        <body> 
+        <form action="pagina_destino.php" method=post name="formulario1"> 
+        <input type="hidden" name="campo1" value="valor"> 
+        <input type="hidden" name="campo2" value="otroValor"> 
+        </form> 
+
+        <a href="javascript:enviar_formulario()">Enviar formulario</a> 
+    </div>
+
 
     <hr>
 
