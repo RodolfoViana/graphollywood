@@ -8,6 +8,51 @@
     "FIELD5":"deathDate",
     "FIELD6":"id"
   },
+
+  {
+    "FIELD1":"Adam McKay",
+    "FIELD2":"NA",
+    "FIELD3":"NA",
+    "FIELD4":"1968-4-17",
+    "FIELD5":"",
+    "FIELD6":"0570912"
+  },
+
+  {
+    "FIELD1":"Tom McCarthy",
+    "FIELD2":"NA",
+    "FIELD3":"NA",
+    "FIELD4":"1966-130",
+    "FIELD5":"",
+    "FIELD6":"0565336"
+  },
+
+  {
+    "FIELD1":"George Miller",
+    "FIELD2":"NA",
+    "FIELD3":"NA",
+    "FIELD4":"1945-3-3",
+    "FIELD5":"",
+    "FIELD6":"0004306"
+  },
+  {
+    "FIELD1":"Alejandro Iñárritu",
+    "FIELD2":"NA",
+    "FIELD3":"NA",
+    "FIELD4":"1963-8-15",
+    "FIELD5":"",
+    "FIELD6":"0327944"
+  },
+
+  {
+    "FIELD1":"Lenny Abrahamson",
+    "FIELD2":"NA",
+    "FIELD3":"NA",
+    "FIELD4":"1966-11-30",
+    "FIELD5":"",
+    "FIELD6":"1049433"
+  },
+
   {
     "FIELD1":"Ertem Egilmez",
     "FIELD2":"NA",
