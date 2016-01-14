@@ -174,7 +174,7 @@ function busca(){
     var urlFoto;
     var birthDate;
     var deathDate;
-    var biografia;
+    var biography;
 
     
 
@@ -190,7 +190,7 @@ function busca(){
             this.urlFoto = '';
             this.birthDate = '';
             this.deathDate = '';
-            this.biografia = '';
+            this.biography = '';
 
             buscaInputTermos = getParameterByName('director');
 
@@ -208,9 +208,11 @@ function busca(){
                         this.deathDate =  data.directors[i].FIELD5.trim() + '<br />';
                     }
 
-                    this.biografia = data.directors[i].FIELD3 + '<br /><br />';
-
+                    this.biography = data.directors[i].FIELD3 + '...' + '<a href="/name/nm0000005/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
+                    
                 }
+
+
 
 
             }
@@ -219,7 +221,7 @@ function busca(){
             $('#urlFoto').html(this.urlFoto);
             $('#birthDate').html(this.birthDate);
             $('#deathDate').html(this.deathDate);
-            $('#biografia').html(this.biografia);
+            $('#biography').html(this.biography);
 
         });
 
