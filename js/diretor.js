@@ -175,6 +175,7 @@ function busca(){
     var birthDate;
     var deathDate;
     var biography;
+    var id_director;
 
     
 
@@ -191,8 +192,10 @@ function busca(){
             this.birthDate = '';
             this.deathDate = '';
             this.biography = '';
+            this.id_director = '';
 
             buscaInputTermos = getParameterByName('director');
+            
 
             for (i = 0; i < this.qtd; i++){
                 if (buscaInputTermos == data.directors[i].FIELD1){
@@ -208,11 +211,14 @@ function busca(){
                         this.deathDate =  data.directors[i].FIELD5.trim() + '<br />';
                     }
 
-                    this.biography = data.directors[i].FIELD3 + '...' + '<a href="/name/nm0000005/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
-                    
+                    //this.id_director = data.directors[i].FIELD[6];
+
+                    this.biography = data.directors[i].FIELD3.substring(0,140) + '...' + '<a href="http://www.imdb.com/name/name/nm'+id_director+'/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
+
                 }
+            
 
-
+            console.log(biography);
 
 
             }
