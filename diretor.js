@@ -174,7 +174,8 @@ function busca(){
     var urlFoto;
     var birthDate;
     var deathDate;
-    var biografia;
+    var biography;
+    var id_director;
 
     
 
@@ -183,34 +184,36 @@ function busca(){
     busca.prototype.resgatarValores = function(){
         $('#resultado').html('Carregando dados...');
 
-        // Estrutura de resultado.
-        $.getJSON('data/info_directors.json', function(data){
+        //Estrutura de resultado.
+        $.getJSON('data/information_directors.json', function(data){
             this.qtd = data.directors.length;
             this.nome = '';
             this.urlFoto = '';
             this.birthDate = '';
             this.deathDate = '';
             this.biografia = '';
+            this.id_director = '';
 
             buscaInputTermos = getParameterByName('director');
+            
 
             for (i = 0; i < this.qtd; i++){
                 if (buscaInputTermos == data.directors[i].FIELD1){
 
                     this.nome =  data.directors[i].FIELD1 + '<br />';
-                    photo = data.directors[i].FIELD2
-
-                    this.urlFoto = '<img src=' + photo + ' class="img-responsive"><br />';
+                    this.urlFoto = '<img src=' + data.directors[i].FIELD2.trim() + '" class="img-responsive"><br />';
                     this.birthDate =  data.directors[i].FIELD4 + '<br />';
 
-
+                    //console.log(data.directors[i].FIELD2.trim());
                     if (data.directors[i].FIELD5.trim() == "NA"){
                         this.deathDate = '---';
                     }else{
                         this.deathDate =  data.directors[i].FIELD5.trim() + '<br />';
                     }
 
-                    this.biografia = data.directors[i].FIELD3 + '<br /><br />';
+                    this.id_director = data.directors[i].FIELD6
+
+                    this.biografia = data.directors[i].FIELD3.substring(0,140) + '...' + '<a href="http://www.imdb.com/name/name/nm'+id_director+'/bio?ref_=nm_ov_bio_sm">See full bio</a> <br /><br />';
 
                 }
 
