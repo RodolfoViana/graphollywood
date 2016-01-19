@@ -22,7 +22,7 @@ $.getJSON("data/movieDirectors-2015.json", function (data) {
         var linechart = nv.models.lineChart();
         //.margin({left: 100, right: 70})  //Adjust chart margins to give the x-axis some breathing room.              
 
-        linechart.forceY([0, 10]);
+        linechart.forceY([4, 10]);
         linechart.showYAxis(false).showXAxis(false);
         linechart.interactive(false);
         linechart.showLegend(false);
@@ -61,7 +61,7 @@ $.getJSON("data/movieDirectors-2015.json", function (data) {
 
         //chart.xAxis.tickFormat(d3.format('.02f'));
         chart.yAxis.tickFormat(d3.format('.02f'));
-        chart.forceY([0, 10]);
+        chart.forceY([4, 10]);
         chart.showLegend(false);
 
 
@@ -74,6 +74,7 @@ $.getJSON("data/movieDirectors-2015.json", function (data) {
         d3.select('#test1 svg')
             .datum(nv.log(director)).call(chart);
 
+       
         chart.tooltip.contentGenerator(function (d) {
 
             var html = "<table><thead><td colspan='3'>Movie: <b>" + d.point.movie + "</b></td></thead>"
